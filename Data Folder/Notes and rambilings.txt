@@ -1,0 +1,15 @@
+for outflow
+year is the time frame
+
+fips codes are state and county level identifiers. tableau can use these to generate the map. 
+wont go right into tableau raw as tableau needs the leading zeros and for some reason it drops them during the import
+
+y1 is the county of origin in year 1
+y2 is the county of destination in year 2
+n1 is the number of returns
+n2 is the number of individuals
+agi is the adjusted gross income that being in my mind the money that moved derived from the tax returns
+
+now there are a few that we might be able to not consider
+
+i don't see differences between inflow and outflow in terms of the data represented for county to county flow specifically still cleaned all together but think that the big difference might just be the foreign migration
