@@ -1,1 +1,29 @@
+Notes for Network Graph Computation pipeline including: data preparation, computation, and visualization steps to create an insightful similarity network graph and enhance user analysis capabilities.
 
+Data Merging:
+Merged the inflow and outflow migration datasets by grouping on state and county.
+Cleaned the house price dataset and merged it with the migration data.
+Processed the health dataset by removing non-numeric columns that required further processing. Only kept columns in the correct format and merged this with the migration and house price data to create a unified dataset.
+
+Data Preprocessing
+
+Feature Scaling:
+Scaled all numeric attributes in the dataset to normalize the data for similarity computation.
+Pairwise County Data Creation:
+
+Created all possible county pairs for the dataset (pairwise data). With around 3,000 counties, this produced approximately 9 million pairs for analysis.
+Similarity Matrix Calculation on AWS:
+
+Due to the large data size, the similarity matrix computation will be performed on AWS. The plan is to use an EMR cluster and an S3 bucket to compute the similarity matrix efficiently.
+The output will be a similarity measure for each county pair, which could be visualized in Tableau:
+
+ In Tableau to allow users to select a county and view how other counties relate to it in terms of similarity. The similarity metric will be reflected in color intensity—darker colors indicate higher similarity, while lighter colors show lower similarity.
+
+Network Graph Visualization:
+The network visualization aims to provide insight into county clusters with similar attributes and high interaction. This clustered view in NetworkX complements Tableau’s map view, offering a clear picture of county relationships and similarities.
+For network visualization of strong similarities (e.g., similarity > 0.7), we’ll use NetworkX to create clusters of highly similar counties that are not in the same State. This graph will help understand the relationship between counties, allowing users to see interconnected clusters.
+
+
+Next steps:
+Recalculate and refine the pricing index to improve accuracy for house price analysis.
+replace housinhg and health with updated csv from EDA step.
