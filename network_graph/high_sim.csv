@@ -1,0 +1,1609 @@
+id_1,id_2,similarity,id_A,county_code_A,county_name_A,state_code_A,state_name_A,id_B,county_code_B,county_name_B,state_code_B,state_name_B,category
+WV_005,WV_001,0.9820102899091177,WV_005,5,Boone County,54,West Virginia,WV_001,1,Barbour County,54,West Virginia,very similar
+WV_001,WV_005,0.9820102899091177,WV_001,1,Barbour County,54,West Virginia,WV_005,5,Boone County,54,West Virginia,very similar
+AR_003,MS_003,0.9799382056255331,AR_003,3,Ashley County,5,Arkansas,MS_003,3,Alcorn County,28,Mississippi,very similar
+MS_003,AR_003,0.9799382056255331,MS_003,3,Alcorn County,28,Mississippi,AR_003,3,Ashley County,5,Arkansas,very similar
+IA_009,IA_001,0.9778801397578251,IA_009,9,Audubon County,19,Iowa,IA_001,1,Adair County,19,Iowa,very similar
+IA_001,IA_009,0.9778801397578251,IA_001,1,Adair County,19,Iowa,IA_009,9,Audubon County,19,Iowa,very similar
+CA_005,CA_009,0.9749306469097273,CA_005,5,Amador County,6,California,CA_009,9,Calaveras County,6,California,very similar
+CA_009,CA_005,0.9749306469097273,CA_009,9,Calaveras County,6,California,CA_005,5,Amador County,6,California,very similar
+MS_009,SC_009,0.9743110748186419,MS_009,9,Benton County,28,Mississippi,SC_009,9,Bamberg County,45,South Carolina,very similar
+SC_009,MS_009,0.9743110748186419,SC_009,9,Bamberg County,45,South Carolina,MS_009,9,Benton County,28,Mississippi,very similar
+AL_007,AR_003,0.9705937349069942,AL_007,7,Bibb County,1,Alabama,AR_003,3,Ashley County,5,Arkansas,very similar
+AR_003,AL_007,0.9705937349069942,AR_003,3,Ashley County,5,Arkansas,AL_007,7,Bibb County,1,Alabama,very similar
+DE_003,MD_005,0.9685313529156022,DE_003,3,New Castle County,10,Delaware,MD_005,5,Baltimore County,24,Maryland,very similar
+MD_005,DE_003,0.9685313529156022,MD_005,5,Baltimore County,24,Maryland,DE_003,3,New Castle County,10,Delaware,very similar
+TN_007,TN_005,0.9671919392204439,TN_007,7,Bledsoe County,47,Tennessee,TN_005,5,Benton County,47,Tennessee,very similar
+TN_005,TN_007,0.9671919392204439,TN_005,5,Benton County,47,Tennessee,TN_007,7,Bledsoe County,47,Tennessee,very similar
+IA_005,SD_009,0.9606365291368313,IA_005,5,Allamakee County,19,Iowa,SD_009,9,Bon Homme County,46,South Dakota,very similar
+SD_009,IA_005,0.9606365291368313,SD_009,9,Bon Homme County,46,South Dakota,IA_005,5,Allamakee County,19,Iowa,very similar
+FL_007,FL_003,0.9557775572147037,FL_007,7,Bradford County,12,Florida,FL_003,3,Baker County,12,Florida,very similar
+FL_003,FL_007,0.9557775572147037,FL_003,3,Baker County,12,Florida,FL_007,7,Bradford County,12,Florida,very similar
+OK_001,AL_005,0.9547939569331434,OK_001,1,Adair County,40,Oklahoma,AL_005,5,Barbour County,1,Alabama,very similar
+AL_005,OK_001,0.9547939569331434,AL_005,5,Barbour County,1,Alabama,OK_001,1,Adair County,40,Oklahoma,very similar
+LA_001,LA_009,0.9531778485467377,LA_001,1,Acadia Parish,22,Louisiana,LA_009,9,Avoyelles Parish,22,Louisiana,very similar
+LA_009,LA_001,0.9531778485467377,LA_009,9,Avoyelles Parish,22,Louisiana,LA_001,1,Acadia Parish,22,Louisiana,very similar
+IA_001,NE_003,0.9509165144657996,IA_001,1,Adair County,19,Iowa,NE_003,3,Antelope County,31,Nebraska,very similar
+NE_003,IA_001,0.9509165144657996,NE_003,3,Antelope County,31,Nebraska,IA_001,1,Adair County,19,Iowa,very similar
+WA_007,WA_009,0.9504921173553245,WA_007,7,Chelan County,53,Washington,WA_009,9,Clallam County,53,Washington,very similar
+WA_009,WA_007,0.9504921173553245,WA_009,9,Clallam County,53,Washington,WA_007,7,Chelan County,53,Washington,very similar
+KY_001,AR_009,0.9496031010019194,KY_001,1,Adair County,21,Kentucky,AR_009,9,Boone County,5,Arkansas,very similar
+AR_009,KY_001,0.9496031010019194,AR_009,9,Boone County,5,Arkansas,KY_001,1,Adair County,21,Kentucky,very similar
+ND_009,ND_003,0.9492554913618568,ND_009,9,Bottineau County,38,North Dakota,ND_003,3,Barnes County,38,North Dakota,very similar
+ND_003,ND_009,0.9492554913618568,ND_003,3,Barnes County,38,North Dakota,ND_009,9,Bottineau County,38,North Dakota,very similar
+SC_009,MS_007,0.9490117357567247,SC_009,9,Bamberg County,45,South Carolina,MS_007,7,Attala County,28,Mississippi,very similar
+MS_007,SC_009,0.9490117357567247,MS_007,7,Attala County,28,Mississippi,SC_009,9,Bamberg County,45,South Carolina,very similar
+MS_007,MS_003,0.9472203678303341,MS_007,7,Attala County,28,Mississippi,MS_003,3,Alcorn County,28,Mississippi,very similar
+MS_003,MS_007,0.9472203678303341,MS_003,3,Alcorn County,28,Mississippi,MS_007,7,Attala County,28,Mississippi,very similar
+KY_003,KY_001,0.9466448266892137,KY_003,3,Allen County,21,Kentucky,KY_001,1,Adair County,21,Kentucky,very similar
+KY_001,KY_003,0.9466448266892137,KY_001,1,Adair County,21,Kentucky,KY_003,3,Allen County,21,Kentucky,very similar
+SC_007,SC_003,0.9448953479555118,SC_007,7,Anderson County,45,South Carolina,SC_003,3,Aiken County,45,South Carolina,very similar
+SC_003,SC_007,0.9448953479555118,SC_003,3,Aiken County,45,South Carolina,SC_007,7,Anderson County,45,South Carolina,very similar
+MS_007,MS_009,0.9447277008941559,MS_007,7,Attala County,28,Mississippi,MS_009,9,Benton County,28,Mississippi,very similar
+MS_009,MS_007,0.9447277008941559,MS_009,9,Benton County,28,Mississippi,MS_007,7,Attala County,28,Mississippi,very similar
+GA_001,AL_007,0.9443360827841281,GA_001,1,Appling County,13,Georgia,AL_007,7,Bibb County,1,Alabama,very similar
+AL_007,GA_001,0.9443360827841281,AL_007,7,Bibb County,1,Alabama,GA_001,1,Appling County,13,Georgia,very similar
+OH_007,OH_003,0.943648417917907,OH_007,7,Ashtabula County,39,Ohio,OH_003,3,Allen County,39,Ohio,very similar
+OH_003,OH_007,0.943648417917907,OH_003,3,Allen County,39,Ohio,OH_007,7,Ashtabula County,39,Ohio,very similar
+CA_007,FL_001,0.9424084713860345,CA_007,7,Butte County,6,California,FL_001,1,Alachua County,12,Florida,very similar
+FL_001,CA_007,0.9424084713860345,FL_001,1,Alachua County,12,Florida,CA_007,7,Butte County,6,California,very similar
+MT_009,MT_001,0.9415184280468132,MT_009,9,Carbon County,30,Montana,MT_001,1,Beaverhead County,30,Montana,very similar
+MT_001,MT_009,0.9415184280468132,MT_001,1,Beaverhead County,30,Montana,MT_009,9,Carbon County,30,Montana,very similar
+AL_007,MS_003,0.94017331202163,AL_007,7,Bibb County,1,Alabama,MS_003,3,Alcorn County,28,Mississippi,very similar
+MS_003,AL_007,0.94017331202163,MS_003,3,Alcorn County,28,Mississippi,AL_007,7,Bibb County,1,Alabama,very similar
+WY_009,WY_007,0.9400620671082298,WY_009,9,Converse County,56,Wyoming,WY_007,7,Carbon County,56,Wyoming,very similar
+WY_007,WY_009,0.9400620671082298,WY_007,7,Carbon County,56,Wyoming,WY_009,9,Converse County,56,Wyoming,very similar
+ID_005,WA_009,0.9395835746669273,ID_005,5,Bannock County,16,Idaho,WA_009,9,Clallam County,53,Washington,very similar
+WA_009,ID_005,0.9395835746669273,WA_009,9,Clallam County,53,Washington,ID_005,5,Bannock County,16,Idaho,very similar
+ND_003,IA_005,0.9369477372966738,ND_003,3,Barnes County,38,North Dakota,IA_005,5,Allamakee County,19,Iowa,very similar
+IA_005,ND_003,0.9369477372966738,IA_005,5,Allamakee County,19,Iowa,ND_003,3,Barnes County,38,North Dakota,very similar
+SD_009,ND_003,0.9367911841609714,SD_009,9,Bon Homme County,46,South Dakota,ND_003,3,Barnes County,38,North Dakota,very similar
+ND_003,SD_009,0.9367911841609714,ND_003,3,Barnes County,38,North Dakota,SD_009,9,Bon Homme County,46,South Dakota,very similar
+KY_009,TN_005,0.9354572903366936,KY_009,9,Barren County,21,Kentucky,TN_005,5,Benton County,47,Tennessee,very similar
+TN_005,KY_009,0.9354572903366936,TN_005,5,Benton County,47,Tennessee,KY_009,9,Barren County,21,Kentucky,very similar
+ND_009,WY_009,0.9352405309352345,ND_009,9,Bottineau County,38,North Dakota,WY_009,9,Converse County,56,Wyoming,very similar
+WY_009,ND_009,0.9352405309352345,WY_009,9,Converse County,56,Wyoming,ND_009,9,Bottineau County,38,North Dakota,very similar
+NE_001,IA_005,0.9348634998199536,NE_001,1,Adams County,31,Nebraska,IA_005,5,Allamakee County,19,Iowa,very similar
+IA_005,NE_001,0.9348634998199536,IA_005,5,Allamakee County,19,Iowa,NE_001,1,Adams County,31,Nebraska,very similar
+OK_001,WV_005,0.9342496748004796,OK_001,1,Adair County,40,Oklahoma,WV_005,5,Boone County,54,West Virginia,very similar
+WV_005,OK_001,0.9342496748004796,WV_005,5,Boone County,54,West Virginia,OK_001,1,Adair County,40,Oklahoma,very similar
+MO_009,TN_007,0.9312709915137016,MO_009,9,Barry County,29,Missouri,TN_007,7,Bledsoe County,47,Tennessee,very similar
+TN_007,MO_009,0.9312709915137016,TN_007,7,Bledsoe County,47,Tennessee,MO_009,9,Barry County,29,Missouri,very similar
+LA_007,LA_009,0.9301469984220793,LA_007,7,Assumption Parish,22,Louisiana,LA_009,9,Avoyelles Parish,22,Louisiana,very similar
+LA_009,LA_007,0.9301469984220793,LA_009,9,Avoyelles Parish,22,Louisiana,LA_007,7,Assumption Parish,22,Louisiana,very similar
+SD_009,NE_001,0.9298439553722684,SD_009,9,Bon Homme County,46,South Dakota,NE_001,1,Adams County,31,Nebraska,very similar
+NE_001,SD_009,0.9298439553722684,NE_001,1,Adams County,31,Nebraska,SD_009,9,Bon Homme County,46,South Dakota,very similar
+KY_003,MO_009,0.9267464253167853,KY_003,3,Allen County,21,Kentucky,MO_009,9,Barry County,29,Missouri,very similar
+MO_009,KY_003,0.9267464253167853,MO_009,9,Barry County,29,Missouri,KY_003,3,Allen County,21,Kentucky,very similar
+NC_001,SC_007,0.9250990369425997,NC_001,1,Alamance County,37,North Carolina,SC_007,7,Anderson County,45,South Carolina,very similar
+SC_007,NC_001,0.9250990369425997,SC_007,7,Anderson County,45,South Carolina,NC_001,1,Alamance County,37,North Carolina,very similar
+MO_009,TN_005,0.9248688741138105,MO_009,9,Barry County,29,Missouri,TN_005,5,Benton County,47,Tennessee,very similar
+TN_005,MO_009,0.9248688741138105,TN_005,5,Benton County,47,Tennessee,MO_009,9,Barry County,29,Missouri,very similar
+AR_005,AR_009,0.9242921099471073,AR_005,5,Baxter County,5,Arkansas,AR_009,9,Boone County,5,Arkansas,very similar
+AR_009,AR_005,0.9242921099471073,AR_009,9,Boone County,5,Arkansas,AR_005,5,Baxter County,5,Arkansas,very similar
+OK_005,MO_009,0.9240292931071791,OK_005,5,Atoka County,40,Oklahoma,MO_009,9,Barry County,29,Missouri,very similar
+MO_009,OK_005,0.9240292931071791,MO_009,9,Barry County,29,Missouri,OK_005,5,Atoka County,40,Oklahoma,very similar
+SC_009,MS_003,0.9239796529899718,SC_009,9,Bamberg County,45,South Carolina,MS_003,3,Alcorn County,28,Mississippi,very similar
+MS_003,SC_009,0.9239796529899718,MS_003,3,Alcorn County,28,Mississippi,SC_009,9,Bamberg County,45,South Carolina,very similar
+AR_003,AR_009,0.9237782436391461,AR_003,3,Ashley County,5,Arkansas,AR_009,9,Boone County,5,Arkansas,very similar
+AR_009,AR_003,0.9237782436391461,AR_009,9,Boone County,5,Arkansas,AR_003,3,Ashley County,5,Arkansas,very similar
+CO_005,MD_003,0.9237727202334883,CO_005,5,Arapahoe County,8,Colorado,MD_003,3,Anne Arundel County,24,Maryland,very similar
+MD_003,CO_005,0.9237727202334883,MD_003,3,Anne Arundel County,24,Maryland,CO_005,5,Arapahoe County,8,Colorado,very similar
+MS_007,AR_003,0.9237641131849285,MS_007,7,Attala County,28,Mississippi,AR_003,3,Ashley County,5,Arkansas,very similar
+AR_003,MS_007,0.9237641131849285,AR_003,3,Ashley County,5,Arkansas,MS_007,7,Attala County,28,Mississippi,very similar
+VA_001,MS_007,0.9229025543351652,VA_001,1,Accomack County,51,Virginia,MS_007,7,Attala County,28,Mississippi,very similar
+MS_007,VA_001,0.9229025543351652,MS_007,7,Attala County,28,Mississippi,VA_001,1,Accomack County,51,Virginia,very similar
+AZ_005,OR_003,0.9206167672076232,AZ_005,5,Coconino County,4,Arizona,OR_003,3,Benton County,41,Oregon,very similar
+OR_003,AZ_005,0.9206167672076232,OR_003,3,Benton County,41,Oregon,AZ_005,5,Coconino County,4,Arizona,very similar
+KY_009,MO_009,0.9174810790436854,KY_009,9,Barren County,21,Kentucky,MO_009,9,Barry County,29,Missouri,very similar
+MO_009,KY_009,0.9174810790436854,MO_009,9,Barry County,29,Missouri,KY_009,9,Barren County,21,Kentucky,very similar
+MS_003,MS_009,0.9168414925690244,MS_003,3,Alcorn County,28,Mississippi,MS_009,9,Benton County,28,Mississippi,very similar
+MS_009,MS_003,0.9168414925690244,MS_009,9,Benton County,28,Mississippi,MS_003,3,Alcorn County,28,Mississippi,very similar
+KY_001,MO_009,0.9163837576843877,KY_001,1,Adair County,21,Kentucky,MO_009,9,Barry County,29,Missouri,very similar
+MO_009,KY_001,0.9163837576843877,MO_009,9,Barry County,29,Missouri,KY_001,1,Adair County,21,Kentucky,very similar
+AL_007,AR_009,0.9155291143258953,AL_007,7,Bibb County,1,Alabama,AR_009,9,Boone County,5,Arkansas,very similar
+AR_009,AL_007,0.9155291143258953,AR_009,9,Boone County,5,Arkansas,AL_007,7,Bibb County,1,Alabama,very similar
+MS_001,MS_009,0.9153008251921769,MS_001,1,Adams County,28,Mississippi,MS_009,9,Benton County,28,Mississippi,very similar
+MS_009,MS_001,0.9153008251921769,MS_009,9,Benton County,28,Mississippi,MS_001,1,Adams County,28,Mississippi,very similar
+TN_009,SC_007,0.9151110396457393,TN_009,9,Blount County,47,Tennessee,SC_007,7,Anderson County,45,South Carolina,very similar
+SC_007,TN_009,0.9151110396457393,SC_007,7,Anderson County,45,South Carolina,TN_009,9,Blount County,47,Tennessee,very similar
+ND_009,WY_007,0.9144944867170051,ND_009,9,Bottineau County,38,North Dakota,WY_007,7,Carbon County,56,Wyoming,very similar
+WY_007,ND_009,0.9144944867170051,WY_007,7,Carbon County,56,Wyoming,ND_009,9,Bottineau County,38,North Dakota,very similar
+AR_009,KY_009,0.9143604399502036,AR_009,9,Boone County,5,Arkansas,KY_009,9,Barren County,21,Kentucky,very similar
+KY_009,AR_009,0.9143604399502036,KY_009,9,Barren County,21,Kentucky,AR_009,9,Boone County,5,Arkansas,very similar
+ID_009,ID_003,0.9138368038596958,ID_009,9,Benewah County,16,Idaho,ID_003,3,Adams County,16,Idaho,very similar
+ID_003,ID_009,0.9138368038596958,ID_003,3,Adams County,16,Idaho,ID_009,9,Benewah County,16,Idaho,very similar
+ID_001,WA_005,0.9137624111383874,ID_001,1,Ada County,16,Idaho,WA_005,5,Benton County,53,Washington,very similar
+WA_005,ID_001,0.9137624111383874,WA_005,5,Benton County,53,Washington,ID_001,1,Ada County,16,Idaho,very similar
+SD_009,IA_001,0.9125626540369443,SD_009,9,Bon Homme County,46,South Dakota,IA_001,1,Adair County,19,Iowa,very similar
+IA_001,SD_009,0.9125626540369443,IA_001,1,Adair County,19,Iowa,SD_009,9,Bon Homme County,46,South Dakota,very similar
+KS_005,IA_007,0.9122080473818059,KS_005,5,Atchison County,20,Kansas,IA_007,7,Appanoose County,19,Iowa,very similar
+IA_007,KS_005,0.9122080473818059,IA_007,7,Appanoose County,19,Iowa,KS_005,5,Atchison County,20,Kansas,very similar
+OK_001,TN_005,0.911586050635014,OK_001,1,Adair County,40,Oklahoma,TN_005,5,Benton County,47,Tennessee,very similar
+TN_005,OK_001,0.911586050635014,TN_005,5,Benton County,47,Tennessee,OK_001,1,Adair County,40,Oklahoma,very similar
+TN_007,OH_001,0.9115291713298158,TN_007,7,Bledsoe County,47,Tennessee,OH_001,1,Adams County,39,Ohio,very similar
+OH_001,TN_007,0.9115291713298158,OH_001,1,Adams County,39,Ohio,TN_007,7,Bledsoe County,47,Tennessee,very similar
+AR_009,KY_003,0.9111676598064422,AR_009,9,Boone County,5,Arkansas,KY_003,3,Allen County,21,Kentucky,very similar
+KY_003,AR_009,0.9111676598064422,KY_003,3,Allen County,21,Kentucky,AR_009,9,Boone County,5,Arkansas,very similar
+KY_003,KY_009,0.9107325993121822,KY_003,3,Allen County,21,Kentucky,KY_009,9,Barren County,21,Kentucky,very similar
+KY_009,KY_003,0.9107325993121822,KY_009,9,Barren County,21,Kentucky,KY_003,3,Allen County,21,Kentucky,very similar
+AR_009,GA_001,0.9093052015169654,AR_009,9,Boone County,5,Arkansas,GA_001,1,Appling County,13,Georgia,very similar
+GA_001,AR_009,0.9093052015169654,GA_001,1,Appling County,13,Georgia,AR_009,9,Boone County,5,Arkansas,very similar
+MO_009,OK_001,0.9092899658047099,MO_009,9,Barry County,29,Missouri,OK_001,1,Adair County,40,Oklahoma,very similar
+OK_001,MO_009,0.9092899658047099,OK_001,1,Adair County,40,Oklahoma,MO_009,9,Barry County,29,Missouri,very similar
+WV_001,WV_009,0.9090436423882933,WV_001,1,Barbour County,54,West Virginia,WV_009,9,Brooke County,54,West Virginia,very similar
+WV_009,WV_001,0.9090436423882933,WV_009,9,Brooke County,54,West Virginia,WV_001,1,Barbour County,54,West Virginia,very similar
+MD_003,MD_009,0.9087685237407264,MD_003,3,Anne Arundel County,24,Maryland,MD_009,9,Calvert County,24,Maryland,very similar
+MD_009,MD_003,0.9087685237407264,MD_009,9,Calvert County,24,Maryland,MD_003,3,Anne Arundel County,24,Maryland,very similar
+OR_005,CO_001,0.9086538801179758,OR_005,5,Clackamas County,41,Oregon,CO_001,1,Adams County,8,Colorado,very similar
+CO_001,OR_005,0.9086538801179758,CO_001,1,Adams County,8,Colorado,OR_005,5,Clackamas County,41,Oregon,very similar
+AR_009,MS_003,0.9085919649645421,AR_009,9,Boone County,5,Arkansas,MS_003,3,Alcorn County,28,Mississippi,very similar
+MS_003,AR_009,0.9085919649645421,MS_003,3,Alcorn County,28,Mississippi,AR_009,9,Boone County,5,Arkansas,very similar
+IA_009,SD_009,0.9079194005083292,IA_009,9,Audubon County,19,Iowa,SD_009,9,Bon Homme County,46,South Dakota,very similar
+SD_009,IA_009,0.9079194005083292,SD_009,9,Bon Homme County,46,South Dakota,IA_009,9,Audubon County,19,Iowa,very similar
+OK_005,TN_005,0.9077273056545112,OK_005,5,Atoka County,40,Oklahoma,TN_005,5,Benton County,47,Tennessee,very similar
+TN_005,OK_005,0.9077273056545112,TN_005,5,Benton County,47,Tennessee,OK_005,5,Atoka County,40,Oklahoma,very similar
+MS_001,SC_009,0.90740855194899,MS_001,1,Adams County,28,Mississippi,SC_009,9,Bamberg County,45,South Carolina,very similar
+SC_009,MS_001,0.90740855194899,SC_009,9,Bamberg County,45,South Carolina,MS_001,1,Adams County,28,Mississippi,very similar
+KS_001,OK_003,0.9073740996184785,KS_001,1,Allen County,20,Kansas,OK_003,3,Alfalfa County,40,Oklahoma,very similar
+OK_003,KS_001,0.9073740996184785,OK_003,3,Alfalfa County,40,Oklahoma,KS_001,1,Allen County,20,Kansas,very similar
+AL_009,AR_009,0.9072671259365152,AL_009,9,Blount County,1,Alabama,AR_009,9,Boone County,5,Arkansas,very similar
+AR_009,AL_009,0.9072671259365152,AR_009,9,Boone County,5,Arkansas,AL_009,9,Blount County,1,Alabama,very similar
+ID_001,CO_005,0.9067430154728513,ID_001,1,Ada County,16,Idaho,CO_005,5,Arapahoe County,8,Colorado,very similar
+CO_005,ID_001,0.9067430154728513,CO_005,5,Arapahoe County,8,Colorado,ID_001,1,Ada County,16,Idaho,very similar
+CA_001,CO_005,0.906216966439073,CA_001,1,Alameda County,6,California,CO_005,5,Arapahoe County,8,Colorado,very similar
+CO_005,CA_001,0.906216966439073,CO_005,5,Arapahoe County,8,Colorado,CA_001,1,Alameda County,6,California,very similar
+GA_001,AR_003,0.9059975041413381,GA_001,1,Appling County,13,Georgia,AR_003,3,Ashley County,5,Arkansas,very similar
+AR_003,GA_001,0.9059975041413381,AR_003,3,Ashley County,5,Arkansas,GA_001,1,Appling County,13,Georgia,very similar
+OH_001,TN_005,0.9050285813179513,OH_001,1,Adams County,39,Ohio,TN_005,5,Benton County,47,Tennessee,very similar
+TN_005,OH_001,0.9050285813179513,TN_005,5,Benton County,47,Tennessee,OH_001,1,Adams County,39,Ohio,very similar
+KY_009,OH_001,0.9046154577560537,KY_009,9,Barren County,21,Kentucky,OH_001,1,Adams County,39,Ohio,very similar
+OH_001,KY_009,0.9046154577560537,OH_001,1,Adams County,39,Ohio,KY_009,9,Barren County,21,Kentucky,very similar
+SD_009,ND_009,0.9038252849395513,SD_009,9,Bon Homme County,46,South Dakota,ND_009,9,Bottineau County,38,North Dakota,very similar
+ND_009,SD_009,0.9038252849395513,ND_009,9,Bottineau County,38,North Dakota,SD_009,9,Bon Homme County,46,South Dakota,very similar
+CO_005,CO_001,0.9030645282818377,CO_005,5,Arapahoe County,8,Colorado,CO_001,1,Adams County,8,Colorado,very similar
+CO_001,CO_005,0.9030645282818377,CO_001,1,Adams County,8,Colorado,CO_005,5,Arapahoe County,8,Colorado,very similar
+AR_005,AL_009,0.9021277584290724,AR_005,5,Baxter County,5,Arkansas,AL_009,9,Blount County,1,Alabama,very similar
+AL_009,AR_005,0.9021277584290724,AL_009,9,Blount County,1,Alabama,AR_005,5,Baxter County,5,Arkansas,very similar
+KY_009,KY_001,0.9021179793390193,KY_009,9,Barren County,21,Kentucky,KY_001,1,Adair County,21,Kentucky,very similar
+KY_001,KY_009,0.9021179793390193,KY_001,1,Adair County,21,Kentucky,KY_009,9,Barren County,21,Kentucky,very similar
+WV_005,KY_001,0.9016811967771134,WV_005,5,Boone County,54,West Virginia,KY_001,1,Adair County,21,Kentucky,very similar
+KY_001,WV_005,0.9016811967771134,KY_001,1,Adair County,21,Kentucky,WV_005,5,Boone County,54,West Virginia,very similar
+AR_009,OK_005,0.9016668184829303,AR_009,9,Boone County,5,Arkansas,OK_005,5,Atoka County,40,Oklahoma,very similar
+OK_005,AR_009,0.9016668184829303,OK_005,5,Atoka County,40,Oklahoma,AR_009,9,Boone County,5,Arkansas,very similar
+KY_001,OK_001,0.9014344579001455,KY_001,1,Adair County,21,Kentucky,OK_001,1,Adair County,40,Oklahoma,very similar
+OK_001,KY_001,0.9014344579001455,OK_001,1,Adair County,40,Oklahoma,KY_001,1,Adair County,21,Kentucky,very similar
+NE_003,IA_009,0.9009106451328488,NE_003,3,Antelope County,31,Nebraska,IA_009,9,Audubon County,19,Iowa,very similar
+IA_009,NE_003,0.9009106451328488,IA_009,9,Audubon County,19,Iowa,NE_003,3,Antelope County,31,Nebraska,very similar
+KY_001,WV_001,0.899043321720254,KY_001,1,Adair County,21,Kentucky,WV_001,1,Barbour County,54,West Virginia,similar
+WV_001,KY_001,0.899043321720254,WV_001,1,Barbour County,54,West Virginia,KY_001,1,Adair County,21,Kentucky,similar
+WY_005,ND_003,0.8990093872210586,WY_005,5,Campbell County,56,Wyoming,ND_003,3,Barnes County,38,North Dakota,similar
+ND_003,WY_005,0.8990093872210586,ND_003,3,Barnes County,38,North Dakota,WY_005,5,Campbell County,56,Wyoming,similar
+CA_001,DE_003,0.8985348290964159,CA_001,1,Alameda County,6,California,DE_003,3,New Castle County,10,Delaware,similar
+DE_003,CA_001,0.8985348290964159,DE_003,3,New Castle County,10,Delaware,CA_001,1,Alameda County,6,California,similar
+KY_001,TN_005,0.8981431650588595,KY_001,1,Adair County,21,Kentucky,TN_005,5,Benton County,47,Tennessee,similar
+TN_005,KY_001,0.8981431650588595,TN_005,5,Benton County,47,Tennessee,KY_001,1,Adair County,21,Kentucky,similar
+OR_005,CO_005,0.8976545741365184,OR_005,5,Clackamas County,41,Oregon,CO_005,5,Arapahoe County,8,Colorado,similar
+CO_005,OR_005,0.8976545741365184,CO_005,5,Arapahoe County,8,Colorado,OR_005,5,Clackamas County,41,Oregon,similar
+MO_001,NM_006,0.8973412628821085,MO_001,1,Adair County,29,Missouri,NM_006,6,Cibola County,35,New Mexico,similar
+NM_006,MO_001,0.8973412628821085,NM_006,6,Cibola County,35,New Mexico,MO_001,1,Adair County,29,Missouri,similar
+LA_001,LA_007,0.8971711499134826,LA_001,1,Acadia Parish,22,Louisiana,LA_007,7,Assumption Parish,22,Louisiana,similar
+LA_007,LA_001,0.8971711499134826,LA_007,7,Assumption Parish,22,Louisiana,LA_001,1,Acadia Parish,22,Louisiana,similar
+MD_003,MD_005,0.8969761326260809,MD_003,3,Anne Arundel County,24,Maryland,MD_005,5,Baltimore County,24,Maryland,similar
+MD_005,MD_003,0.8969761326260809,MD_005,5,Baltimore County,24,Maryland,MD_003,3,Anne Arundel County,24,Maryland,similar
+DE_003,MD_003,0.8964192026987133,DE_003,3,New Castle County,10,Delaware,MD_003,3,Anne Arundel County,24,Maryland,similar
+MD_003,DE_003,0.8964192026987133,MD_003,3,Anne Arundel County,24,Maryland,DE_003,3,New Castle County,10,Delaware,similar
+LA_003,LA_007,0.8959445194603021,LA_003,3,Allen Parish,22,Louisiana,LA_007,7,Assumption Parish,22,Louisiana,similar
+LA_007,LA_003,0.8959445194603021,LA_007,7,Assumption Parish,22,Louisiana,LA_003,3,Allen Parish,22,Louisiana,similar
+OH_009,MO_001,0.8957847957421787,OH_009,9,Athens County,39,Ohio,MO_001,1,Adair County,29,Missouri,similar
+MO_001,OH_009,0.8957847957421787,MO_001,1,Adair County,29,Missouri,OH_009,9,Athens County,39,Ohio,similar
+TN_005,KY_003,0.895296046200748,TN_005,5,Benton County,47,Tennessee,KY_003,3,Allen County,21,Kentucky,similar
+KY_003,TN_005,0.895296046200748,KY_003,3,Allen County,21,Kentucky,TN_005,5,Benton County,47,Tennessee,similar
+CA_007,AZ_005,0.8950266454946657,CA_007,7,Butte County,6,California,AZ_005,5,Coconino County,4,Arizona,similar
+AZ_005,CA_007,0.8950266454946657,AZ_005,5,Coconino County,4,Arizona,CA_007,7,Butte County,6,California,similar
+SD_009,NE_003,0.894932756996997,SD_009,9,Bon Homme County,46,South Dakota,NE_003,3,Antelope County,31,Nebraska,similar
+NE_003,SD_009,0.894932756996997,NE_003,3,Antelope County,31,Nebraska,SD_009,9,Bon Homme County,46,South Dakota,similar
+TN_001,WV_003,0.8945433535939873,TN_001,1,Anderson County,47,Tennessee,WV_003,3,Berkeley County,54,West Virginia,similar
+WV_003,TN_001,0.8945433535939873,WV_003,3,Berkeley County,54,West Virginia,TN_001,1,Anderson County,47,Tennessee,similar
+KY_003,TN_007,0.8942926416379312,KY_003,3,Allen County,21,Kentucky,TN_007,7,Bledsoe County,47,Tennessee,similar
+TN_007,KY_003,0.8942926416379312,TN_007,7,Bledsoe County,47,Tennessee,KY_003,3,Allen County,21,Kentucky,similar
+MS_001,AL_005,0.8940682180621186,MS_001,1,Adams County,28,Mississippi,AL_005,5,Barbour County,1,Alabama,similar
+AL_005,MS_001,0.8940682180621186,AL_005,5,Barbour County,1,Alabama,MS_001,1,Adams County,28,Mississippi,similar
+CA_001,MD_005,0.893036300208934,CA_001,1,Alameda County,6,California,MD_005,5,Baltimore County,24,Maryland,similar
+MD_005,CA_001,0.893036300208934,MD_005,5,Baltimore County,24,Maryland,CA_001,1,Alameda County,6,California,similar
+GA_001,OK_005,0.8919644655034159,GA_001,1,Appling County,13,Georgia,OK_005,5,Atoka County,40,Oklahoma,similar
+OK_005,GA_001,0.8919644655034159,OK_005,5,Atoka County,40,Oklahoma,GA_001,1,Appling County,13,Georgia,similar
+KY_009,TN_007,0.8906721406352553,KY_009,9,Barren County,21,Kentucky,TN_007,7,Bledsoe County,47,Tennessee,similar
+TN_007,KY_009,0.8906721406352553,TN_007,7,Bledsoe County,47,Tennessee,KY_009,9,Barren County,21,Kentucky,similar
+CA_001,MD_003,0.8900248590156448,CA_001,1,Alameda County,6,California,MD_003,3,Anne Arundel County,24,Maryland,similar
+MD_003,CA_001,0.8900248590156448,MD_003,3,Anne Arundel County,24,Maryland,CA_001,1,Alameda County,6,California,similar
+AR_007,AL_003,0.8882810602730777,AR_007,7,Benton County,5,Arkansas,AL_003,3,Baldwin County,1,Alabama,similar
+AL_003,AR_007,0.8882810602730777,AL_003,3,Baldwin County,1,Alabama,AR_007,7,Benton County,5,Arkansas,similar
+WY_009,WY_005,0.8871465228852647,WY_009,9,Converse County,56,Wyoming,WY_005,5,Campbell County,56,Wyoming,similar
+WY_005,WY_009,0.8871465228852647,WY_005,5,Campbell County,56,Wyoming,WY_009,9,Converse County,56,Wyoming,similar
+AR_003,KY_001,0.8866915415441388,AR_003,3,Ashley County,5,Arkansas,KY_001,1,Adair County,21,Kentucky,similar
+KY_001,AR_003,0.8866915415441388,KY_001,1,Adair County,21,Kentucky,AR_003,3,Ashley County,5,Arkansas,similar
+AR_003,SC_009,0.8860496803645691,AR_003,3,Ashley County,5,Arkansas,SC_009,9,Bamberg County,45,South Carolina,similar
+SC_009,AR_003,0.8860496803645691,SC_009,9,Bamberg County,45,South Carolina,AR_003,3,Ashley County,5,Arkansas,similar
+DE_005,DE_001,0.8860034583997671,DE_005,5,Sussex County,10,Delaware,DE_001,1,Kent County,10,Delaware,similar
+DE_001,DE_005,0.8860034583997671,DE_001,1,Kent County,10,Delaware,DE_005,5,Sussex County,10,Delaware,similar
+GA_001,MS_003,0.885778328660451,GA_001,1,Appling County,13,Georgia,MS_003,3,Alcorn County,28,Mississippi,similar
+MS_003,GA_001,0.885778328660451,MS_003,3,Alcorn County,28,Mississippi,GA_001,1,Appling County,13,Georgia,similar
+OK_005,KY_003,0.8850604112745531,OK_005,5,Atoka County,40,Oklahoma,KY_003,3,Allen County,21,Kentucky,similar
+KY_003,OK_005,0.8850604112745531,KY_003,3,Allen County,21,Kentucky,OK_005,5,Atoka County,40,Oklahoma,similar
+MS_001,MS_007,0.8847666913451022,MS_001,1,Adams County,28,Mississippi,MS_007,7,Attala County,28,Mississippi,similar
+MS_007,MS_001,0.8847666913451022,MS_007,7,Attala County,28,Mississippi,MS_001,1,Adams County,28,Mississippi,similar
+WY_009,ND_003,0.8834174224427225,WY_009,9,Converse County,56,Wyoming,ND_003,3,Barnes County,38,North Dakota,similar
+ND_003,WY_009,0.8834174224427225,ND_003,3,Barnes County,38,North Dakota,WY_009,9,Converse County,56,Wyoming,similar
+OK_005,KY_001,0.8821663747264007,OK_005,5,Atoka County,40,Oklahoma,KY_001,1,Adair County,21,Kentucky,similar
+KY_001,OK_005,0.8821663747264007,KY_001,1,Adair County,21,Kentucky,OK_005,5,Atoka County,40,Oklahoma,similar
+MO_009,FL_007,0.8819300825855073,MO_009,9,Barry County,29,Missouri,FL_007,7,Bradford County,12,Florida,similar
+FL_007,MO_009,0.8819300825855073,FL_007,7,Bradford County,12,Florida,MO_009,9,Barry County,29,Missouri,similar
+OR_005,WA_005,0.8809602142521124,OR_005,5,Clackamas County,41,Oregon,WA_005,5,Benton County,53,Washington,similar
+WA_005,OR_005,0.8809602142521124,WA_005,5,Benton County,53,Washington,OR_005,5,Clackamas County,41,Oregon,similar
+WV_005,AL_005,0.8804684644001078,WV_005,5,Boone County,54,West Virginia,AL_005,5,Barbour County,1,Alabama,similar
+AL_005,WV_005,0.8804684644001078,AL_005,5,Barbour County,1,Alabama,WV_005,5,Boone County,54,West Virginia,similar
+OK_001,WV_001,0.8796705305277047,OK_001,1,Adair County,40,Oklahoma,WV_001,1,Barbour County,54,West Virginia,similar
+WV_001,OK_001,0.8796705305277047,WV_001,1,Barbour County,54,West Virginia,OK_001,1,Adair County,40,Oklahoma,similar
+AR_009,MO_009,0.8796022801221212,AR_009,9,Boone County,5,Arkansas,MO_009,9,Barry County,29,Missouri,similar
+MO_009,AR_009,0.8796022801221212,MO_009,9,Barry County,29,Missouri,AR_009,9,Boone County,5,Arkansas,similar
+KS_005,KS_001,0.8794291113750283,KS_005,5,Atchison County,20,Kansas,KS_001,1,Allen County,20,Kansas,similar
+KS_001,KS_005,0.8794291113750283,KS_001,1,Allen County,20,Kansas,KS_005,5,Atchison County,20,Kansas,similar
+AL_007,KY_001,0.8792697812672949,AL_007,7,Bibb County,1,Alabama,KY_001,1,Adair County,21,Kentucky,similar
+KY_001,AL_007,0.8792697812672949,KY_001,1,Adair County,21,Kentucky,AL_007,7,Bibb County,1,Alabama,similar
+ND_009,WY_005,0.8790288072264154,ND_009,9,Bottineau County,38,North Dakota,WY_005,5,Campbell County,56,Wyoming,similar
+WY_005,ND_009,0.8790288072264154,WY_005,5,Campbell County,56,Wyoming,ND_009,9,Bottineau County,38,North Dakota,similar
+MO_009,TN_003,0.8785971099416225,MO_009,9,Barry County,29,Missouri,TN_003,3,Bedford County,47,Tennessee,similar
+TN_003,MO_009,0.8785971099416225,TN_003,3,Bedford County,47,Tennessee,MO_009,9,Barry County,29,Missouri,similar
+NC_001,TN_009,0.8785460419424216,NC_001,1,Alamance County,37,North Carolina,TN_009,9,Blount County,47,Tennessee,similar
+TN_009,NC_001,0.8785460419424216,TN_009,9,Blount County,47,Tennessee,NC_001,1,Alamance County,37,North Carolina,similar
+SC_007,DE_001,0.8784459748615702,SC_007,7,Anderson County,45,South Carolina,DE_001,1,Kent County,10,Delaware,similar
+DE_001,SC_007,0.8784459748615702,DE_001,1,Kent County,10,Delaware,SC_007,7,Anderson County,45,South Carolina,similar
+AL_007,MS_007,0.8781797422572793,AL_007,7,Bibb County,1,Alabama,MS_007,7,Attala County,28,Mississippi,similar
+MS_007,AL_007,0.8781797422572793,MS_007,7,Attala County,28,Mississippi,AL_007,7,Bibb County,1,Alabama,similar
+MT_007,MT_009,0.8775810624446906,MT_007,7,Broadwater County,30,Montana,MT_009,9,Carbon County,30,Montana,similar
+MT_009,MT_007,0.8775810624446906,MT_009,9,Carbon County,30,Montana,MT_007,7,Broadwater County,30,Montana,similar
+AL_005,NC_007,0.8763747523789035,AL_005,5,Barbour County,1,Alabama,NC_007,7,Anson County,37,North Carolina,similar
+NC_007,AL_005,0.8763747523789035,NC_007,7,Anson County,37,North Carolina,AL_005,5,Barbour County,1,Alabama,similar
+MS_009,AR_003,0.8760780108720202,MS_009,9,Benton County,28,Mississippi,AR_003,3,Ashley County,5,Arkansas,similar
+AR_003,MS_009,0.8760780108720202,AR_003,3,Ashley County,5,Arkansas,MS_009,9,Benton County,28,Mississippi,similar
+MS_001,MS_003,0.87579635023344,MS_001,1,Adams County,28,Mississippi,MS_003,3,Alcorn County,28,Mississippi,similar
+MS_003,MS_001,0.87579635023344,MS_003,3,Alcorn County,28,Mississippi,MS_001,1,Adams County,28,Mississippi,similar
+TN_005,WV_005,0.8756938223929883,TN_005,5,Benton County,47,Tennessee,WV_005,5,Boone County,54,West Virginia,similar
+WV_005,TN_005,0.8756938223929883,WV_005,5,Boone County,54,West Virginia,TN_005,5,Benton County,47,Tennessee,similar
+LA_009,MS_003,0.8741836283226079,LA_009,9,Avoyelles Parish,22,Louisiana,MS_003,3,Alcorn County,28,Mississippi,similar
+MS_003,LA_009,0.8741836283226079,MS_003,3,Alcorn County,28,Mississippi,LA_009,9,Avoyelles Parish,22,Louisiana,similar
+CA_001,NV_003,0.8737338919210019,CA_001,1,Alameda County,6,California,NV_003,3,Clark County,32,Nevada,similar
+NV_003,CA_001,0.8737338919210019,NV_003,3,Clark County,32,Nevada,CA_001,1,Alameda County,6,California,similar
+NM_001,CO_005,0.8735966057687597,NM_001,1,Bernalillo County,35,New Mexico,CO_005,5,Arapahoe County,8,Colorado,similar
+CO_005,NM_001,0.8735966057687597,CO_005,5,Arapahoe County,8,Colorado,NM_001,1,Bernalillo County,35,New Mexico,similar
+IA_005,NE_003,0.873562406766354,IA_005,5,Allamakee County,19,Iowa,NE_003,3,Antelope County,31,Nebraska,similar
+NE_003,IA_005,0.873562406766354,NE_003,3,Antelope County,31,Nebraska,IA_005,5,Allamakee County,19,Iowa,similar
+TN_003,TN_007,0.8735304857409328,TN_003,3,Bedford County,47,Tennessee,TN_007,7,Bledsoe County,47,Tennessee,similar
+TN_007,TN_003,0.8735304857409328,TN_007,7,Bledsoe County,47,Tennessee,TN_003,3,Bedford County,47,Tennessee,similar
+SC_009,VA_001,0.8727045910217712,SC_009,9,Bamberg County,45,South Carolina,VA_001,1,Accomack County,51,Virginia,similar
+VA_001,SC_009,0.8727045910217712,VA_001,1,Accomack County,51,Virginia,SC_009,9,Bamberg County,45,South Carolina,similar
+OK_001,TN_007,0.8726952639498671,OK_001,1,Adair County,40,Oklahoma,TN_007,7,Bledsoe County,47,Tennessee,similar
+TN_007,OK_001,0.8726952639498671,TN_007,7,Bledsoe County,47,Tennessee,OK_001,1,Adair County,40,Oklahoma,similar
+WY_003,WY_009,0.8724355092409395,WY_003,3,Big Horn County,56,Wyoming,WY_009,9,Converse County,56,Wyoming,similar
+WY_009,WY_003,0.8724355092409395,WY_009,9,Converse County,56,Wyoming,WY_003,3,Big Horn County,56,Wyoming,similar
+LA_009,SC_009,0.8723431930758409,LA_009,9,Avoyelles Parish,22,Louisiana,SC_009,9,Bamberg County,45,South Carolina,similar
+SC_009,LA_009,0.8723431930758409,SC_009,9,Bamberg County,45,South Carolina,LA_009,9,Avoyelles Parish,22,Louisiana,similar
+OH_001,KY_001,0.8722270015417527,OH_001,1,Adams County,39,Ohio,KY_001,1,Adair County,21,Kentucky,similar
+KY_001,OH_001,0.8722270015417527,KY_001,1,Adair County,21,Kentucky,OH_001,1,Adams County,39,Ohio,similar
+GA_001,MS_009,0.8714873057903194,GA_001,1,Appling County,13,Georgia,MS_009,9,Benton County,28,Mississippi,similar
+MS_009,GA_001,0.8714873057903194,MS_009,9,Benton County,28,Mississippi,GA_001,1,Appling County,13,Georgia,similar
+ND_009,IA_005,0.8713576589676943,ND_009,9,Bottineau County,38,North Dakota,IA_005,5,Allamakee County,19,Iowa,similar
+IA_005,ND_009,0.8713576589676943,IA_005,5,Allamakee County,19,Iowa,ND_009,9,Bottineau County,38,North Dakota,similar
+TN_005,AR_009,0.8712624389441026,TN_005,5,Benton County,47,Tennessee,AR_009,9,Boone County,5,Arkansas,similar
+AR_009,TN_005,0.8712624389441026,AR_009,9,Boone County,5,Arkansas,TN_005,5,Benton County,47,Tennessee,similar
+MS_003,AR_005,0.8703344926555018,MS_003,3,Alcorn County,28,Mississippi,AR_005,5,Baxter County,5,Arkansas,similar
+AR_005,MS_003,0.8703344926555018,AR_005,5,Baxter County,5,Arkansas,MS_003,3,Alcorn County,28,Mississippi,similar
+DE_001,NC_001,0.8698664828756011,DE_001,1,Kent County,10,Delaware,NC_001,1,Alamance County,37,North Carolina,similar
+NC_001,DE_001,0.8698664828756011,NC_001,1,Alamance County,37,North Carolina,DE_001,1,Kent County,10,Delaware,similar
+WV_005,MS_001,0.8698048769571758,WV_005,5,Boone County,54,West Virginia,MS_001,1,Adams County,28,Mississippi,similar
+MS_001,WV_005,0.8698048769571758,MS_001,1,Adams County,28,Mississippi,WV_005,5,Boone County,54,West Virginia,similar
+IA_005,IA_001,0.8695701508435952,IA_005,5,Allamakee County,19,Iowa,IA_001,1,Adair County,19,Iowa,similar
+IA_001,IA_005,0.8695701508435952,IA_001,1,Adair County,19,Iowa,IA_005,5,Allamakee County,19,Iowa,similar
+OK_001,OK_005,0.8689625143355364,OK_001,1,Adair County,40,Oklahoma,OK_005,5,Atoka County,40,Oklahoma,similar
+OK_005,OK_001,0.8689625143355364,OK_005,5,Atoka County,40,Oklahoma,OK_001,1,Adair County,40,Oklahoma,similar
+AL_003,FL_009,0.8687222254231309,AL_003,3,Baldwin County,1,Alabama,FL_009,9,Brevard County,12,Florida,similar
+FL_009,AL_003,0.8687222254231309,FL_009,9,Brevard County,12,Florida,AL_003,3,Baldwin County,1,Alabama,similar
+MT_001,MT_007,0.8685230543708817,MT_001,1,Beaverhead County,30,Montana,MT_007,7,Broadwater County,30,Montana,similar
+MT_007,MT_001,0.8685230543708817,MT_007,7,Broadwater County,30,Montana,MT_001,1,Beaverhead County,30,Montana,similar
+GA_001,KY_001,0.8684437774556231,GA_001,1,Appling County,13,Georgia,KY_001,1,Adair County,21,Kentucky,similar
+KY_001,GA_001,0.8684437774556231,KY_001,1,Adair County,21,Kentucky,GA_001,1,Appling County,13,Georgia,similar
+AL_007,SC_001,0.8681901482543576,AL_007,7,Bibb County,1,Alabama,SC_001,1,Abbeville County,45,South Carolina,similar
+SC_001,AL_007,0.8681901482543576,SC_001,1,Abbeville County,45,South Carolina,AL_007,7,Bibb County,1,Alabama,similar
+KY_001,TN_007,0.8679801572119316,KY_001,1,Adair County,21,Kentucky,TN_007,7,Bledsoe County,47,Tennessee,similar
+TN_007,KY_001,0.8679801572119316,TN_007,7,Bledsoe County,47,Tennessee,KY_001,1,Adair County,21,Kentucky,similar
+SD_005,ND_003,0.8677825939339507,SD_005,5,Beadle County,46,South Dakota,ND_003,3,Barnes County,38,North Dakota,similar
+ND_003,SD_005,0.8677825939339507,ND_003,3,Barnes County,38,North Dakota,SD_005,5,Beadle County,46,South Dakota,similar
+AR_009,WV_005,0.8673326238916689,AR_009,9,Boone County,5,Arkansas,WV_005,5,Boone County,54,West Virginia,similar
+WV_005,AR_009,0.8673326238916689,WV_005,5,Boone County,54,West Virginia,AR_009,9,Boone County,5,Arkansas,similar
+CA_001,CO_001,0.8670213656642431,CA_001,1,Alameda County,6,California,CO_001,1,Adams County,8,Colorado,similar
+CO_001,CA_001,0.8670213656642431,CO_001,1,Adams County,8,Colorado,CA_001,1,Alameda County,6,California,similar
+MS_009,AL_007,0.866979526933742,MS_009,9,Benton County,28,Mississippi,AL_007,7,Bibb County,1,Alabama,similar
+AL_007,MS_009,0.866979526933742,AL_007,7,Bibb County,1,Alabama,MS_009,9,Benton County,28,Mississippi,similar
+NE_001,IA_001,0.8666211770888946,NE_001,1,Adams County,31,Nebraska,IA_001,1,Adair County,19,Iowa,similar
+IA_001,NE_001,0.8666211770888946,IA_001,1,Adair County,19,Iowa,NE_001,1,Adams County,31,Nebraska,similar
+KY_005,AL_007,0.866313510759456,KY_005,5,Anderson County,21,Kentucky,AL_007,7,Bibb County,1,Alabama,similar
+AL_007,KY_005,0.866313510759456,AL_007,7,Bibb County,1,Alabama,KY_005,5,Anderson County,21,Kentucky,similar
+TN_007,NC_007,0.8660588529886256,TN_007,7,Bledsoe County,47,Tennessee,NC_007,7,Anson County,37,North Carolina,similar
+NC_007,TN_007,0.8660588529886256,NC_007,7,Anson County,37,North Carolina,TN_007,7,Bledsoe County,47,Tennessee,similar
+TN_003,KY_009,0.8657364343746968,TN_003,3,Bedford County,47,Tennessee,KY_009,9,Barren County,21,Kentucky,similar
+KY_009,TN_003,0.8657364343746968,KY_009,9,Barren County,21,Kentucky,TN_003,3,Bedford County,47,Tennessee,similar
+MS_003,VA_001,0.865507097659775,MS_003,3,Alcorn County,28,Mississippi,VA_001,1,Accomack County,51,Virginia,similar
+VA_001,MS_003,0.865507097659775,VA_001,1,Accomack County,51,Virginia,MS_003,3,Alcorn County,28,Mississippi,similar
+MS_007,AL_005,0.8650010790699093,MS_007,7,Attala County,28,Mississippi,AL_005,5,Barbour County,1,Alabama,similar
+AL_005,MS_007,0.8650010790699093,AL_005,5,Barbour County,1,Alabama,MS_007,7,Attala County,28,Mississippi,similar
+SC_003,NC_001,0.8648230564117971,SC_003,3,Aiken County,45,South Carolina,NC_001,1,Alamance County,37,North Carolina,similar
+NC_001,SC_003,0.8648230564117971,NC_001,1,Alamance County,37,North Carolina,SC_003,3,Aiken County,45,South Carolina,similar
+WV_001,AR_009,0.8647856224884871,WV_001,1,Barbour County,54,West Virginia,AR_009,9,Boone County,5,Arkansas,similar
+AR_009,WV_001,0.8647856224884871,AR_009,9,Boone County,5,Arkansas,WV_001,1,Barbour County,54,West Virginia,similar
+LA_001,LA_003,0.8643711046305059,LA_001,1,Acadia Parish,22,Louisiana,LA_003,3,Allen Parish,22,Louisiana,similar
+LA_003,LA_001,0.8643711046305059,LA_003,3,Allen Parish,22,Louisiana,LA_001,1,Acadia Parish,22,Louisiana,similar
+SC_001,AL_005,0.8641878064325826,SC_001,1,Abbeville County,45,South Carolina,AL_005,5,Barbour County,1,Alabama,similar
+AL_005,SC_001,0.8641878064325826,AL_005,5,Barbour County,1,Alabama,SC_001,1,Abbeville County,45,South Carolina,similar
+DE_003,CO_005,0.864059576064881,DE_003,3,New Castle County,10,Delaware,CO_005,5,Arapahoe County,8,Colorado,similar
+CO_005,DE_003,0.864059576064881,CO_005,5,Arapahoe County,8,Colorado,DE_003,3,New Castle County,10,Delaware,similar
+MS_001,LA_009,0.8631612396141654,MS_001,1,Adams County,28,Mississippi,LA_009,9,Avoyelles Parish,22,Louisiana,similar
+LA_009,MS_001,0.8631612396141654,LA_009,9,Avoyelles Parish,22,Louisiana,MS_001,1,Adams County,28,Mississippi,similar
+WV_005,WV_009,0.8630119844313199,WV_005,5,Boone County,54,West Virginia,WV_009,9,Brooke County,54,West Virginia,similar
+WV_009,WV_005,0.8630119844313199,WV_009,9,Brooke County,54,West Virginia,WV_005,5,Boone County,54,West Virginia,similar
+NC_007,KY_003,0.8628666803151802,NC_007,7,Anson County,37,North Carolina,KY_003,3,Allen County,21,Kentucky,similar
+KY_003,NC_007,0.8628666803151802,KY_003,3,Allen County,21,Kentucky,NC_007,7,Anson County,37,North Carolina,similar
+MS_009,VA_001,0.8627163701094924,MS_009,9,Benton County,28,Mississippi,VA_001,1,Accomack County,51,Virginia,similar
+VA_001,MS_009,0.8627163701094924,VA_001,1,Accomack County,51,Virginia,MS_009,9,Benton County,28,Mississippi,similar
+KY_001,WV_009,0.8622960002121363,KY_001,1,Adair County,21,Kentucky,WV_009,9,Brooke County,54,West Virginia,similar
+WV_009,KY_001,0.8622960002121363,WV_009,9,Brooke County,54,West Virginia,KY_001,1,Adair County,21,Kentucky,similar
+UT_005,UT_003,0.8616798921564339,UT_005,5,Cache County,49,Utah,UT_003,3,Box Elder County,49,Utah,similar
+UT_003,UT_005,0.8616798921564339,UT_003,3,Box Elder County,49,Utah,UT_005,5,Cache County,49,Utah,similar
+OR_005,ID_001,0.8611158687583008,OR_005,5,Clackamas County,41,Oregon,ID_001,1,Ada County,16,Idaho,similar
+ID_001,OR_005,0.8611158687583008,ID_001,1,Ada County,16,Idaho,OR_005,5,Clackamas County,41,Oregon,similar
+IA_005,IA_009,0.8610336812019664,IA_005,5,Allamakee County,19,Iowa,IA_009,9,Audubon County,19,Iowa,similar
+IA_009,IA_005,0.8610336812019664,IA_009,9,Audubon County,19,Iowa,IA_005,5,Allamakee County,19,Iowa,similar
+MO_009,NC_007,0.8610209620072548,MO_009,9,Barry County,29,Missouri,NC_007,7,Anson County,37,North Carolina,similar
+NC_007,MO_009,0.8610209620072548,NC_007,7,Anson County,37,North Carolina,MO_009,9,Barry County,29,Missouri,similar
+OH_001,WV_005,0.8609488557664376,OH_001,1,Adams County,39,Ohio,WV_005,5,Boone County,54,West Virginia,similar
+WV_005,OH_001,0.8609488557664376,WV_005,5,Boone County,54,West Virginia,OH_001,1,Adams County,39,Ohio,similar
+ID_005,WA_007,0.8608645913235923,ID_005,5,Bannock County,16,Idaho,WA_007,7,Chelan County,53,Washington,similar
+WA_007,ID_005,0.8608645913235923,WA_007,7,Chelan County,53,Washington,ID_005,5,Bannock County,16,Idaho,similar
+AR_003,LA_009,0.8604741205205849,AR_003,3,Ashley County,5,Arkansas,LA_009,9,Avoyelles Parish,22,Louisiana,similar
+LA_009,AR_003,0.8604741205205849,LA_009,9,Avoyelles Parish,22,Louisiana,AR_003,3,Ashley County,5,Arkansas,similar
+OK_001,KY_009,0.8603679435514019,OK_001,1,Adair County,40,Oklahoma,KY_009,9,Barren County,21,Kentucky,similar
+KY_009,OK_001,0.8603679435514019,KY_009,9,Barren County,21,Kentucky,OK_001,1,Adair County,40,Oklahoma,similar
+OK_001,MS_001,0.8601695219840172,OK_001,1,Adair County,40,Oklahoma,MS_001,1,Adams County,28,Mississippi,similar
+MS_001,OK_001,0.8601695219840172,MS_001,1,Adams County,28,Mississippi,OK_001,1,Adair County,40,Oklahoma,similar
+LA_007,AL_007,0.8601571326936392,LA_007,7,Assumption Parish,22,Louisiana,AL_007,7,Bibb County,1,Alabama,similar
+AL_007,LA_007,0.8601571326936392,AL_007,7,Bibb County,1,Alabama,LA_007,7,Assumption Parish,22,Louisiana,similar
+SC_001,AR_003,0.8593371044898888,SC_001,1,Abbeville County,45,South Carolina,AR_003,3,Ashley County,5,Arkansas,similar
+AR_003,SC_001,0.8593371044898888,AR_003,3,Ashley County,5,Arkansas,SC_001,1,Abbeville County,45,South Carolina,similar
+KY_001,AL_005,0.8591122545298951,KY_001,1,Adair County,21,Kentucky,AL_005,5,Barbour County,1,Alabama,similar
+AL_005,KY_001,0.8591122545298951,AL_005,5,Barbour County,1,Alabama,KY_001,1,Adair County,21,Kentucky,similar
+OK_005,TN_007,0.8588958067867334,OK_005,5,Atoka County,40,Oklahoma,TN_007,7,Bledsoe County,47,Tennessee,similar
+TN_007,OK_005,0.8588958067867334,TN_007,7,Bledsoe County,47,Tennessee,OK_005,5,Atoka County,40,Oklahoma,similar
+OR_005,MD_003,0.8585965562315512,OR_005,5,Clackamas County,41,Oregon,MD_003,3,Anne Arundel County,24,Maryland,similar
+MD_003,OR_005,0.8585965562315512,MD_003,3,Anne Arundel County,24,Maryland,OR_005,5,Clackamas County,41,Oregon,similar
+OK_005,SC_001,0.8585016795946528,OK_005,5,Atoka County,40,Oklahoma,SC_001,1,Abbeville County,45,South Carolina,similar
+SC_001,OK_005,0.8585016795946528,SC_001,1,Abbeville County,45,South Carolina,OK_005,5,Atoka County,40,Oklahoma,similar
+CA_003,CO_003,0.8584985385136604,CA_003,3,Alpine County,6,California,CO_003,3,Alamosa County,8,Colorado,similar
+CO_003,CA_003,0.8584985385136604,CO_003,3,Alamosa County,8,Colorado,CA_003,3,Alpine County,6,California,similar
+FL_009,NV_003,0.8583975223692925,FL_009,9,Brevard County,12,Florida,NV_003,3,Clark County,32,Nevada,similar
+NV_003,FL_009,0.8583975223692925,NV_003,3,Clark County,32,Nevada,FL_009,9,Brevard County,12,Florida,similar
+OR_007,OR_009,0.8583547357229763,OR_007,7,Clatsop County,41,Oregon,OR_009,9,Columbia County,41,Oregon,similar
+OR_009,OR_007,0.8583547357229763,OR_009,9,Columbia County,41,Oregon,OR_007,7,Clatsop County,41,Oregon,similar
+GA_001,MS_007,0.8574492064058845,GA_001,1,Appling County,13,Georgia,MS_007,7,Attala County,28,Mississippi,similar
+MS_007,GA_001,0.8574492064058845,MS_007,7,Attala County,28,Mississippi,GA_001,1,Appling County,13,Georgia,similar
+MS_007,SC_001,0.8574385559827432,MS_007,7,Attala County,28,Mississippi,SC_001,1,Abbeville County,45,South Carolina,similar
+SC_001,MS_007,0.8574385559827432,SC_001,1,Abbeville County,45,South Carolina,MS_007,7,Attala County,28,Mississippi,similar
+KY_001,MO_007,0.8572048984664501,KY_001,1,Adair County,21,Kentucky,MO_007,7,Audrain County,29,Missouri,similar
+MO_007,KY_001,0.8572048984664501,MO_007,7,Audrain County,29,Missouri,KY_001,1,Adair County,21,Kentucky,similar
+NM_001,CA_001,0.8569261424990169,NM_001,1,Bernalillo County,35,New Mexico,CA_001,1,Alameda County,6,California,similar
+CA_001,NM_001,0.8569261424990169,CA_001,1,Alameda County,6,California,NM_001,1,Bernalillo County,35,New Mexico,similar
+MD_009,CA_001,0.8568898215944271,MD_009,9,Calvert County,24,Maryland,CA_001,1,Alameda County,6,California,similar
+CA_001,MD_009,0.8568898215944271,CA_001,1,Alameda County,6,California,MD_009,9,Calvert County,24,Maryland,similar
+SC_007,AL_003,0.8566210556572555,SC_007,7,Anderson County,45,South Carolina,AL_003,3,Baldwin County,1,Alabama,similar
+AL_003,SC_007,0.8566210556572555,AL_003,3,Baldwin County,1,Alabama,SC_007,7,Anderson County,45,South Carolina,similar
+CA_003,WY_001,0.8551513527274565,CA_003,3,Alpine County,6,California,WY_001,1,Albany County,56,Wyoming,similar
+WY_001,CA_003,0.8551513527274565,WY_001,1,Albany County,56,Wyoming,CA_003,3,Alpine County,6,California,similar
+OH_001,MO_009,0.8549693022154957,OH_001,1,Adams County,39,Ohio,MO_009,9,Barry County,29,Missouri,similar
+MO_009,OH_001,0.8549693022154957,MO_009,9,Barry County,29,Missouri,OH_001,1,Adams County,39,Ohio,similar
+AL_005,SC_009,0.8542312694020483,AL_005,5,Barbour County,1,Alabama,SC_009,9,Bamberg County,45,South Carolina,similar
+SC_009,AL_005,0.8542312694020483,SC_009,9,Bamberg County,45,South Carolina,AL_005,5,Barbour County,1,Alabama,similar
+IA_005,SD_005,0.8539700766081264,IA_005,5,Allamakee County,19,Iowa,SD_005,5,Beadle County,46,South Dakota,similar
+SD_005,IA_005,0.8539700766081264,SD_005,5,Beadle County,46,South Dakota,IA_005,5,Allamakee County,19,Iowa,similar
+AZ_001,OH_009,0.8534441288908949,AZ_001,1,Apache County,4,Arizona,OH_009,9,Athens County,39,Ohio,similar
+OH_009,AZ_001,0.8534441288908949,OH_009,9,Athens County,39,Ohio,AZ_001,1,Apache County,4,Arizona,similar
+KY_001,NC_007,0.8532633459307322,KY_001,1,Adair County,21,Kentucky,NC_007,7,Anson County,37,North Carolina,similar
+NC_007,KY_001,0.8532633459307322,NC_007,7,Anson County,37,North Carolina,KY_001,1,Adair County,21,Kentucky,similar
+CA_001,NV_005,0.853020654414667,CA_001,1,Alameda County,6,California,NV_005,5,Douglas County,32,Nevada,similar
+NV_005,CA_001,0.853020654414667,NV_005,5,Douglas County,32,Nevada,CA_001,1,Alameda County,6,California,similar
+TN_005,NC_007,0.8526015863167183,TN_005,5,Benton County,47,Tennessee,NC_007,7,Anson County,37,North Carolina,similar
+NC_007,TN_005,0.8526015863167183,NC_007,7,Anson County,37,North Carolina,TN_005,5,Benton County,47,Tennessee,similar
+NE_001,NE_003,0.8523715768064274,NE_001,1,Adams County,31,Nebraska,NE_003,3,Antelope County,31,Nebraska,similar
+NE_003,NE_001,0.8523715768064274,NE_003,3,Antelope County,31,Nebraska,NE_001,1,Adams County,31,Nebraska,similar
+GA_009,AL_005,0.8522688424965953,GA_009,9,Baldwin County,13,Georgia,AL_005,5,Barbour County,1,Alabama,similar
+AL_005,GA_009,0.8522688424965953,AL_005,5,Barbour County,1,Alabama,GA_009,9,Baldwin County,13,Georgia,similar
+AR_009,OK_001,0.850697034877897,AR_009,9,Boone County,5,Arkansas,OK_001,1,Adair County,40,Oklahoma,similar
+OK_001,AR_009,0.850697034877897,OK_001,1,Adair County,40,Oklahoma,AR_009,9,Boone County,5,Arkansas,similar
+MO_007,IN_009,0.850124931781657,MO_007,7,Audrain County,29,Missouri,IN_009,9,Blackford County,18,Indiana,similar
+IN_009,MO_007,0.850124931781657,IN_009,9,Blackford County,18,Indiana,MO_007,7,Audrain County,29,Missouri,similar
+SC_009,AL_007,0.8498646982900376,SC_009,9,Bamberg County,45,South Carolina,AL_007,7,Bibb County,1,Alabama,similar
+AL_007,SC_009,0.8498646982900376,AL_007,7,Bibb County,1,Alabama,SC_009,9,Bamberg County,45,South Carolina,similar
+MD_009,OR_005,0.8495750566335023,MD_009,9,Calvert County,24,Maryland,OR_005,5,Clackamas County,41,Oregon,similar
+OR_005,MD_009,0.8495750566335023,OR_005,5,Clackamas County,41,Oregon,MD_009,9,Calvert County,24,Maryland,similar
+CO_005,MD_005,0.8494785470252292,CO_005,5,Arapahoe County,8,Colorado,MD_005,5,Baltimore County,24,Maryland,similar
+MD_005,CO_005,0.8494785470252292,MD_005,5,Baltimore County,24,Maryland,CO_005,5,Arapahoe County,8,Colorado,similar
+SD_005,SD_009,0.8491305851916567,SD_005,5,Beadle County,46,South Dakota,SD_009,9,Bon Homme County,46,South Dakota,similar
+SD_009,SD_005,0.8491305851916567,SD_009,9,Bon Homme County,46,South Dakota,SD_005,5,Beadle County,46,South Dakota,similar
+ID_001,CO_001,0.8491088640086063,ID_001,1,Ada County,16,Idaho,CO_001,1,Adams County,8,Colorado,similar
+CO_001,ID_001,0.8491088640086063,CO_001,1,Adams County,8,Colorado,ID_001,1,Ada County,16,Idaho,similar
+WV_003,OH_007,0.8490272896781659,WV_003,3,Berkeley County,54,West Virginia,OH_007,7,Ashtabula County,39,Ohio,similar
+OH_007,WV_003,0.8490272896781659,OH_007,7,Ashtabula County,39,Ohio,WV_003,3,Berkeley County,54,West Virginia,similar
+UT_009,UT_007,0.8483594495095833,UT_009,9,Daggett County,49,Utah,UT_007,7,Carbon County,49,Utah,similar
+UT_007,UT_009,0.8483594495095833,UT_007,7,Carbon County,49,Utah,UT_009,9,Daggett County,49,Utah,similar
+MS_003,KY_001,0.8482488901372252,MS_003,3,Alcorn County,28,Mississippi,KY_001,1,Adair County,21,Kentucky,similar
+KY_001,MS_003,0.8482488901372252,KY_001,1,Adair County,21,Kentucky,MS_003,3,Alcorn County,28,Mississippi,similar
+NC_007,OK_001,0.8476636093090394,NC_007,7,Anson County,37,North Carolina,OK_001,1,Adair County,40,Oklahoma,similar
+OK_001,NC_007,0.8476636093090394,OK_001,1,Adair County,40,Oklahoma,NC_007,7,Anson County,37,North Carolina,similar
+AR_003,AR_005,0.8465103560965809,AR_003,3,Ashley County,5,Arkansas,AR_005,5,Baxter County,5,Arkansas,similar
+AR_005,AR_003,0.8465103560965809,AR_005,5,Baxter County,5,Arkansas,AR_003,3,Ashley County,5,Arkansas,similar
+ND_003,NE_001,0.8463179944168677,ND_003,3,Barnes County,38,North Dakota,NE_001,1,Adams County,31,Nebraska,similar
+NE_001,ND_003,0.8463179944168677,NE_001,1,Adams County,31,Nebraska,ND_003,3,Barnes County,38,North Dakota,similar
+UT_005,WA_009,0.8457291740091674,UT_005,5,Cache County,49,Utah,WA_009,9,Clallam County,53,Washington,similar
+WA_009,UT_005,0.8457291740091674,WA_009,9,Clallam County,53,Washington,UT_005,5,Cache County,49,Utah,similar
+NE_001,IA_009,0.8453159042803635,NE_001,1,Adams County,31,Nebraska,IA_009,9,Audubon County,19,Iowa,similar
+IA_009,NE_001,0.8453159042803635,IA_009,9,Audubon County,19,Iowa,NE_001,1,Adams County,31,Nebraska,similar
+KY_003,OH_001,0.8453137798204042,KY_003,3,Allen County,21,Kentucky,OH_001,1,Adams County,39,Ohio,similar
+OH_001,KY_003,0.8453137798204042,OH_001,1,Adams County,39,Ohio,KY_003,3,Allen County,21,Kentucky,similar
+OK_001,OH_001,0.8452788255299264,OK_001,1,Adair County,40,Oklahoma,OH_001,1,Adams County,39,Ohio,similar
+OH_001,OK_001,0.8452788255299264,OH_001,1,Adams County,39,Ohio,OK_001,1,Adair County,40,Oklahoma,similar
+TN_009,TN_001,0.8451873463213431,TN_009,9,Blount County,47,Tennessee,TN_001,1,Anderson County,47,Tennessee,similar
+TN_001,TN_009,0.8451873463213431,TN_001,1,Anderson County,47,Tennessee,TN_009,9,Blount County,47,Tennessee,similar
+OH_001,NM_006,0.8451000981010189,OH_001,1,Adams County,39,Ohio,NM_006,6,Cibola County,35,New Mexico,similar
+NM_006,OH_001,0.8451000981010189,NM_006,6,Cibola County,35,New Mexico,OH_001,1,Adams County,39,Ohio,similar
+AL_005,OK_005,0.8447897921783587,AL_005,5,Barbour County,1,Alabama,OK_005,5,Atoka County,40,Oklahoma,similar
+OK_005,AL_005,0.8447897921783587,OK_005,5,Atoka County,40,Oklahoma,AL_005,5,Barbour County,1,Alabama,similar
+WA_007,OR_009,0.8445862643171143,WA_007,7,Chelan County,53,Washington,OR_009,9,Columbia County,41,Oregon,similar
+OR_009,WA_007,0.8445862643171143,OR_009,9,Columbia County,41,Oregon,WA_007,7,Chelan County,53,Washington,similar
+WV_009,MO_007,0.8441587002059409,WV_009,9,Brooke County,54,West Virginia,MO_007,7,Audrain County,29,Missouri,similar
+MO_007,WV_009,0.8441587002059409,MO_007,7,Audrain County,29,Missouri,WV_009,9,Brooke County,54,West Virginia,similar
+AR_003,KY_003,0.843390843643037,AR_003,3,Ashley County,5,Arkansas,KY_003,3,Allen County,21,Kentucky,similar
+KY_003,AR_003,0.843390843643037,KY_003,3,Allen County,21,Kentucky,AR_003,3,Ashley County,5,Arkansas,similar
+WY_003,WY_007,0.8429931165633644,WY_003,3,Big Horn County,56,Wyoming,WY_007,7,Carbon County,56,Wyoming,similar
+WY_007,WY_003,0.8429931165633644,WY_007,7,Carbon County,56,Wyoming,WY_003,3,Big Horn County,56,Wyoming,similar
+SC_003,AL_003,0.8429048185306277,SC_003,3,Aiken County,45,South Carolina,AL_003,3,Baldwin County,1,Alabama,similar
+AL_003,SC_003,0.8429048185306277,AL_003,3,Baldwin County,1,Alabama,SC_003,3,Aiken County,45,South Carolina,similar
+MS_003,AL_001,0.8426190594842963,MS_003,3,Alcorn County,28,Mississippi,AL_001,1,Autauga County,1,Alabama,similar
+AL_001,MS_003,0.8426190594842963,AL_001,1,Autauga County,1,Alabama,MS_003,3,Alcorn County,28,Mississippi,similar
+OR_003,OR_007,0.8412202054477936,OR_003,3,Benton County,41,Oregon,OR_007,7,Clatsop County,41,Oregon,similar
+OR_007,OR_003,0.8412202054477936,OR_007,7,Clatsop County,41,Oregon,OR_003,3,Benton County,41,Oregon,similar
+WY_001,OR_003,0.8411970757474849,WY_001,1,Albany County,56,Wyoming,OR_003,3,Benton County,41,Oregon,similar
+OR_003,WY_001,0.8411970757474849,OR_003,3,Benton County,41,Oregon,WY_001,1,Albany County,56,Wyoming,similar
+TN_003,TN_005,0.8410911040351887,TN_003,3,Bedford County,47,Tennessee,TN_005,5,Benton County,47,Tennessee,similar
+TN_005,TN_003,0.8410911040351887,TN_005,5,Benton County,47,Tennessee,TN_003,3,Bedford County,47,Tennessee,similar
+KY_009,WV_005,0.8405620945986351,KY_009,9,Barren County,21,Kentucky,WV_005,5,Boone County,54,West Virginia,similar
+WV_005,KY_009,0.8405620945986351,WV_005,5,Boone County,54,West Virginia,KY_009,9,Barren County,21,Kentucky,similar
+AL_009,OK_005,0.8403653930112843,AL_009,9,Blount County,1,Alabama,OK_005,5,Atoka County,40,Oklahoma,similar
+OK_005,AL_009,0.8403653930112843,OK_005,5,Atoka County,40,Oklahoma,AL_009,9,Blount County,1,Alabama,similar
+OR_003,WA_007,0.8401698074065749,OR_003,3,Benton County,41,Oregon,WA_007,7,Chelan County,53,Washington,similar
+WA_007,OR_003,0.8401698074065749,WA_007,7,Chelan County,53,Washington,OR_003,3,Benton County,41,Oregon,similar
+CO_007,MT_009,0.8400448698406124,CO_007,7,Archuleta County,8,Colorado,MT_009,9,Carbon County,30,Montana,similar
+MT_009,CO_007,0.8400448698406124,MT_009,9,Carbon County,30,Montana,CO_007,7,Archuleta County,8,Colorado,similar
+GA_001,MS_001,0.8400142226581758,GA_001,1,Appling County,13,Georgia,MS_001,1,Adams County,28,Mississippi,similar
+MS_001,GA_001,0.8400142226581758,MS_001,1,Adams County,28,Mississippi,GA_001,1,Appling County,13,Georgia,similar
+IN_009,MO_005,0.8394545523813807,IN_009,9,Blackford County,18,Indiana,MO_005,5,Atchison County,29,Missouri,similar
+MO_005,IN_009,0.8394545523813807,MO_005,5,Atchison County,29,Missouri,IN_009,9,Blackford County,18,Indiana,similar
+WY_009,SD_009,0.8392493642348772,WY_009,9,Converse County,56,Wyoming,SD_009,9,Bon Homme County,46,South Dakota,similar
+SD_009,WY_009,0.8392493642348772,SD_009,9,Bon Homme County,46,South Dakota,WY_009,9,Converse County,56,Wyoming,similar
+NV_005,CO_005,0.8391777129080807,NV_005,5,Douglas County,32,Nevada,CO_005,5,Arapahoe County,8,Colorado,similar
+CO_005,NV_005,0.8391777129080807,CO_005,5,Arapahoe County,8,Colorado,NV_005,5,Douglas County,32,Nevada,similar
+MD_005,MD_009,0.838641400070166,MD_005,5,Baltimore County,24,Maryland,MD_009,9,Calvert County,24,Maryland,similar
+MD_009,MD_005,0.838641400070166,MD_009,9,Calvert County,24,Maryland,MD_005,5,Baltimore County,24,Maryland,similar
+KY_009,OK_005,0.8384269651513578,KY_009,9,Barren County,21,Kentucky,OK_005,5,Atoka County,40,Oklahoma,similar
+OK_005,KY_009,0.8384269651513578,OK_005,5,Atoka County,40,Oklahoma,KY_009,9,Barren County,21,Kentucky,similar
+MS_009,AL_005,0.8372137938782741,MS_009,9,Benton County,28,Mississippi,AL_005,5,Barbour County,1,Alabama,similar
+AL_005,MS_009,0.8372137938782741,AL_005,5,Barbour County,1,Alabama,MS_009,9,Benton County,28,Mississippi,similar
+DE_003,MD_009,0.8368363904299794,DE_003,3,New Castle County,10,Delaware,MD_009,9,Calvert County,24,Maryland,similar
+MD_009,DE_003,0.8368363904299794,MD_009,9,Calvert County,24,Maryland,DE_003,3,New Castle County,10,Delaware,similar
+MS_003,SC_001,0.8368181354696369,MS_003,3,Alcorn County,28,Mississippi,SC_001,1,Abbeville County,45,South Carolina,similar
+SC_001,MS_003,0.8368181354696369,SC_001,1,Abbeville County,45,South Carolina,MS_003,3,Alcorn County,28,Mississippi,similar
+NC_007,OK_005,0.8366123203177248,NC_007,7,Anson County,37,North Carolina,OK_005,5,Atoka County,40,Oklahoma,similar
+OK_005,NC_007,0.8366123203177248,OK_005,5,Atoka County,40,Oklahoma,NC_007,7,Anson County,37,North Carolina,similar
+SC_009,SC_001,0.8365406599064518,SC_009,9,Bamberg County,45,South Carolina,SC_001,1,Abbeville County,45,South Carolina,similar
+SC_001,SC_009,0.8365406599064518,SC_001,1,Abbeville County,45,South Carolina,SC_009,9,Bamberg County,45,South Carolina,similar
+WA_003,OR_001,0.8362774730560817,WA_003,3,Asotin County,53,Washington,OR_001,1,Baker County,41,Oregon,similar
+OR_001,WA_003,0.8362774730560817,OR_001,1,Baker County,41,Oregon,WA_003,3,Asotin County,53,Washington,similar
+VA_001,AR_003,0.8349905770635377,VA_001,1,Accomack County,51,Virginia,AR_003,3,Ashley County,5,Arkansas,similar
+AR_003,VA_001,0.8349905770635377,AR_003,3,Ashley County,5,Arkansas,VA_001,1,Accomack County,51,Virginia,similar
+LA_003,LA_009,0.8348687889086475,LA_003,3,Allen Parish,22,Louisiana,LA_009,9,Avoyelles Parish,22,Louisiana,similar
+LA_009,LA_003,0.8348687889086475,LA_009,9,Avoyelles Parish,22,Louisiana,LA_003,3,Allen Parish,22,Louisiana,similar
+TN_003,KY_003,0.8342149472341589,TN_003,3,Bedford County,47,Tennessee,KY_003,3,Allen County,21,Kentucky,similar
+KY_003,TN_003,0.8342149472341589,KY_003,3,Allen County,21,Kentucky,TN_003,3,Bedford County,47,Tennessee,similar
+AL_007,KY_003,0.8329465842420408,AL_007,7,Bibb County,1,Alabama,KY_003,3,Allen County,21,Kentucky,similar
+KY_003,AL_007,0.8329465842420408,KY_003,3,Allen County,21,Kentucky,AL_007,7,Bibb County,1,Alabama,similar
+AR_005,AL_007,0.8328744879195161,AR_005,5,Baxter County,5,Arkansas,AL_007,7,Bibb County,1,Alabama,similar
+AL_007,AR_005,0.8328744879195161,AL_007,7,Bibb County,1,Alabama,AR_005,5,Baxter County,5,Arkansas,similar
+AL_007,LA_009,0.8327099809695288,AL_007,7,Bibb County,1,Alabama,LA_009,9,Avoyelles Parish,22,Louisiana,similar
+LA_009,AL_007,0.8327099809695288,LA_009,9,Avoyelles Parish,22,Louisiana,AL_007,7,Bibb County,1,Alabama,similar
+IA_009,ND_009,0.8325382438323584,IA_009,9,Audubon County,19,Iowa,ND_009,9,Bottineau County,38,North Dakota,similar
+ND_009,IA_009,0.8325382438323584,ND_009,9,Bottineau County,38,North Dakota,IA_009,9,Audubon County,19,Iowa,similar
+WA_007,WA_005,0.8321870755617686,WA_007,7,Chelan County,53,Washington,WA_005,5,Benton County,53,Washington,similar
+WA_005,WA_007,0.8321870755617686,WA_005,5,Benton County,53,Washington,WA_007,7,Chelan County,53,Washington,similar
+WV_001,AL_005,0.8318712106257421,WV_001,1,Barbour County,54,West Virginia,AL_005,5,Barbour County,1,Alabama,similar
+AL_005,WV_001,0.8318712106257421,AL_005,5,Barbour County,1,Alabama,WV_001,1,Barbour County,54,West Virginia,similar
+KY_009,AL_009,0.830776495208226,KY_009,9,Barren County,21,Kentucky,AL_009,9,Blount County,1,Alabama,similar
+AL_009,KY_009,0.830776495208226,AL_009,9,Blount County,1,Alabama,KY_009,9,Barren County,21,Kentucky,similar
+MS_001,WV_001,0.8306002003536482,MS_001,1,Adams County,28,Mississippi,WV_001,1,Barbour County,54,West Virginia,similar
+WV_001,MS_001,0.8306002003536482,WV_001,1,Barbour County,54,West Virginia,MS_001,1,Adams County,28,Mississippi,similar
+MS_001,AR_003,0.8303902750501158,MS_001,1,Adams County,28,Mississippi,AR_003,3,Ashley County,5,Arkansas,similar
+AR_003,MS_001,0.8303902750501158,AR_003,3,Ashley County,5,Arkansas,MS_001,1,Adams County,28,Mississippi,similar
+CO_001,WA_005,0.8303508465179396,CO_001,1,Adams County,8,Colorado,WA_005,5,Benton County,53,Washington,similar
+WA_005,CO_001,0.8303508465179396,WA_005,5,Benton County,53,Washington,CO_001,1,Adams County,8,Colorado,similar
+KY_003,FL_007,0.8299695173474876,KY_003,3,Allen County,21,Kentucky,FL_007,7,Bradford County,12,Florida,similar
+FL_007,KY_003,0.8299695173474876,FL_007,7,Bradford County,12,Florida,KY_003,3,Allen County,21,Kentucky,similar
+TN_005,WV_001,0.8296050790011533,TN_005,5,Benton County,47,Tennessee,WV_001,1,Barbour County,54,West Virginia,similar
+WV_001,TN_005,0.8296050790011533,WV_001,1,Barbour County,54,West Virginia,TN_005,5,Benton County,47,Tennessee,similar
+CO_007,OR_003,0.8289023907646692,CO_007,7,Archuleta County,8,Colorado,OR_003,3,Benton County,41,Oregon,similar
+OR_003,CO_007,0.8289023907646692,OR_003,3,Benton County,41,Oregon,CO_007,7,Archuleta County,8,Colorado,similar
+AR_009,MS_001,0.8285249649362332,AR_009,9,Boone County,5,Arkansas,MS_001,1,Adams County,28,Mississippi,similar
+MS_001,AR_009,0.8285249649362332,MS_001,1,Adams County,28,Mississippi,AR_009,9,Boone County,5,Arkansas,similar
+NM_006,OH_009,0.8283363051311298,NM_006,6,Cibola County,35,New Mexico,OH_009,9,Athens County,39,Ohio,similar
+OH_009,NM_006,0.8283363051311298,OH_009,9,Athens County,39,Ohio,NM_006,6,Cibola County,35,New Mexico,similar
+NM_001,CO_001,0.8277521504902452,NM_001,1,Bernalillo County,35,New Mexico,CO_001,1,Adams County,8,Colorado,similar
+CO_001,NM_001,0.8277521504902452,CO_001,1,Adams County,8,Colorado,NM_001,1,Bernalillo County,35,New Mexico,similar
+TN_003,TN_001,0.8277413795907186,TN_003,3,Bedford County,47,Tennessee,TN_001,1,Anderson County,47,Tennessee,similar
+TN_001,TN_003,0.8277413795907186,TN_001,1,Anderson County,47,Tennessee,TN_003,3,Bedford County,47,Tennessee,similar
+CO_005,MD_009,0.8270924916308138,CO_005,5,Arapahoe County,8,Colorado,MD_009,9,Calvert County,24,Maryland,similar
+MD_009,CO_005,0.8270924916308138,MD_009,9,Calvert County,24,Maryland,CO_005,5,Arapahoe County,8,Colorado,similar
+WY_009,IA_005,0.8268775739808327,WY_009,9,Converse County,56,Wyoming,IA_005,5,Allamakee County,19,Iowa,similar
+IA_005,WY_009,0.8268775739808327,IA_005,5,Allamakee County,19,Iowa,WY_009,9,Converse County,56,Wyoming,similar
+WV_005,AL_009,0.8268230177047053,WV_005,5,Boone County,54,West Virginia,AL_009,9,Blount County,1,Alabama,similar
+AL_009,WV_005,0.8268230177047053,AL_009,9,Blount County,1,Alabama,WV_005,5,Boone County,54,West Virginia,similar
+SC_001,AR_009,0.8265312397615913,SC_001,1,Abbeville County,45,South Carolina,AR_009,9,Boone County,5,Arkansas,similar
+AR_009,SC_001,0.8265312397615913,AR_009,9,Boone County,5,Arkansas,SC_001,1,Abbeville County,45,South Carolina,similar
+CA_001,OR_005,0.8259441452561124,CA_001,1,Alameda County,6,California,OR_005,5,Clackamas County,41,Oregon,similar
+OR_005,CA_001,0.8259441452561124,OR_005,5,Clackamas County,41,Oregon,CA_001,1,Alameda County,6,California,similar
+NC_007,MS_007,0.8249796939267671,NC_007,7,Anson County,37,North Carolina,MS_007,7,Attala County,28,Mississippi,similar
+MS_007,NC_007,0.8249796939267671,MS_007,7,Attala County,28,Mississippi,NC_007,7,Anson County,37,North Carolina,similar
+NC_007,GA_009,0.8247946756337744,NC_007,7,Anson County,37,North Carolina,GA_009,9,Baldwin County,13,Georgia,similar
+GA_009,NC_007,0.8247946756337744,GA_009,9,Baldwin County,13,Georgia,NC_007,7,Anson County,37,North Carolina,similar
+WA_009,OR_009,0.8246992482014603,WA_009,9,Clallam County,53,Washington,OR_009,9,Columbia County,41,Oregon,similar
+OR_009,WA_009,0.8246992482014603,OR_009,9,Columbia County,41,Oregon,WA_009,9,Clallam County,53,Washington,similar
+GA_001,AL_005,0.8243428617672061,GA_001,1,Appling County,13,Georgia,AL_005,5,Barbour County,1,Alabama,similar
+AL_005,GA_001,0.8243428617672061,AL_005,5,Barbour County,1,Alabama,GA_001,1,Appling County,13,Georgia,similar
+CA_007,OR_003,0.8241453543167812,CA_007,7,Butte County,6,California,OR_003,3,Benton County,41,Oregon,similar
+OR_003,CA_007,0.8241453543167812,OR_003,3,Benton County,41,Oregon,CA_007,7,Butte County,6,California,similar
+MO_009,AL_005,0.8239784664845679,MO_009,9,Barry County,29,Missouri,AL_005,5,Barbour County,1,Alabama,similar
+AL_005,MO_009,0.8239784664845679,AL_005,5,Barbour County,1,Alabama,MO_009,9,Barry County,29,Missouri,similar
+OK_005,AL_007,0.8236081733692107,OK_005,5,Atoka County,40,Oklahoma,AL_007,7,Bibb County,1,Alabama,similar
+AL_007,OK_005,0.8236081733692107,AL_007,7,Bibb County,1,Alabama,OK_005,5,Atoka County,40,Oklahoma,similar
+SC_001,GA_001,0.8229085354019079,SC_001,1,Abbeville County,45,South Carolina,GA_001,1,Appling County,13,Georgia,similar
+GA_001,SC_001,0.8229085354019079,GA_001,1,Appling County,13,Georgia,SC_001,1,Abbeville County,45,South Carolina,similar
+OK_001,AL_009,0.8219435078377931,OK_001,1,Adair County,40,Oklahoma,AL_009,9,Blount County,1,Alabama,similar
+AL_009,OK_001,0.8219435078377931,AL_009,9,Blount County,1,Alabama,OK_001,1,Adair County,40,Oklahoma,similar
+IN_003,DE_003,0.821822194158248,IN_003,3,Allen County,18,Indiana,DE_003,3,New Castle County,10,Delaware,similar
+DE_003,IN_003,0.821822194158248,DE_003,3,New Castle County,10,Delaware,IN_003,3,Allen County,18,Indiana,similar
+TX_009,TX_003,0.8216322631092,TX_009,9,Archer County,48,Texas,TX_003,3,Andrews County,48,Texas,similar
+TX_003,TX_009,0.8216322631092,TX_003,3,Andrews County,48,Texas,TX_009,9,Archer County,48,Texas,similar
+WY_007,ND_003,0.8215796485169442,WY_007,7,Carbon County,56,Wyoming,ND_003,3,Barnes County,38,North Dakota,similar
+ND_003,WY_007,0.8215796485169442,ND_003,3,Barnes County,38,North Dakota,WY_007,7,Carbon County,56,Wyoming,similar
+TN_005,AL_005,0.8214202701036326,TN_005,5,Benton County,47,Tennessee,AL_005,5,Barbour County,1,Alabama,similar
+AL_005,TN_005,0.8214202701036326,AL_005,5,Barbour County,1,Alabama,TN_005,5,Benton County,47,Tennessee,similar
+SC_009,WV_005,0.821299960482009,SC_009,9,Bamberg County,45,South Carolina,WV_005,5,Boone County,54,West Virginia,similar
+WV_005,SC_009,0.821299960482009,WV_005,5,Boone County,54,West Virginia,SC_009,9,Bamberg County,45,South Carolina,similar
+AR_009,WV_009,0.8198835939548298,AR_009,9,Boone County,5,Arkansas,WV_009,9,Brooke County,54,West Virginia,similar
+WV_009,AR_009,0.8198835939548298,WV_009,9,Brooke County,54,West Virginia,AR_009,9,Boone County,5,Arkansas,similar
+OK_001,GA_009,0.8198559174212677,OK_001,1,Adair County,40,Oklahoma,GA_009,9,Baldwin County,13,Georgia,similar
+GA_009,OK_001,0.8198559174212677,GA_009,9,Baldwin County,13,Georgia,OK_001,1,Adair County,40,Oklahoma,similar
+NM_001,DE_003,0.8197800316748776,NM_001,1,Bernalillo County,35,New Mexico,DE_003,3,New Castle County,10,Delaware,similar
+DE_003,NM_001,0.8197800316748776,DE_003,3,New Castle County,10,Delaware,NM_001,1,Bernalillo County,35,New Mexico,similar
+AR_009,AL_005,0.819219345042742,AR_009,9,Boone County,5,Arkansas,AL_005,5,Barbour County,1,Alabama,similar
+AL_005,AR_009,0.819219345042742,AL_005,5,Barbour County,1,Alabama,AR_009,9,Boone County,5,Arkansas,similar
+KS_005,VA_009,0.8184303332902739,KS_005,5,Atchison County,20,Kansas,VA_009,9,Amherst County,51,Virginia,similar
+VA_009,KS_005,0.8184303332902739,VA_009,9,Amherst County,51,Virginia,KS_005,5,Atchison County,20,Kansas,similar
+NM_001,MD_005,0.8183124176382262,NM_001,1,Bernalillo County,35,New Mexico,MD_005,5,Baltimore County,24,Maryland,similar
+MD_005,NM_001,0.8183124176382262,MD_005,5,Baltimore County,24,Maryland,NM_001,1,Bernalillo County,35,New Mexico,similar
+KY_001,SC_001,0.8181689504217585,KY_001,1,Adair County,21,Kentucky,SC_001,1,Abbeville County,45,South Carolina,similar
+SC_001,KY_001,0.8181689504217585,SC_001,1,Abbeville County,45,South Carolina,KY_001,1,Adair County,21,Kentucky,similar
+IN_003,SC_007,0.818136564145145,IN_003,3,Allen County,18,Indiana,SC_007,7,Anderson County,45,South Carolina,similar
+SC_007,IN_003,0.818136564145145,SC_007,7,Anderson County,45,South Carolina,IN_003,3,Allen County,18,Indiana,similar
+DE_003,CO_001,0.8180458478010323,DE_003,3,New Castle County,10,Delaware,CO_001,1,Adams County,8,Colorado,similar
+CO_001,DE_003,0.8180458478010323,CO_001,1,Adams County,8,Colorado,DE_003,3,New Castle County,10,Delaware,similar
+MS_009,LA_009,0.8178289770317236,MS_009,9,Benton County,28,Mississippi,LA_009,9,Avoyelles Parish,22,Louisiana,similar
+LA_009,MS_009,0.8178289770317236,LA_009,9,Avoyelles Parish,22,Louisiana,MS_009,9,Benton County,28,Mississippi,similar
+DE_003,OR_005,0.8174428804733007,DE_003,3,New Castle County,10,Delaware,OR_005,5,Clackamas County,41,Oregon,similar
+OR_005,DE_003,0.8174428804733007,OR_005,5,Clackamas County,41,Oregon,DE_003,3,New Castle County,10,Delaware,similar
+AR_007,SC_007,0.8172369358744325,AR_007,7,Benton County,5,Arkansas,SC_007,7,Anderson County,45,South Carolina,similar
+SC_007,AR_007,0.8172369358744325,SC_007,7,Anderson County,45,South Carolina,AR_007,7,Benton County,5,Arkansas,similar
+IA_001,ND_009,0.8172281749890914,IA_001,1,Adair County,19,Iowa,ND_009,9,Bottineau County,38,North Dakota,similar
+ND_009,IA_001,0.8172281749890914,ND_009,9,Bottineau County,38,North Dakota,IA_001,1,Adair County,19,Iowa,similar
+GA_001,KY_003,0.8170012849100766,GA_001,1,Appling County,13,Georgia,KY_003,3,Allen County,21,Kentucky,similar
+KY_003,GA_001,0.8170012849100766,KY_003,3,Allen County,21,Kentucky,GA_001,1,Appling County,13,Georgia,similar
+MS_007,AR_009,0.8169213807690604,MS_007,7,Attala County,28,Mississippi,AR_009,9,Boone County,5,Arkansas,similar
+AR_009,MS_007,0.8169213807690604,AR_009,9,Boone County,5,Arkansas,MS_007,7,Attala County,28,Mississippi,similar
+WV_003,TN_009,0.8163020380082631,WV_003,3,Berkeley County,54,West Virginia,TN_009,9,Blount County,47,Tennessee,similar
+TN_009,WV_003,0.8163020380082631,TN_009,9,Blount County,47,Tennessee,WV_003,3,Berkeley County,54,West Virginia,similar
+FL_007,OK_005,0.8159726756176234,FL_007,7,Bradford County,12,Florida,OK_005,5,Atoka County,40,Oklahoma,similar
+OK_005,FL_007,0.8159726756176234,OK_005,5,Atoka County,40,Oklahoma,FL_007,7,Bradford County,12,Florida,similar
+AZ_001,NM_006,0.8144732632083985,AZ_001,1,Apache County,4,Arizona,NM_006,6,Cibola County,35,New Mexico,similar
+NM_006,AZ_001,0.8144732632083985,NM_006,6,Cibola County,35,New Mexico,AZ_001,1,Apache County,4,Arizona,similar
+CO_007,WY_001,0.8143891114303323,CO_007,7,Archuleta County,8,Colorado,WY_001,1,Albany County,56,Wyoming,similar
+WY_001,CO_007,0.8143891114303323,WY_001,1,Albany County,56,Wyoming,CO_007,7,Archuleta County,8,Colorado,similar
+AR_003,LA_007,0.8139531574857188,AR_003,3,Ashley County,5,Arkansas,LA_007,7,Assumption Parish,22,Louisiana,similar
+LA_007,AR_003,0.8139531574857188,LA_007,7,Assumption Parish,22,Louisiana,AR_003,3,Ashley County,5,Arkansas,similar
+AL_009,KY_001,0.8138468798851966,AL_009,9,Blount County,1,Alabama,KY_001,1,Adair County,21,Kentucky,similar
+KY_001,AL_009,0.8138468798851966,KY_001,1,Adair County,21,Kentucky,AL_009,9,Blount County,1,Alabama,similar
+WA_009,OR_007,0.8137065017322237,WA_009,9,Clallam County,53,Washington,OR_007,7,Clatsop County,41,Oregon,similar
+OR_007,WA_009,0.8137065017322237,OR_007,7,Clatsop County,41,Oregon,WA_009,9,Clallam County,53,Washington,similar
+WV_009,AR_005,0.8136264980568736,WV_009,9,Brooke County,54,West Virginia,AR_005,5,Baxter County,5,Arkansas,similar
+AR_005,WV_009,0.8136264980568736,AR_005,5,Baxter County,5,Arkansas,WV_009,9,Brooke County,54,West Virginia,similar
+SC_009,GA_001,0.8134929940558927,SC_009,9,Bamberg County,45,South Carolina,GA_001,1,Appling County,13,Georgia,similar
+GA_001,SC_009,0.8134929940558927,GA_001,1,Appling County,13,Georgia,SC_009,9,Bamberg County,45,South Carolina,similar
+KS_001,KS_009,0.813122812649479,KS_001,1,Allen County,20,Kansas,KS_009,9,Barton County,20,Kansas,similar
+KS_009,KS_001,0.813122812649479,KS_009,9,Barton County,20,Kansas,KS_001,1,Allen County,20,Kansas,similar
+OH_001,WV_001,0.8120544698984521,OH_001,1,Adams County,39,Ohio,WV_001,1,Barbour County,54,West Virginia,similar
+WV_001,OH_001,0.8120544698984521,WV_001,1,Barbour County,54,West Virginia,OH_001,1,Adams County,39,Ohio,similar
+WA_009,OR_003,0.8103988871460232,WA_009,9,Clallam County,53,Washington,OR_003,3,Benton County,41,Oregon,similar
+OR_003,WA_009,0.8103988871460232,OR_003,3,Benton County,41,Oregon,WA_009,9,Clallam County,53,Washington,similar
+AL_005,AR_003,0.8102456412039415,AL_005,5,Barbour County,1,Alabama,AR_003,3,Ashley County,5,Arkansas,similar
+AR_003,AL_005,0.8102456412039415,AR_003,3,Ashley County,5,Arkansas,AL_005,5,Barbour County,1,Alabama,similar
+OR_007,OR_001,0.8101656643639383,OR_007,7,Clatsop County,41,Oregon,OR_001,1,Baker County,41,Oregon,similar
+OR_001,OR_007,0.8101656643639383,OR_001,1,Baker County,41,Oregon,OR_007,7,Clatsop County,41,Oregon,similar
+OK_003,MO_005,0.8095912434694534,OK_003,3,Alfalfa County,40,Oklahoma,MO_005,5,Atchison County,29,Missouri,similar
+MO_005,OK_003,0.8095912434694534,MO_005,5,Atchison County,29,Missouri,OK_003,3,Alfalfa County,40,Oklahoma,similar
+KY_009,AR_005,0.8095565302773629,KY_009,9,Barren County,21,Kentucky,AR_005,5,Baxter County,5,Arkansas,similar
+AR_005,KY_009,0.8095565302773629,AR_005,5,Baxter County,5,Arkansas,KY_009,9,Barren County,21,Kentucky,similar
+NE_001,SD_005,0.809314558372805,NE_001,1,Adams County,31,Nebraska,SD_005,5,Beadle County,46,South Dakota,similar
+SD_005,NE_001,0.809314558372805,SD_005,5,Beadle County,46,South Dakota,NE_001,1,Adams County,31,Nebraska,similar
+AL_009,WV_001,0.8085996310086768,AL_009,9,Blount County,1,Alabama,WV_001,1,Barbour County,54,West Virginia,similar
+WV_001,AL_009,0.8085996310086768,WV_001,1,Barbour County,54,West Virginia,AL_009,9,Blount County,1,Alabama,similar
+NM_007,CO_003,0.8082583740981218,NM_007,7,Colfax County,35,New Mexico,CO_003,3,Alamosa County,8,Colorado,similar
+CO_003,NM_007,0.8082583740981218,CO_003,3,Alamosa County,8,Colorado,NM_007,7,Colfax County,35,New Mexico,similar
+IA_009,WY_009,0.8079870721715404,IA_009,9,Audubon County,19,Iowa,WY_009,9,Converse County,56,Wyoming,similar
+WY_009,IA_009,0.8079870721715404,WY_009,9,Converse County,56,Wyoming,IA_009,9,Audubon County,19,Iowa,similar
+WV_001,MS_009,0.807907467349604,WV_001,1,Barbour County,54,West Virginia,MS_009,9,Benton County,28,Mississippi,similar
+MS_009,WV_001,0.807907467349604,MS_009,9,Benton County,28,Mississippi,WV_001,1,Barbour County,54,West Virginia,similar
+LA_001,AL_001,0.8076977147123701,LA_001,1,Acadia Parish,22,Louisiana,AL_001,1,Autauga County,1,Alabama,similar
+AL_001,LA_001,0.8076977147123701,AL_001,1,Autauga County,1,Alabama,LA_001,1,Acadia Parish,22,Louisiana,similar
+WA_005,WA_009,0.8070297988395082,WA_005,5,Benton County,53,Washington,WA_009,9,Clallam County,53,Washington,similar
+WA_009,WA_005,0.8070297988395082,WA_009,9,Clallam County,53,Washington,WA_005,5,Benton County,53,Washington,similar
+ID_001,UT_005,0.8069471294765689,ID_001,1,Ada County,16,Idaho,UT_005,5,Cache County,49,Utah,similar
+UT_005,ID_001,0.8069471294765689,UT_005,5,Cache County,49,Utah,ID_001,1,Ada County,16,Idaho,similar
+WA_007,OR_007,0.8066496630972919,WA_007,7,Chelan County,53,Washington,OR_007,7,Clatsop County,41,Oregon,similar
+OR_007,WA_007,0.8066496630972919,OR_007,7,Clatsop County,41,Oregon,WA_007,7,Chelan County,53,Washington,similar
+CO_003,WY_001,0.8066094970245473,CO_003,3,Alamosa County,8,Colorado,WY_001,1,Albany County,56,Wyoming,similar
+WY_001,CO_003,0.8066094970245473,WY_001,1,Albany County,56,Wyoming,CO_003,3,Alamosa County,8,Colorado,similar
+IN_003,AR_007,0.805889179807551,IN_003,3,Allen County,18,Indiana,AR_007,7,Benton County,5,Arkansas,similar
+AR_007,IN_003,0.805889179807551,AR_007,7,Benton County,5,Arkansas,IN_003,3,Allen County,18,Indiana,similar
+GA_001,LA_007,0.8058043198806728,GA_001,1,Appling County,13,Georgia,LA_007,7,Assumption Parish,22,Louisiana,similar
+LA_007,GA_001,0.8058043198806728,LA_007,7,Assumption Parish,22,Louisiana,GA_001,1,Appling County,13,Georgia,similar
+ID_005,UT_005,0.8057643892965677,ID_005,5,Bannock County,16,Idaho,UT_005,5,Cache County,49,Utah,similar
+UT_005,ID_005,0.8057643892965677,UT_005,5,Cache County,49,Utah,ID_005,5,Bannock County,16,Idaho,similar
+NM_006,WV_005,0.8056644881176562,NM_006,6,Cibola County,35,New Mexico,WV_005,5,Boone County,54,West Virginia,similar
+WV_005,NM_006,0.8056644881176562,WV_005,5,Boone County,54,West Virginia,NM_006,6,Cibola County,35,New Mexico,similar
+NC_003,FL_003,0.8051569447278802,NC_003,3,Alexander County,37,North Carolina,FL_003,3,Baker County,12,Florida,similar
+FL_003,NC_003,0.8051569447278802,FL_003,3,Baker County,12,Florida,NC_003,3,Alexander County,37,North Carolina,similar
+SC_009,WV_001,0.8051407644137621,SC_009,9,Bamberg County,45,South Carolina,WV_001,1,Barbour County,54,West Virginia,similar
+WV_001,SC_009,0.8051407644137621,WV_001,1,Barbour County,54,West Virginia,SC_009,9,Bamberg County,45,South Carolina,similar
+NC_007,FL_007,0.8051271745262291,NC_007,7,Anson County,37,North Carolina,FL_007,7,Bradford County,12,Florida,similar
+FL_007,NC_007,0.8051271745262291,FL_007,7,Bradford County,12,Florida,NC_007,7,Anson County,37,North Carolina,similar
+WY_005,IA_005,0.8046972098994857,WY_005,5,Campbell County,56,Wyoming,IA_005,5,Allamakee County,19,Iowa,similar
+IA_005,WY_005,0.8046972098994857,IA_005,5,Allamakee County,19,Iowa,WY_005,5,Campbell County,56,Wyoming,similar
+NE_003,SD_005,0.8046597822038711,NE_003,3,Antelope County,31,Nebraska,SD_005,5,Beadle County,46,South Dakota,similar
+SD_005,NE_003,0.8046597822038711,SD_005,5,Beadle County,46,South Dakota,NE_003,3,Antelope County,31,Nebraska,similar
+WV_001,MO_007,0.8043948294840914,WV_001,1,Barbour County,54,West Virginia,MO_007,7,Audrain County,29,Missouri,similar
+MO_007,WV_001,0.8043948294840914,MO_007,7,Audrain County,29,Missouri,WV_001,1,Barbour County,54,West Virginia,similar
+NC_007,KY_009,0.8043916067867917,NC_007,7,Anson County,37,North Carolina,KY_009,9,Barren County,21,Kentucky,similar
+KY_009,NC_007,0.8043916067867917,KY_009,9,Barren County,21,Kentucky,NC_007,7,Anson County,37,North Carolina,similar
+NV_001,OR_001,0.8041493117586423,NV_001,1,Churchill County,32,Nevada,OR_001,1,Baker County,41,Oregon,similar
+OR_001,NV_001,0.8041493117586423,OR_001,1,Baker County,41,Oregon,NV_001,1,Churchill County,32,Nevada,similar
+CA_007,CA_009,0.8041302523192831,CA_007,7,Butte County,6,California,CA_009,9,Calaveras County,6,California,similar
+CA_009,CA_007,0.8041302523192831,CA_009,9,Calaveras County,6,California,CA_007,7,Butte County,6,California,similar
+ID_009,OR_001,0.8039170582146355,ID_009,9,Benewah County,16,Idaho,OR_001,1,Baker County,41,Oregon,similar
+OR_001,ID_009,0.8039170582146355,OR_001,1,Baker County,41,Oregon,ID_009,9,Benewah County,16,Idaho,similar
+LA_007,MS_003,0.8034167255764613,LA_007,7,Assumption Parish,22,Louisiana,MS_003,3,Alcorn County,28,Mississippi,similar
+MS_003,LA_007,0.8034167255764613,MS_003,3,Alcorn County,28,Mississippi,LA_007,7,Assumption Parish,22,Louisiana,similar
+KY_005,KY_001,0.8030043365686265,KY_005,5,Anderson County,21,Kentucky,KY_001,1,Adair County,21,Kentucky,similar
+KY_001,KY_005,0.8030043365686265,KY_001,1,Adair County,21,Kentucky,KY_005,5,Anderson County,21,Kentucky,similar
+VA_009,IA_007,0.8022715627478605,VA_009,9,Amherst County,51,Virginia,IA_007,7,Appanoose County,19,Iowa,similar
+IA_007,VA_009,0.8022715627478605,IA_007,7,Appanoose County,19,Iowa,VA_009,9,Amherst County,51,Virginia,similar
+LA_007,SC_009,0.8011009067688353,LA_007,7,Assumption Parish,22,Louisiana,SC_009,9,Bamberg County,45,South Carolina,similar
+SC_009,LA_007,0.8011009067688353,SC_009,9,Bamberg County,45,South Carolina,LA_007,7,Assumption Parish,22,Louisiana,similar
+AR_009,MO_007,0.8008653253786989,AR_009,9,Boone County,5,Arkansas,MO_007,7,Audrain County,29,Missouri,similar
+MO_007,AR_009,0.8008653253786989,MO_007,7,Audrain County,29,Missouri,AR_009,9,Boone County,5,Arkansas,similar
+ID_003,NV_001,0.8002975622772883,ID_003,3,Adams County,16,Idaho,NV_001,1,Churchill County,32,Nevada,similar
+NV_001,ID_003,0.8002975622772883,NV_001,1,Churchill County,32,Nevada,ID_003,3,Adams County,16,Idaho,similar
+AL_001,LA_009,0.7999814194501456,AL_001,1,Autauga County,1,Alabama,LA_009,9,Avoyelles Parish,22,Louisiana,similar
+LA_009,AL_001,0.7999814194501456,LA_009,9,Avoyelles Parish,22,Louisiana,AL_001,1,Autauga County,1,Alabama,similar
+SC_003,AR_007,0.7999693058020201,SC_003,3,Aiken County,45,South Carolina,AR_007,7,Benton County,5,Arkansas,similar
+AR_007,SC_003,0.7999693058020201,AR_007,7,Benton County,5,Arkansas,SC_003,3,Aiken County,45,South Carolina,similar
+KS_001,VA_009,0.7994932224007388,KS_001,1,Allen County,20,Kansas,VA_009,9,Amherst County,51,Virginia,similar
+VA_009,KS_001,0.7994932224007388,VA_009,9,Amherst County,51,Virginia,KS_001,1,Allen County,20,Kansas,similar
+NC_007,SC_001,0.7992774162084447,NC_007,7,Anson County,37,North Carolina,SC_001,1,Abbeville County,45,South Carolina,similar
+SC_001,NC_007,0.7992774162084447,SC_001,1,Abbeville County,45,South Carolina,NC_007,7,Anson County,37,North Carolina,similar
+AR_005,GA_001,0.7992496213148351,AR_005,5,Baxter County,5,Arkansas,GA_001,1,Appling County,13,Georgia,similar
+GA_001,AR_005,0.7992496213148351,GA_001,1,Appling County,13,Georgia,AR_005,5,Baxter County,5,Arkansas,similar
+AR_009,MS_009,0.7991029472561507,AR_009,9,Boone County,5,Arkansas,MS_009,9,Benton County,28,Mississippi,similar
+MS_009,AR_009,0.7991029472561507,MS_009,9,Benton County,28,Mississippi,AR_009,9,Boone County,5,Arkansas,similar
+WY_005,WY_007,0.798981646343832,WY_005,5,Campbell County,56,Wyoming,WY_007,7,Carbon County,56,Wyoming,similar
+WY_007,WY_005,0.798981646343832,WY_007,7,Carbon County,56,Wyoming,WY_005,5,Campbell County,56,Wyoming,similar
+MS_009,WV_005,0.798969194866565,MS_009,9,Benton County,28,Mississippi,WV_005,5,Boone County,54,West Virginia,similar
+WV_005,MS_009,0.798969194866565,WV_005,5,Boone County,54,West Virginia,MS_009,9,Benton County,28,Mississippi,similar
+TN_009,DE_001,0.798881800307294,TN_009,9,Blount County,47,Tennessee,DE_001,1,Kent County,10,Delaware,similar
+DE_001,TN_009,0.798881800307294,DE_001,1,Kent County,10,Delaware,TN_009,9,Blount County,47,Tennessee,similar
+AR_005,WV_001,0.7983658905416373,AR_005,5,Baxter County,5,Arkansas,WV_001,1,Barbour County,54,West Virginia,similar
+WV_001,AR_005,0.7983658905416373,WV_001,1,Barbour County,54,West Virginia,AR_005,5,Baxter County,5,Arkansas,similar
+AR_005,KY_001,0.7982625613946538,AR_005,5,Baxter County,5,Arkansas,KY_001,1,Adair County,21,Kentucky,similar
+KY_001,AR_005,0.7982625613946538,KY_001,1,Adair County,21,Kentucky,AR_005,5,Baxter County,5,Arkansas,similar
+MD_003,CO_001,0.7982468874397848,MD_003,3,Anne Arundel County,24,Maryland,CO_001,1,Adams County,8,Colorado,similar
+CO_001,MD_003,0.7982468874397848,CO_001,1,Adams County,8,Colorado,MD_003,3,Anne Arundel County,24,Maryland,similar
+CO_007,WA_009,0.7981372074389927,CO_007,7,Archuleta County,8,Colorado,WA_009,9,Clallam County,53,Washington,similar
+WA_009,CO_007,0.7981372074389927,WA_009,9,Clallam County,53,Washington,CO_007,7,Archuleta County,8,Colorado,similar
+IN_009,WV_009,0.7977714914805147,IN_009,9,Blackford County,18,Indiana,WV_009,9,Brooke County,54,West Virginia,similar
+WV_009,IN_009,0.7977714914805147,WV_009,9,Brooke County,54,West Virginia,IN_009,9,Blackford County,18,Indiana,similar
+WA_007,CO_007,0.7976768221341441,WA_007,7,Chelan County,53,Washington,CO_007,7,Archuleta County,8,Colorado,similar
+CO_007,WA_007,0.7976768221341441,CO_007,7,Archuleta County,8,Colorado,WA_007,7,Chelan County,53,Washington,similar
+SC_001,OK_001,0.7976608593087127,SC_001,1,Abbeville County,45,South Carolina,OK_001,1,Adair County,40,Oklahoma,similar
+OK_001,SC_001,0.7976608593087127,OK_001,1,Adair County,40,Oklahoma,SC_001,1,Abbeville County,45,South Carolina,similar
+AL_005,MS_003,0.7975695140696831,AL_005,5,Barbour County,1,Alabama,MS_003,3,Alcorn County,28,Mississippi,similar
+MS_003,AL_005,0.7975695140696831,MS_003,3,Alcorn County,28,Mississippi,AL_005,5,Barbour County,1,Alabama,similar
+WA_007,UT_005,0.7973071631275834,WA_007,7,Chelan County,53,Washington,UT_005,5,Cache County,49,Utah,similar
+UT_005,WA_007,0.7973071631275834,UT_005,5,Cache County,49,Utah,WA_007,7,Chelan County,53,Washington,similar
+WV_005,MS_003,0.7972977864204692,WV_005,5,Boone County,54,West Virginia,MS_003,3,Alcorn County,28,Mississippi,similar
+MS_003,WV_005,0.7972977864204692,MS_003,3,Alcorn County,28,Mississippi,WV_005,5,Boone County,54,West Virginia,similar
+OH_001,AR_009,0.7970542989406698,OH_001,1,Adams County,39,Ohio,AR_009,9,Boone County,5,Arkansas,similar
+AR_009,OH_001,0.7970542989406698,AR_009,9,Boone County,5,Arkansas,OH_001,1,Adams County,39,Ohio,similar
+OK_001,KY_003,0.7968888435001148,OK_001,1,Adair County,40,Oklahoma,KY_003,3,Allen County,21,Kentucky,similar
+KY_003,OK_001,0.7968888435001148,KY_003,3,Allen County,21,Kentucky,OK_001,1,Adair County,40,Oklahoma,similar
+CO_001,MD_005,0.7964732075151653,CO_001,1,Adams County,8,Colorado,MD_005,5,Baltimore County,24,Maryland,similar
+MD_005,CO_001,0.7964732075151653,MD_005,5,Baltimore County,24,Maryland,CO_001,1,Adams County,8,Colorado,similar
+AL_009,MO_009,0.7963622874520485,AL_009,9,Blount County,1,Alabama,MO_009,9,Barry County,29,Missouri,similar
+MO_009,AL_009,0.7963622874520485,MO_009,9,Barry County,29,Missouri,AL_009,9,Blount County,1,Alabama,similar
+FL_007,NC_003,0.7954950860902114,FL_007,7,Bradford County,12,Florida,NC_003,3,Alexander County,37,North Carolina,similar
+NC_003,FL_007,0.7954950860902114,NC_003,3,Alexander County,37,North Carolina,FL_007,7,Bradford County,12,Florida,similar
+WA_005,UT_005,0.7950659274723588,WA_005,5,Benton County,53,Washington,UT_005,5,Cache County,49,Utah,similar
+UT_005,WA_005,0.7950659274723588,UT_005,5,Cache County,49,Utah,WA_005,5,Benton County,53,Washington,similar
+KY_001,MS_001,0.7949247510501392,KY_001,1,Adair County,21,Kentucky,MS_001,1,Adams County,28,Mississippi,similar
+MS_001,KY_001,0.7949247510501392,MS_001,1,Adams County,28,Mississippi,KY_001,1,Adair County,21,Kentucky,similar
+KY_005,KY_003,0.7948399703060853,KY_005,5,Anderson County,21,Kentucky,KY_003,3,Allen County,21,Kentucky,similar
+KY_003,KY_005,0.7948399703060853,KY_003,3,Allen County,21,Kentucky,KY_005,5,Anderson County,21,Kentucky,similar
+WY_005,SD_009,0.7946905935755435,WY_005,5,Campbell County,56,Wyoming,SD_009,9,Bon Homme County,46,South Dakota,similar
+SD_009,WY_005,0.7946905935755435,SD_009,9,Bon Homme County,46,South Dakota,WY_005,5,Campbell County,56,Wyoming,similar
+KY_003,MS_003,0.7943144778368241,KY_003,3,Allen County,21,Kentucky,MS_003,3,Alcorn County,28,Mississippi,similar
+MS_003,KY_003,0.7943144778368241,MS_003,3,Alcorn County,28,Mississippi,KY_003,3,Allen County,21,Kentucky,similar
+AL_003,NC_001,0.7941708698636395,AL_003,3,Baldwin County,1,Alabama,NC_001,1,Alamance County,37,North Carolina,similar
+NC_001,AL_003,0.7941708698636395,NC_001,1,Alamance County,37,North Carolina,AL_003,3,Baldwin County,1,Alabama,similar
+IA_009,ND_003,0.79381415660987,IA_009,9,Audubon County,19,Iowa,ND_003,3,Barnes County,38,North Dakota,similar
+ND_003,IA_009,0.79381415660987,ND_003,3,Barnes County,38,North Dakota,IA_009,9,Audubon County,19,Iowa,similar
+FL_003,MO_009,0.7937273657148549,FL_003,3,Baker County,12,Florida,MO_009,9,Barry County,29,Missouri,similar
+MO_009,FL_003,0.7937273657148549,MO_009,9,Barry County,29,Missouri,FL_003,3,Baker County,12,Florida,similar
+MS_009,GA_007,0.7932882568606432,MS_009,9,Benton County,28,Mississippi,GA_007,7,Baker County,13,Georgia,similar
+GA_007,MS_009,0.7932882568606432,GA_007,7,Baker County,13,Georgia,MS_009,9,Benton County,28,Mississippi,similar
+MO_009,WV_005,0.7932840442859485,MO_009,9,Barry County,29,Missouri,WV_005,5,Boone County,54,West Virginia,similar
+WV_005,MO_009,0.7932840442859485,WV_005,5,Boone County,54,West Virginia,MO_009,9,Barry County,29,Missouri,similar
+LA_009,MS_007,0.7930468110320729,LA_009,9,Avoyelles Parish,22,Louisiana,MS_007,7,Attala County,28,Mississippi,similar
+MS_007,LA_009,0.7930468110320729,MS_007,7,Attala County,28,Mississippi,LA_009,9,Avoyelles Parish,22,Louisiana,similar
+KY_005,AR_003,0.7930113688051839,KY_005,5,Anderson County,21,Kentucky,AR_003,3,Ashley County,5,Arkansas,similar
+AR_003,KY_005,0.7930113688051839,AR_003,3,Ashley County,5,Arkansas,KY_005,5,Anderson County,21,Kentucky,similar
+OK_005,AR_005,0.7925270600018597,OK_005,5,Atoka County,40,Oklahoma,AR_005,5,Baxter County,5,Arkansas,similar
+AR_005,OK_005,0.7925270600018597,AR_005,5,Baxter County,5,Arkansas,OK_005,5,Atoka County,40,Oklahoma,similar
+AL_009,WV_009,0.7924734149940396,AL_009,9,Blount County,1,Alabama,WV_009,9,Brooke County,54,West Virginia,similar
+WV_009,AL_009,0.7924734149940396,WV_009,9,Brooke County,54,West Virginia,AL_009,9,Blount County,1,Alabama,similar
+TN_007,WV_005,0.7924161105780718,TN_007,7,Bledsoe County,47,Tennessee,WV_005,5,Boone County,54,West Virginia,similar
+WV_005,TN_007,0.7924161105780718,WV_005,5,Boone County,54,West Virginia,TN_007,7,Bledsoe County,47,Tennessee,similar
+DE_001,SC_003,0.7922694844701749,DE_001,1,Kent County,10,Delaware,SC_003,3,Aiken County,45,South Carolina,similar
+SC_003,DE_001,0.7922694844701749,SC_003,3,Aiken County,45,South Carolina,DE_001,1,Kent County,10,Delaware,similar
+CO_005,VA_003,0.7917737389568575,CO_005,5,Arapahoe County,8,Colorado,VA_003,3,Albemarle County,51,Virginia,similar
+VA_003,CO_005,0.7917737389568575,VA_003,3,Albemarle County,51,Virginia,CO_005,5,Arapahoe County,8,Colorado,similar
+WV_001,KY_009,0.7917506672575315,WV_001,1,Barbour County,54,West Virginia,KY_009,9,Barren County,21,Kentucky,similar
+KY_009,WV_001,0.7917506672575315,KY_009,9,Barren County,21,Kentucky,WV_001,1,Barbour County,54,West Virginia,similar
+AL_005,AL_007,0.7914084698454178,AL_005,5,Barbour County,1,Alabama,AL_007,7,Bibb County,1,Alabama,similar
+AL_007,AL_005,0.7914084698454178,AL_007,7,Bibb County,1,Alabama,AL_005,5,Barbour County,1,Alabama,similar
+WV_001,MS_003,0.7912731033883713,WV_001,1,Barbour County,54,West Virginia,MS_003,3,Alcorn County,28,Mississippi,similar
+MS_003,WV_001,0.7912731033883713,MS_003,3,Alcorn County,28,Mississippi,WV_001,1,Barbour County,54,West Virginia,similar
+ID_005,WA_005,0.7912323068801992,ID_005,5,Bannock County,16,Idaho,WA_005,5,Benton County,53,Washington,similar
+WA_005,ID_005,0.7912323068801992,WA_005,5,Benton County,53,Washington,ID_005,5,Bannock County,16,Idaho,similar
+AL_001,AR_003,0.7909389807221703,AL_001,1,Autauga County,1,Alabama,AR_003,3,Ashley County,5,Arkansas,similar
+AR_003,AL_001,0.7909389807221703,AR_003,3,Ashley County,5,Arkansas,AL_001,1,Autauga County,1,Alabama,similar
+KY_005,GA_001,0.7908929837273031,KY_005,5,Anderson County,21,Kentucky,GA_001,1,Appling County,13,Georgia,similar
+GA_001,KY_005,0.7908929837273031,GA_001,1,Appling County,13,Georgia,KY_005,5,Anderson County,21,Kentucky,similar
+WY_003,NE_003,0.7902289735332163,WY_003,3,Big Horn County,56,Wyoming,NE_003,3,Antelope County,31,Nebraska,similar
+NE_003,WY_003,0.7902289735332163,NE_003,3,Antelope County,31,Nebraska,WY_003,3,Big Horn County,56,Wyoming,similar
+ID_003,OR_001,0.7901696359117879,ID_003,3,Adams County,16,Idaho,OR_001,1,Baker County,41,Oregon,similar
+OR_001,ID_003,0.7901696359117879,OR_001,1,Baker County,41,Oregon,ID_003,3,Adams County,16,Idaho,similar
+NM_001,NV_003,0.7901256248379095,NM_001,1,Bernalillo County,35,New Mexico,NV_003,3,Clark County,32,Nevada,similar
+NV_003,NM_001,0.7901256248379095,NV_003,3,Clark County,32,Nevada,NM_001,1,Bernalillo County,35,New Mexico,similar
+OR_009,ID_005,0.7900879152613177,OR_009,9,Columbia County,41,Oregon,ID_005,5,Bannock County,16,Idaho,similar
+ID_005,OR_009,0.7900879152613177,ID_005,5,Bannock County,16,Idaho,OR_009,9,Columbia County,41,Oregon,similar
+SC_001,MS_009,0.789770535556029,SC_001,1,Abbeville County,45,South Carolina,MS_009,9,Benton County,28,Mississippi,similar
+MS_009,SC_001,0.789770535556029,MS_009,9,Benton County,28,Mississippi,SC_001,1,Abbeville County,45,South Carolina,similar
+NE_001,ND_009,0.7896807329427081,NE_001,1,Adams County,31,Nebraska,ND_009,9,Bottineau County,38,North Dakota,similar
+ND_009,NE_001,0.7896807329427081,ND_009,9,Bottineau County,38,North Dakota,NE_001,1,Adams County,31,Nebraska,similar
+MD_009,CO_001,0.7893614805783555,MD_009,9,Calvert County,24,Maryland,CO_001,1,Adams County,8,Colorado,similar
+CO_001,MD_009,0.7893614805783555,CO_001,1,Adams County,8,Colorado,MD_009,9,Calvert County,24,Maryland,similar
+ID_001,WA_009,0.7892991877082489,ID_001,1,Ada County,16,Idaho,WA_009,9,Clallam County,53,Washington,similar
+WA_009,ID_001,0.7892991877082489,WA_009,9,Clallam County,53,Washington,ID_001,1,Ada County,16,Idaho,similar
+LA_001,MS_003,0.7891229967382805,LA_001,1,Acadia Parish,22,Louisiana,MS_003,3,Alcorn County,28,Mississippi,similar
+MS_003,LA_001,0.7891229967382805,MS_003,3,Alcorn County,28,Mississippi,LA_001,1,Acadia Parish,22,Louisiana,similar
+GA_009,AZ_001,0.7890696290070636,GA_009,9,Baldwin County,13,Georgia,AZ_001,1,Apache County,4,Arizona,similar
+AZ_001,GA_009,0.7890696290070636,AZ_001,1,Apache County,4,Arizona,GA_009,9,Baldwin County,13,Georgia,similar
+AL_009,GA_001,0.7889045547959784,AL_009,9,Blount County,1,Alabama,GA_001,1,Appling County,13,Georgia,similar
+GA_001,AL_009,0.7889045547959784,GA_001,1,Appling County,13,Georgia,AL_009,9,Blount County,1,Alabama,similar
+KY_003,SC_001,0.7888947622258149,KY_003,3,Allen County,21,Kentucky,SC_001,1,Abbeville County,45,South Carolina,similar
+SC_001,KY_003,0.7888947622258149,SC_001,1,Abbeville County,45,South Carolina,KY_003,3,Allen County,21,Kentucky,similar
+CA_007,CA_005,0.7888861448533465,CA_007,7,Butte County,6,California,CA_005,5,Amador County,6,California,similar
+CA_005,CA_007,0.7888861448533465,CA_005,5,Amador County,6,California,CA_007,7,Butte County,6,California,similar
+MS_007,AL_001,0.7886046948087048,MS_007,7,Attala County,28,Mississippi,AL_001,1,Autauga County,1,Alabama,similar
+AL_001,MS_007,0.7886046948087048,AL_001,1,Autauga County,1,Alabama,MS_007,7,Attala County,28,Mississippi,similar
+MD_005,IN_003,0.7883957951219964,MD_005,5,Baltimore County,24,Maryland,IN_003,3,Allen County,18,Indiana,similar
+IN_003,MD_005,0.7883957951219964,IN_003,3,Allen County,18,Indiana,MD_005,5,Baltimore County,24,Maryland,similar
+MO_007,KY_005,0.7883567457853723,MO_007,7,Audrain County,29,Missouri,KY_005,5,Anderson County,21,Kentucky,similar
+KY_005,MO_007,0.7883567457853723,KY_005,5,Anderson County,21,Kentucky,MO_007,7,Audrain County,29,Missouri,similar
+OH_001,NC_007,0.7880973055361055,OH_001,1,Adams County,39,Ohio,NC_007,7,Anson County,37,North Carolina,similar
+NC_007,OH_001,0.7880973055361055,NC_007,7,Anson County,37,North Carolina,OH_001,1,Adams County,39,Ohio,similar
+AZ_005,OR_007,0.7880388980008141,AZ_005,5,Coconino County,4,Arizona,OR_007,7,Clatsop County,41,Oregon,similar
+OR_007,AZ_005,0.7880388980008141,OR_007,7,Clatsop County,41,Oregon,AZ_005,5,Coconino County,4,Arizona,similar
+OR_005,MD_005,0.7876172181530908,OR_005,5,Clackamas County,41,Oregon,MD_005,5,Baltimore County,24,Maryland,similar
+MD_005,OR_005,0.7876172181530908,MD_005,5,Baltimore County,24,Maryland,OR_005,5,Clackamas County,41,Oregon,similar
+LA_007,MS_009,0.7875578638513245,LA_007,7,Assumption Parish,22,Louisiana,MS_009,9,Benton County,28,Mississippi,similar
+MS_009,LA_007,0.7875578638513245,MS_009,9,Benton County,28,Mississippi,LA_007,7,Assumption Parish,22,Louisiana,similar
+OK_005,AR_003,0.7869735830822592,OK_005,5,Atoka County,40,Oklahoma,AR_003,3,Ashley County,5,Arkansas,similar
+AR_003,OK_005,0.7869735830822592,AR_003,3,Ashley County,5,Arkansas,OK_005,5,Atoka County,40,Oklahoma,similar
+AL_007,MS_001,0.7863191275260792,AL_007,7,Bibb County,1,Alabama,MS_001,1,Adams County,28,Mississippi,similar
+MS_001,AL_007,0.7863191275260792,MS_001,1,Adams County,28,Mississippi,AL_007,7,Bibb County,1,Alabama,similar
+WA_007,OR_005,0.7860482561100078,WA_007,7,Chelan County,53,Washington,OR_005,5,Clackamas County,41,Oregon,similar
+OR_005,WA_007,0.7860482561100078,OR_005,5,Clackamas County,41,Oregon,WA_007,7,Chelan County,53,Washington,similar
+WY_005,SD_005,0.7855656400584525,WY_005,5,Campbell County,56,Wyoming,SD_005,5,Beadle County,46,South Dakota,similar
+SD_005,WY_005,0.7855656400584525,SD_005,5,Beadle County,46,South Dakota,WY_005,5,Campbell County,56,Wyoming,similar
+AR_009,TN_007,0.7855053384547667,AR_009,9,Boone County,5,Arkansas,TN_007,7,Bledsoe County,47,Tennessee,similar
+TN_007,AR_009,0.7855053384547667,TN_007,7,Bledsoe County,47,Tennessee,AR_009,9,Boone County,5,Arkansas,similar
+MS_003,AL_009,0.7852490028058798,MS_003,3,Alcorn County,28,Mississippi,AL_009,9,Blount County,1,Alabama,similar
+AL_009,MS_003,0.7852490028058798,AL_009,9,Blount County,1,Alabama,MS_003,3,Alcorn County,28,Mississippi,similar
+SC_009,AR_009,0.7848413553011585,SC_009,9,Bamberg County,45,South Carolina,AR_009,9,Boone County,5,Arkansas,similar
+AR_009,SC_009,0.7848413553011585,AR_009,9,Boone County,5,Arkansas,SC_009,9,Bamberg County,45,South Carolina,similar
+WV_005,LA_009,0.784592603147597,WV_005,5,Boone County,54,West Virginia,LA_009,9,Avoyelles Parish,22,Louisiana,similar
+LA_009,WV_005,0.784592603147597,LA_009,9,Avoyelles Parish,22,Louisiana,WV_005,5,Boone County,54,West Virginia,similar
+SC_003,TN_009,0.7844222530167007,SC_003,3,Aiken County,45,South Carolina,TN_009,9,Blount County,47,Tennessee,similar
+TN_009,SC_003,0.7844222530167007,TN_009,9,Blount County,47,Tennessee,SC_003,3,Aiken County,45,South Carolina,similar
+AL_001,TX_005,0.7844095196922717,AL_001,1,Autauga County,1,Alabama,TX_005,5,Angelina County,48,Texas,similar
+TX_005,AL_001,0.7844095196922717,TX_005,5,Angelina County,48,Texas,AL_001,1,Autauga County,1,Alabama,similar
+MS_007,KY_001,0.7839505384517708,MS_007,7,Attala County,28,Mississippi,KY_001,1,Adair County,21,Kentucky,similar
+KY_001,MS_007,0.7839505384517708,KY_001,1,Adair County,21,Kentucky,MS_007,7,Attala County,28,Mississippi,similar
+UT_009,WY_003,0.7838363167520334,UT_009,9,Daggett County,49,Utah,WY_003,3,Big Horn County,56,Wyoming,similar
+WY_003,UT_009,0.7838363167520334,WY_003,3,Big Horn County,56,Wyoming,UT_009,9,Daggett County,49,Utah,similar
+KY_005,WV_009,0.7834946707018284,KY_005,5,Anderson County,21,Kentucky,WV_009,9,Brooke County,54,West Virginia,similar
+WV_009,KY_005,0.7834946707018284,WV_009,9,Brooke County,54,West Virginia,KY_005,5,Anderson County,21,Kentucky,similar
+GA_001,NC_007,0.7834733063166349,GA_001,1,Appling County,13,Georgia,NC_007,7,Anson County,37,North Carolina,similar
+NC_007,GA_001,0.7834733063166349,NC_007,7,Anson County,37,North Carolina,GA_001,1,Appling County,13,Georgia,similar
+WA_007,ID_001,0.7827773030289895,WA_007,7,Chelan County,53,Washington,ID_001,1,Ada County,16,Idaho,similar
+ID_001,WA_007,0.7827773030289895,ID_001,1,Ada County,16,Idaho,WA_007,7,Chelan County,53,Washington,similar
+AR_003,AL_009,0.7825643783967395,AR_003,3,Ashley County,5,Arkansas,AL_009,9,Blount County,1,Alabama,similar
+AL_009,AR_003,0.7825643783967395,AL_009,9,Blount County,1,Alabama,AR_003,3,Ashley County,5,Arkansas,similar
+ID_001,MD_003,0.7824981417694795,ID_001,1,Ada County,16,Idaho,MD_003,3,Anne Arundel County,24,Maryland,similar
+MD_003,ID_001,0.7824981417694795,MD_003,3,Anne Arundel County,24,Maryland,ID_001,1,Ada County,16,Idaho,similar
+GA_001,MO_009,0.7817706218831507,GA_001,1,Appling County,13,Georgia,MO_009,9,Barry County,29,Missouri,similar
+MO_009,GA_001,0.7817706218831507,MO_009,9,Barry County,29,Missouri,GA_001,1,Appling County,13,Georgia,similar
+IN_009,KY_005,0.7816690226883084,IN_009,9,Blackford County,18,Indiana,KY_005,5,Anderson County,21,Kentucky,similar
+KY_005,IN_009,0.7816690226883084,KY_005,5,Anderson County,21,Kentucky,IN_009,9,Blackford County,18,Indiana,similar
+AL_009,AL_007,0.7816349200865716,AL_009,9,Blount County,1,Alabama,AL_007,7,Bibb County,1,Alabama,similar
+AL_007,AL_009,0.7816349200865716,AL_007,7,Bibb County,1,Alabama,AL_009,9,Blount County,1,Alabama,similar
+KY_003,FL_003,0.781546583386173,KY_003,3,Allen County,21,Kentucky,FL_003,3,Baker County,12,Florida,similar
+FL_003,KY_003,0.781546583386173,FL_003,3,Baker County,12,Florida,KY_003,3,Allen County,21,Kentucky,similar
+GA_001,MO_007,0.7812153435703989,GA_001,1,Appling County,13,Georgia,MO_007,7,Audrain County,29,Missouri,similar
+MO_007,GA_001,0.7812153435703989,MO_007,7,Audrain County,29,Missouri,GA_001,1,Appling County,13,Georgia,similar
+WY_009,IA_001,0.7808539657246428,WY_009,9,Converse County,56,Wyoming,IA_001,1,Adair County,19,Iowa,similar
+IA_001,WY_009,0.7808539657246428,IA_001,1,Adair County,19,Iowa,WY_009,9,Converse County,56,Wyoming,similar
+IN_003,CO_001,0.7807221456627843,IN_003,3,Allen County,18,Indiana,CO_001,1,Adams County,8,Colorado,similar
+CO_001,IN_003,0.7807221456627843,CO_001,1,Adams County,8,Colorado,IN_003,3,Allen County,18,Indiana,similar
+FL_001,AZ_005,0.7806903758714646,FL_001,1,Alachua County,12,Florida,AZ_005,5,Coconino County,4,Arizona,similar
+AZ_005,FL_001,0.7806903758714646,AZ_005,5,Coconino County,4,Arizona,FL_001,1,Alachua County,12,Florida,similar
+ND_009,WY_003,0.7805642773254011,ND_009,9,Bottineau County,38,North Dakota,WY_003,3,Big Horn County,56,Wyoming,similar
+WY_003,ND_009,0.7805642773254011,WY_003,3,Big Horn County,56,Wyoming,ND_009,9,Bottineau County,38,North Dakota,similar
+ID_001,NV_005,0.7803312198841558,ID_001,1,Ada County,16,Idaho,NV_005,5,Douglas County,32,Nevada,similar
+NV_005,ID_001,0.7803312198841558,NV_005,5,Douglas County,32,Nevada,ID_001,1,Ada County,16,Idaho,similar
+WV_005,AR_005,0.7800296351258461,WV_005,5,Boone County,54,West Virginia,AR_005,5,Baxter County,5,Arkansas,similar
+AR_005,WV_005,0.7800296351258461,AR_005,5,Baxter County,5,Arkansas,WV_005,5,Boone County,54,West Virginia,similar
+SC_001,MO_009,0.7794903751527731,SC_001,1,Abbeville County,45,South Carolina,MO_009,9,Barry County,29,Missouri,similar
+MO_009,SC_001,0.7794903751527731,MO_009,9,Barry County,29,Missouri,SC_001,1,Abbeville County,45,South Carolina,similar
+AR_003,WV_005,0.77938129712783,AR_003,3,Ashley County,5,Arkansas,WV_005,5,Boone County,54,West Virginia,similar
+WV_005,AR_003,0.77938129712783,WV_005,5,Boone County,54,West Virginia,AR_003,3,Ashley County,5,Arkansas,similar
+NM_001,NV_005,0.778901421064382,NM_001,1,Bernalillo County,35,New Mexico,NV_005,5,Douglas County,32,Nevada,similar
+NV_005,NM_001,0.778901421064382,NV_005,5,Douglas County,32,Nevada,NM_001,1,Bernalillo County,35,New Mexico,similar
+GA_001,OK_003,0.7786630973812404,GA_001,1,Appling County,13,Georgia,OK_003,3,Alfalfa County,40,Oklahoma,similar
+OK_003,GA_001,0.7786630973812404,OK_003,3,Alfalfa County,40,Oklahoma,GA_001,1,Appling County,13,Georgia,similar
+CO_007,OR_007,0.7786140187096017,CO_007,7,Archuleta County,8,Colorado,OR_007,7,Clatsop County,41,Oregon,similar
+OR_007,CO_007,0.7786140187096017,OR_007,7,Clatsop County,41,Oregon,CO_007,7,Archuleta County,8,Colorado,similar
+WV_001,AR_003,0.7785484729411597,WV_001,1,Barbour County,54,West Virginia,AR_003,3,Ashley County,5,Arkansas,similar
+AR_003,WV_001,0.7785484729411597,AR_003,3,Ashley County,5,Arkansas,WV_001,1,Barbour County,54,West Virginia,similar
+AL_009,TN_005,0.7778625620976904,AL_009,9,Blount County,1,Alabama,TN_005,5,Benton County,47,Tennessee,similar
+TN_005,AL_009,0.7778625620976904,TN_005,5,Benton County,47,Tennessee,AL_009,9,Blount County,1,Alabama,similar
+NC_001,IN_003,0.7776783664188289,NC_001,1,Alamance County,37,North Carolina,IN_003,3,Allen County,18,Indiana,similar
+IN_003,NC_001,0.7776783664188289,IN_003,3,Allen County,18,Indiana,NC_001,1,Alamance County,37,North Carolina,similar
+WA_003,OR_009,0.7772182083954406,WA_003,3,Asotin County,53,Washington,OR_009,9,Columbia County,41,Oregon,similar
+OR_009,WA_003,0.7772182083954406,OR_009,9,Columbia County,41,Oregon,WA_003,3,Asotin County,53,Washington,similar
+KY_001,MS_009,0.7767576511209673,KY_001,1,Adair County,21,Kentucky,MS_009,9,Benton County,28,Mississippi,similar
+MS_009,KY_001,0.7767576511209673,MS_009,9,Benton County,28,Mississippi,KY_001,1,Adair County,21,Kentucky,similar
+KY_009,AR_003,0.7767213232371697,KY_009,9,Barren County,21,Kentucky,AR_003,3,Ashley County,5,Arkansas,similar
+AR_003,KY_009,0.7767213232371697,AR_003,3,Ashley County,5,Arkansas,KY_009,9,Barren County,21,Kentucky,similar
+KY_003,NC_003,0.7766549621239717,KY_003,3,Allen County,21,Kentucky,NC_003,3,Alexander County,37,North Carolina,similar
+NC_003,KY_003,0.7766549621239717,NC_003,3,Alexander County,37,North Carolina,KY_003,3,Allen County,21,Kentucky,similar
+CO_005,WA_005,0.7761814622691866,CO_005,5,Arapahoe County,8,Colorado,WA_005,5,Benton County,53,Washington,similar
+WA_005,CO_005,0.7761814622691866,WA_005,5,Benton County,53,Washington,CO_005,5,Arapahoe County,8,Colorado,similar
+FL_007,TN_007,0.7752928097349524,FL_007,7,Bradford County,12,Florida,TN_007,7,Bledsoe County,47,Tennessee,similar
+TN_007,FL_007,0.7752928097349524,TN_007,7,Bledsoe County,47,Tennessee,FL_007,7,Bradford County,12,Florida,similar
+NC_003,IN_007,0.7752727462448705,NC_003,3,Alexander County,37,North Carolina,IN_007,7,Benton County,18,Indiana,similar
+IN_007,NC_003,0.7752727462448705,IN_007,7,Benton County,18,Indiana,NC_003,3,Alexander County,37,North Carolina,similar
+IA_001,ND_003,0.7749086273020321,IA_001,1,Adair County,19,Iowa,ND_003,3,Barnes County,38,North Dakota,similar
+ND_003,IA_001,0.7749086273020321,ND_003,3,Barnes County,38,North Dakota,IA_001,1,Adair County,19,Iowa,similar
+AR_007,TN_009,0.774200007776136,AR_007,7,Benton County,5,Arkansas,TN_009,9,Blount County,47,Tennessee,similar
+TN_009,AR_007,0.774200007776136,TN_009,9,Blount County,47,Tennessee,AR_007,7,Benton County,5,Arkansas,similar
+VA_003,CA_005,0.774123981059476,VA_003,3,Albemarle County,51,Virginia,CA_005,5,Amador County,6,California,similar
+CA_005,VA_003,0.774123981059476,CA_005,5,Amador County,6,California,VA_003,3,Albemarle County,51,Virginia,similar
+MS_003,KY_009,0.7739107862788825,MS_003,3,Alcorn County,28,Mississippi,KY_009,9,Barren County,21,Kentucky,similar
+KY_009,MS_003,0.7739107862788825,KY_009,9,Barren County,21,Kentucky,MS_003,3,Alcorn County,28,Mississippi,similar
+CO_007,VA_003,0.7737184530110012,CO_007,7,Archuleta County,8,Colorado,VA_003,3,Albemarle County,51,Virginia,similar
+VA_003,CO_007,0.7737184530110012,VA_003,3,Albemarle County,51,Virginia,CO_007,7,Archuleta County,8,Colorado,similar
+CA_005,OR_003,0.7735973583393814,CA_005,5,Amador County,6,California,OR_003,3,Benton County,41,Oregon,similar
+OR_003,CA_005,0.7735973583393814,OR_003,3,Benton County,41,Oregon,CA_005,5,Amador County,6,California,similar
+FL_007,TN_003,0.7735128486135657,FL_007,7,Bradford County,12,Florida,TN_003,3,Bedford County,47,Tennessee,similar
+TN_003,FL_007,0.7735128486135657,TN_003,3,Bedford County,47,Tennessee,FL_007,7,Bradford County,12,Florida,similar
+OK_005,WV_005,0.7733761223626254,OK_005,5,Atoka County,40,Oklahoma,WV_005,5,Boone County,54,West Virginia,similar
+WV_005,OK_005,0.7733761223626254,WV_005,5,Boone County,54,West Virginia,OK_005,5,Atoka County,40,Oklahoma,similar
+WV_009,TN_005,0.7731088344669512,WV_009,9,Brooke County,54,West Virginia,TN_005,5,Benton County,47,Tennessee,similar
+TN_005,WV_009,0.7731088344669512,TN_005,5,Benton County,47,Tennessee,WV_009,9,Brooke County,54,West Virginia,similar
+OK_001,GA_001,0.7728522832949324,OK_001,1,Adair County,40,Oklahoma,GA_001,1,Appling County,13,Georgia,similar
+GA_001,OK_001,0.7728522832949324,GA_001,1,Appling County,13,Georgia,OK_001,1,Adair County,40,Oklahoma,similar
+AL_007,VA_001,0.7725027865097066,AL_007,7,Bibb County,1,Alabama,VA_001,1,Accomack County,51,Virginia,similar
+VA_001,AL_007,0.7725027865097066,VA_001,1,Accomack County,51,Virginia,AL_007,7,Bibb County,1,Alabama,similar
+ND_009,SD_005,0.7724586284684137,ND_009,9,Bottineau County,38,North Dakota,SD_005,5,Beadle County,46,South Dakota,similar
+SD_005,ND_009,0.7724586284684137,SD_005,5,Beadle County,46,South Dakota,ND_009,9,Bottineau County,38,North Dakota,similar
+KY_001,SC_009,0.7724089034583663,KY_001,1,Adair County,21,Kentucky,SC_009,9,Bamberg County,45,South Carolina,similar
+SC_009,KY_001,0.7724089034583663,SC_009,9,Bamberg County,45,South Carolina,KY_001,1,Adair County,21,Kentucky,similar
+IN_007,IN_009,0.7722833807259833,IN_007,7,Benton County,18,Indiana,IN_009,9,Blackford County,18,Indiana,similar
+IN_009,IN_007,0.7722833807259833,IN_009,9,Blackford County,18,Indiana,IN_007,7,Benton County,18,Indiana,similar
+TX_005,MS_007,0.7722341101086505,TX_005,5,Angelina County,48,Texas,MS_007,7,Attala County,28,Mississippi,similar
+MS_007,TX_005,0.7722341101086505,MS_007,7,Attala County,28,Mississippi,TX_005,5,Angelina County,48,Texas,similar
+AR_003,LA_001,0.7716953264152644,AR_003,3,Ashley County,5,Arkansas,LA_001,1,Acadia Parish,22,Louisiana,similar
+LA_001,AR_003,0.7716953264152644,LA_001,1,Acadia Parish,22,Louisiana,AR_003,3,Ashley County,5,Arkansas,similar
+AL_007,WV_001,0.771496474641851,AL_007,7,Bibb County,1,Alabama,WV_001,1,Barbour County,54,West Virginia,similar
+WV_001,AL_007,0.771496474641851,WV_001,1,Barbour County,54,West Virginia,AL_007,7,Bibb County,1,Alabama,similar
+NC_007,AR_009,0.7714315737790618,NC_007,7,Anson County,37,North Carolina,AR_009,9,Boone County,5,Arkansas,similar
+AR_009,NC_007,0.7714315737790618,AR_009,9,Boone County,5,Arkansas,NC_007,7,Anson County,37,North Carolina,similar
+ND_003,NE_003,0.7712841959816737,ND_003,3,Barnes County,38,North Dakota,NE_003,3,Antelope County,31,Nebraska,similar
+NE_003,ND_003,0.7712841959816737,NE_003,3,Antelope County,31,Nebraska,ND_003,3,Barnes County,38,North Dakota,similar
+MS_001,VA_001,0.7710425735901854,MS_001,1,Adams County,28,Mississippi,VA_001,1,Accomack County,51,Virginia,similar
+VA_001,MS_001,0.7710425735901854,VA_001,1,Accomack County,51,Virginia,MS_001,1,Adams County,28,Mississippi,similar
+AZ_003,AL_003,0.7707447952084158,AZ_003,3,Cochise County,4,Arizona,AL_003,3,Baldwin County,1,Alabama,similar
+AL_003,AZ_003,0.7707447952084158,AL_003,3,Baldwin County,1,Alabama,AZ_003,3,Cochise County,4,Arizona,similar
+LA_009,AR_009,0.7707178639217778,LA_009,9,Avoyelles Parish,22,Louisiana,AR_009,9,Boone County,5,Arkansas,similar
+AR_009,LA_009,0.7707178639217778,AR_009,9,Boone County,5,Arkansas,LA_009,9,Avoyelles Parish,22,Louisiana,similar
+WV_009,OK_001,0.7705428569148083,WV_009,9,Brooke County,54,West Virginia,OK_001,1,Adair County,40,Oklahoma,similar
+OK_001,WV_009,0.7705428569148083,OK_001,1,Adair County,40,Oklahoma,WV_009,9,Brooke County,54,West Virginia,similar
+KS_005,KY_005,0.770195807809752,KS_005,5,Atchison County,20,Kansas,KY_005,5,Anderson County,21,Kentucky,similar
+KY_005,KS_005,0.770195807809752,KY_005,5,Anderson County,21,Kentucky,KS_005,5,Atchison County,20,Kansas,similar
+FL_009,AR_007,0.7701663078874726,FL_009,9,Brevard County,12,Florida,AR_007,7,Benton County,5,Arkansas,similar
+AR_007,FL_009,0.7701663078874726,AR_007,7,Benton County,5,Arkansas,FL_009,9,Brevard County,12,Florida,similar
+ND_009,NE_003,0.7701260856952379,ND_009,9,Bottineau County,38,North Dakota,NE_003,3,Antelope County,31,Nebraska,similar
+NE_003,ND_009,0.7701260856952379,NE_003,3,Antelope County,31,Nebraska,ND_009,9,Bottineau County,38,North Dakota,similar
+OK_005,TN_003,0.7699157011982347,OK_005,5,Atoka County,40,Oklahoma,TN_003,3,Bedford County,47,Tennessee,similar
+TN_003,OK_005,0.7699157011982347,TN_003,3,Bedford County,47,Tennessee,OK_005,5,Atoka County,40,Oklahoma,similar
+TN_005,SC_001,0.7698051948548321,TN_005,5,Benton County,47,Tennessee,SC_001,1,Abbeville County,45,South Carolina,similar
+SC_001,TN_005,0.7698051948548321,SC_001,1,Abbeville County,45,South Carolina,TN_005,5,Benton County,47,Tennessee,similar
+CO_007,CO_003,0.7695621064167029,CO_007,7,Archuleta County,8,Colorado,CO_003,3,Alamosa County,8,Colorado,similar
+CO_003,CO_007,0.7695621064167029,CO_003,3,Alamosa County,8,Colorado,CO_007,7,Archuleta County,8,Colorado,similar
+MO_001,OH_001,0.7691852377497962,MO_001,1,Adair County,29,Missouri,OH_001,1,Adams County,39,Ohio,similar
+OH_001,MO_001,0.7691852377497962,OH_001,1,Adams County,39,Ohio,MO_001,1,Adair County,29,Missouri,similar
+MT_001,CO_007,0.7690621348342168,MT_001,1,Beaverhead County,30,Montana,CO_007,7,Archuleta County,8,Colorado,similar
+CO_007,MT_001,0.7690621348342168,CO_007,7,Archuleta County,8,Colorado,MT_001,1,Beaverhead County,30,Montana,similar
+NM_001,ID_001,0.7690117926963622,NM_001,1,Bernalillo County,35,New Mexico,ID_001,1,Ada County,16,Idaho,similar
+ID_001,NM_001,0.7690117926963622,ID_001,1,Ada County,16,Idaho,NM_001,1,Bernalillo County,35,New Mexico,similar
+NE_003,WY_009,0.7686159336959,NE_003,3,Antelope County,31,Nebraska,WY_009,9,Converse County,56,Wyoming,similar
+WY_009,NE_003,0.7686159336959,WY_009,9,Converse County,56,Wyoming,NE_003,3,Antelope County,31,Nebraska,similar
+DE_005,SC_007,0.7683490272703011,DE_005,5,Sussex County,10,Delaware,SC_007,7,Anderson County,45,South Carolina,similar
+SC_007,DE_005,0.7683490272703011,SC_007,7,Anderson County,45,South Carolina,DE_005,5,Sussex County,10,Delaware,similar
+OK_003,AL_007,0.7679295612746125,OK_003,3,Alfalfa County,40,Oklahoma,AL_007,7,Bibb County,1,Alabama,similar
+AL_007,OK_003,0.7679295612746125,AL_007,7,Bibb County,1,Alabama,OK_003,3,Alfalfa County,40,Oklahoma,similar
+OK_003,KY_005,0.7676600571439721,OK_003,3,Alfalfa County,40,Oklahoma,KY_005,5,Anderson County,21,Kentucky,similar
+KY_005,OK_003,0.7676600571439721,KY_005,5,Anderson County,21,Kentucky,OK_003,3,Alfalfa County,40,Oklahoma,similar
+OH_001,IN_001,0.7675476491518547,OH_001,1,Adams County,39,Ohio,IN_001,1,Adams County,18,Indiana,similar
+IN_001,OH_001,0.7675476491518547,IN_001,1,Adams County,18,Indiana,OH_001,1,Adams County,39,Ohio,similar
+AR_003,NC_007,0.7672005921771714,AR_003,3,Ashley County,5,Arkansas,NC_007,7,Anson County,37,North Carolina,similar
+NC_007,AR_003,0.7672005921771714,NC_007,7,Anson County,37,North Carolina,AR_003,3,Ashley County,5,Arkansas,similar
+AL_009,AL_005,0.7671793169838483,AL_009,9,Blount County,1,Alabama,AL_005,5,Barbour County,1,Alabama,similar
+AL_005,AL_009,0.7671793169838483,AL_005,5,Barbour County,1,Alabama,AL_009,9,Blount County,1,Alabama,similar
+MS_001,AL_009,0.7670800147844399,MS_001,1,Adams County,28,Mississippi,AL_009,9,Blount County,1,Alabama,similar
+AL_009,MS_001,0.7670800147844399,AL_009,9,Blount County,1,Alabama,MS_001,1,Adams County,28,Mississippi,similar
+KY_005,AR_009,0.7667713721649255,KY_005,5,Anderson County,21,Kentucky,AR_009,9,Boone County,5,Arkansas,similar
+AR_009,KY_005,0.7667713721649255,AR_009,9,Boone County,5,Arkansas,KY_005,5,Anderson County,21,Kentucky,similar
+AL_005,TN_007,0.7661363172501708,AL_005,5,Barbour County,1,Alabama,TN_007,7,Bledsoe County,47,Tennessee,similar
+TN_007,AL_005,0.7661363172501708,TN_007,7,Bledsoe County,47,Tennessee,AL_005,5,Barbour County,1,Alabama,similar
+CO_001,NV_003,0.7657107930213257,CO_001,1,Adams County,8,Colorado,NV_003,3,Clark County,32,Nevada,similar
+NV_003,CO_001,0.7657107930213257,NV_003,3,Clark County,32,Nevada,CO_001,1,Adams County,8,Colorado,similar
+OK_005,MO_007,0.7656341363236583,OK_005,5,Atoka County,40,Oklahoma,MO_007,7,Audrain County,29,Missouri,similar
+MO_007,OK_005,0.7656341363236583,MO_007,7,Audrain County,29,Missouri,OK_005,5,Atoka County,40,Oklahoma,similar
+OH_001,ND_005,0.7647359192389179,OH_001,1,Adams County,39,Ohio,ND_005,5,Benson County,38,North Dakota,similar
+ND_005,OH_001,0.7647359192389179,ND_005,5,Benson County,38,North Dakota,OH_001,1,Adams County,39,Ohio,similar
+AL_001,AR_005,0.7644438352568024,AL_001,1,Autauga County,1,Alabama,AR_005,5,Baxter County,5,Arkansas,similar
+AR_005,AL_001,0.7644438352568024,AR_005,5,Baxter County,5,Arkansas,AL_001,1,Autauga County,1,Alabama,similar
+NM_001,OR_005,0.7641142109433459,NM_001,1,Bernalillo County,35,New Mexico,OR_005,5,Clackamas County,41,Oregon,similar
+OR_005,NM_001,0.7641142109433459,OR_005,5,Clackamas County,41,Oregon,NM_001,1,Bernalillo County,35,New Mexico,similar
+NE_003,UT_009,0.764103142172767,NE_003,3,Antelope County,31,Nebraska,UT_009,9,Daggett County,49,Utah,similar
+UT_009,NE_003,0.764103142172767,UT_009,9,Daggett County,49,Utah,NE_003,3,Antelope County,31,Nebraska,similar
+OH_003,SC_007,0.7638883547563092,OH_003,3,Allen County,39,Ohio,SC_007,7,Anderson County,45,South Carolina,similar
+SC_007,OH_003,0.7638883547563092,SC_007,7,Anderson County,45,South Carolina,OH_003,3,Allen County,39,Ohio,similar
+AL_003,DE_005,0.7638883129039861,AL_003,3,Baldwin County,1,Alabama,DE_005,5,Sussex County,10,Delaware,similar
+DE_005,AL_003,0.7638883129039861,DE_005,5,Sussex County,10,Delaware,AL_003,3,Baldwin County,1,Alabama,similar
+VA_001,AL_001,0.763819842841434,VA_001,1,Accomack County,51,Virginia,AL_001,1,Autauga County,1,Alabama,similar
+AL_001,VA_001,0.763819842841434,AL_001,1,Autauga County,1,Alabama,VA_001,1,Accomack County,51,Virginia,similar
+KY_003,AR_005,0.7638133184342569,KY_003,3,Allen County,21,Kentucky,AR_005,5,Baxter County,5,Arkansas,similar
+AR_005,KY_003,0.7638133184342569,AR_005,5,Baxter County,5,Arkansas,KY_003,3,Allen County,21,Kentucky,similar
+LA_007,MS_001,0.763227672079,LA_007,7,Assumption Parish,22,Louisiana,MS_001,1,Adams County,28,Mississippi,similar
+MS_001,LA_007,0.763227672079,MS_001,1,Adams County,28,Mississippi,LA_007,7,Assumption Parish,22,Louisiana,similar
+SC_001,AR_005,0.7631231045150819,SC_001,1,Abbeville County,45,South Carolina,AR_005,5,Baxter County,5,Arkansas,similar
+AR_005,SC_001,0.7631231045150819,AR_005,5,Baxter County,5,Arkansas,SC_001,1,Abbeville County,45,South Carolina,similar
+GA_009,MS_001,0.7628488555053414,GA_009,9,Baldwin County,13,Georgia,MS_001,1,Adams County,28,Mississippi,similar
+MS_001,GA_009,0.7628488555053414,MS_001,1,Adams County,28,Mississippi,GA_009,9,Baldwin County,13,Georgia,similar
+IN_009,KY_001,0.7627559670738188,IN_009,9,Blackford County,18,Indiana,KY_001,1,Adair County,21,Kentucky,similar
+KY_001,IN_009,0.7627559670738188,KY_001,1,Adair County,21,Kentucky,IN_009,9,Blackford County,18,Indiana,similar
+IA_009,WY_003,0.7626976494489636,IA_009,9,Audubon County,19,Iowa,WY_003,3,Big Horn County,56,Wyoming,similar
+WY_003,IA_009,0.7626976494489636,WY_003,3,Big Horn County,56,Wyoming,IA_009,9,Audubon County,19,Iowa,similar
+TN_001,KY_009,0.7625708476109156,TN_001,1,Anderson County,47,Tennessee,KY_009,9,Barren County,21,Kentucky,similar
+KY_009,TN_001,0.7625708476109156,KY_009,9,Barren County,21,Kentucky,TN_001,1,Anderson County,47,Tennessee,similar
+ID_001,CA_001,0.7625218482123876,ID_001,1,Ada County,16,Idaho,CA_001,1,Alameda County,6,California,similar
+CA_001,ID_001,0.7625218482123876,CA_001,1,Alameda County,6,California,ID_001,1,Ada County,16,Idaho,similar
+MD_005,NV_003,0.7621473131005596,MD_005,5,Baltimore County,24,Maryland,NV_003,3,Clark County,32,Nevada,similar
+NV_003,MD_005,0.7621473131005596,NV_003,3,Clark County,32,Nevada,MD_005,5,Baltimore County,24,Maryland,similar
+IA_007,KS_001,0.7620255391352807,IA_007,7,Appanoose County,19,Iowa,KS_001,1,Allen County,20,Kansas,similar
+KS_001,IA_007,0.7620255391352807,KS_001,1,Allen County,20,Kansas,IA_007,7,Appanoose County,19,Iowa,similar
+MD_009,DE_005,0.7618591467465237,MD_009,9,Calvert County,24,Maryland,DE_005,5,Sussex County,10,Delaware,similar
+DE_005,MD_009,0.7618591467465237,DE_005,5,Sussex County,10,Delaware,MD_009,9,Calvert County,24,Maryland,similar
+WV_001,LA_009,0.7615979075209754,WV_001,1,Barbour County,54,West Virginia,LA_009,9,Avoyelles Parish,22,Louisiana,similar
+LA_009,WV_001,0.7615979075209754,LA_009,9,Avoyelles Parish,22,Louisiana,WV_001,1,Barbour County,54,West Virginia,similar
+MO_007,KY_003,0.761292464138648,MO_007,7,Audrain County,29,Missouri,KY_003,3,Allen County,21,Kentucky,similar
+KY_003,MO_007,0.761292464138648,KY_003,3,Allen County,21,Kentucky,MO_007,7,Audrain County,29,Missouri,similar
+ID_005,ID_001,0.7609484174622893,ID_005,5,Bannock County,16,Idaho,ID_001,1,Ada County,16,Idaho,similar
+ID_001,ID_005,0.7609484174622893,ID_001,1,Ada County,16,Idaho,ID_005,5,Bannock County,16,Idaho,similar
+OK_005,WV_009,0.7605279934203065,OK_005,5,Atoka County,40,Oklahoma,WV_009,9,Brooke County,54,West Virginia,similar
+WV_009,OK_005,0.7605279934203065,WV_009,9,Brooke County,54,West Virginia,OK_005,5,Atoka County,40,Oklahoma,similar
+OK_001,SC_009,0.76044566592657,OK_001,1,Adair County,40,Oklahoma,SC_009,9,Bamberg County,45,South Carolina,similar
+SC_009,OK_001,0.76044566592657,SC_009,9,Bamberg County,45,South Carolina,OK_001,1,Adair County,40,Oklahoma,similar
+AL_005,LA_009,0.7603982957518598,AL_005,5,Barbour County,1,Alabama,LA_009,9,Avoyelles Parish,22,Louisiana,similar
+LA_009,AL_005,0.7603982957518598,LA_009,9,Avoyelles Parish,22,Louisiana,AL_005,5,Barbour County,1,Alabama,similar
+MO_007,MO_009,0.7603946216288344,MO_007,7,Audrain County,29,Missouri,MO_009,9,Barry County,29,Missouri,similar
+MO_009,MO_007,0.7603946216288344,MO_009,9,Barry County,29,Missouri,MO_007,7,Audrain County,29,Missouri,similar
+IN_003,SC_003,0.7603908801817975,IN_003,3,Allen County,18,Indiana,SC_003,3,Aiken County,45,South Carolina,similar
+SC_003,IN_003,0.7603908801817975,SC_003,3,Aiken County,45,South Carolina,IN_003,3,Allen County,18,Indiana,similar
+LA_001,MS_001,0.7603684371657848,LA_001,1,Acadia Parish,22,Louisiana,MS_001,1,Adams County,28,Mississippi,similar
+MS_001,LA_001,0.7603684371657848,MS_001,1,Adams County,28,Mississippi,LA_001,1,Acadia Parish,22,Louisiana,similar
+NC_001,DE_005,0.7603299103922907,NC_001,1,Alamance County,37,North Carolina,DE_005,5,Sussex County,10,Delaware,similar
+DE_005,NC_001,0.7603299103922907,DE_005,5,Sussex County,10,Delaware,NC_001,1,Alamance County,37,North Carolina,similar
+CO_001,NV_005,0.7602359828685782,CO_001,1,Adams County,8,Colorado,NV_005,5,Douglas County,32,Nevada,similar
+NV_005,CO_001,0.7602359828685782,NV_005,5,Douglas County,32,Nevada,CO_001,1,Adams County,8,Colorado,similar
+MS_001,NC_007,0.7596469035586789,MS_001,1,Adams County,28,Mississippi,NC_007,7,Anson County,37,North Carolina,similar
+NC_007,MS_001,0.7596469035586789,NC_007,7,Anson County,37,North Carolina,MS_001,1,Adams County,28,Mississippi,similar
+WV_005,SC_001,0.7587568478010592,WV_005,5,Boone County,54,West Virginia,SC_001,1,Abbeville County,45,South Carolina,similar
+SC_001,WV_005,0.7587568478010592,SC_001,1,Abbeville County,45,South Carolina,WV_005,5,Boone County,54,West Virginia,similar
+AR_005,TN_005,0.7587412306740065,AR_005,5,Baxter County,5,Arkansas,TN_005,5,Benton County,47,Tennessee,similar
+TN_005,AR_005,0.7587412306740065,TN_005,5,Benton County,47,Tennessee,AR_005,5,Baxter County,5,Arkansas,similar
+DE_003,NV_003,0.7584556825194892,DE_003,3,New Castle County,10,Delaware,NV_003,3,Clark County,32,Nevada,similar
+NV_003,DE_003,0.7584556825194892,NV_003,3,Clark County,32,Nevada,DE_003,3,New Castle County,10,Delaware,similar
+AZ_007,FL_005,0.7581711743804083,AZ_007,7,Gila County,4,Arizona,FL_005,5,Bay County,12,Florida,similar
+FL_005,AZ_007,0.7581711743804083,FL_005,5,Bay County,12,Florida,AZ_007,7,Gila County,4,Arizona,similar
+NM_006,TN_005,0.757963888245181,NM_006,6,Cibola County,35,New Mexico,TN_005,5,Benton County,47,Tennessee,similar
+TN_005,NM_006,0.757963888245181,TN_005,5,Benton County,47,Tennessee,NM_006,6,Cibola County,35,New Mexico,similar
+MO_007,AL_007,0.7579536635470272,MO_007,7,Audrain County,29,Missouri,AL_007,7,Bibb County,1,Alabama,similar
+AL_007,MO_007,0.7579536635470272,AL_007,7,Bibb County,1,Alabama,MO_007,7,Audrain County,29,Missouri,similar
+MD_005,DE_005,0.7576666735312264,MD_005,5,Baltimore County,24,Maryland,DE_005,5,Sussex County,10,Delaware,similar
+DE_005,MD_005,0.7576666735312264,DE_005,5,Sussex County,10,Delaware,MD_005,5,Baltimore County,24,Maryland,similar
+KY_009,AL_005,0.757287618462904,KY_009,9,Barren County,21,Kentucky,AL_005,5,Barbour County,1,Alabama,similar
+AL_005,KY_009,0.757287618462904,AL_005,5,Barbour County,1,Alabama,KY_009,9,Barren County,21,Kentucky,similar
+LA_009,GA_001,0.7571856814587155,LA_009,9,Avoyelles Parish,22,Louisiana,GA_001,1,Appling County,13,Georgia,similar
+GA_001,LA_009,0.7571856814587155,GA_001,1,Appling County,13,Georgia,LA_009,9,Avoyelles Parish,22,Louisiana,similar
+FL_005,FL_009,0.7570234147659634,FL_005,5,Bay County,12,Florida,FL_009,9,Brevard County,12,Florida,similar
+FL_009,FL_005,0.7570234147659634,FL_009,9,Brevard County,12,Florida,FL_005,5,Bay County,12,Florida,similar
+WV_001,GA_001,0.7569295555756209,WV_001,1,Barbour County,54,West Virginia,GA_001,1,Appling County,13,Georgia,similar
+GA_001,WV_001,0.7569295555756209,GA_001,1,Appling County,13,Georgia,WV_001,1,Barbour County,54,West Virginia,similar
+CO_003,OR_001,0.7567069119261481,CO_003,3,Alamosa County,8,Colorado,OR_001,1,Baker County,41,Oregon,similar
+OR_001,CO_003,0.7567069119261481,OR_001,1,Baker County,41,Oregon,CO_003,3,Alamosa County,8,Colorado,similar
+OK_005,MS_003,0.7553362820242724,OK_005,5,Atoka County,40,Oklahoma,MS_003,3,Alcorn County,28,Mississippi,similar
+MS_003,OK_005,0.7553362820242724,MS_003,3,Alcorn County,28,Mississippi,OK_005,5,Atoka County,40,Oklahoma,similar
+OH_003,WV_003,0.7552306489975461,OH_003,3,Allen County,39,Ohio,WV_003,3,Berkeley County,54,West Virginia,similar
+WV_003,OH_003,0.7552306489975461,WV_003,3,Berkeley County,54,West Virginia,OH_003,3,Allen County,39,Ohio,similar
+KY_003,WV_005,0.7551974845148254,KY_003,3,Allen County,21,Kentucky,WV_005,5,Boone County,54,West Virginia,similar
+WV_005,KY_003,0.7551974845148254,WV_005,5,Boone County,54,West Virginia,KY_003,3,Allen County,21,Kentucky,similar
+TN_009,OH_003,0.7551196944319898,TN_009,9,Blount County,47,Tennessee,OH_003,3,Allen County,39,Ohio,similar
+OH_003,TN_009,0.7551196944319898,OH_003,3,Allen County,39,Ohio,TN_009,9,Blount County,47,Tennessee,similar
+TX_005,AR_003,0.7547783088349438,TX_005,5,Angelina County,48,Texas,AR_003,3,Ashley County,5,Arkansas,similar
+AR_003,TX_005,0.7547783088349438,AR_003,3,Ashley County,5,Arkansas,TX_005,5,Angelina County,48,Texas,similar
+MS_007,AR_005,0.7546433425190184,MS_007,7,Attala County,28,Mississippi,AR_005,5,Baxter County,5,Arkansas,similar
+AR_005,MS_007,0.7546433425190184,AR_005,5,Baxter County,5,Arkansas,MS_007,7,Attala County,28,Mississippi,similar
+IA_001,WY_003,0.7545757508340535,IA_001,1,Adair County,19,Iowa,WY_003,3,Big Horn County,56,Wyoming,similar
+WY_003,IA_001,0.7545757508340535,WY_003,3,Big Horn County,56,Wyoming,IA_001,1,Adair County,19,Iowa,similar
+FL_007,SC_001,0.7544827646017612,FL_007,7,Bradford County,12,Florida,SC_001,1,Abbeville County,45,South Carolina,similar
+SC_001,FL_007,0.7544827646017612,SC_001,1,Abbeville County,45,South Carolina,FL_007,7,Bradford County,12,Florida,similar
+NV_001,ID_005,0.7542782356536976,NV_001,1,Churchill County,32,Nevada,ID_005,5,Bannock County,16,Idaho,similar
+ID_005,NV_001,0.7542782356536976,ID_005,5,Bannock County,16,Idaho,NV_001,1,Churchill County,32,Nevada,similar
+MS_001,KY_009,0.7542086093722551,MS_001,1,Adams County,28,Mississippi,KY_009,9,Barren County,21,Kentucky,similar
+KY_009,MS_001,0.7542086093722551,KY_009,9,Barren County,21,Kentucky,MS_001,1,Adams County,28,Mississippi,similar
+OK_001,AR_003,0.7541376316854455,OK_001,1,Adair County,40,Oklahoma,AR_003,3,Ashley County,5,Arkansas,similar
+AR_003,OK_001,0.7541376316854455,AR_003,3,Ashley County,5,Arkansas,OK_001,1,Adair County,40,Oklahoma,similar
+SC_001,FL_003,0.7535092793914152,SC_001,1,Abbeville County,45,South Carolina,FL_003,3,Baker County,12,Florida,similar
+FL_003,SC_001,0.7535092793914152,FL_003,3,Baker County,12,Florida,SC_001,1,Abbeville County,45,South Carolina,similar
+WY_003,IA_005,0.7532041135946496,WY_003,3,Big Horn County,56,Wyoming,IA_005,5,Allamakee County,19,Iowa,similar
+IA_005,WY_003,0.7532041135946496,IA_005,5,Allamakee County,19,Iowa,WY_003,3,Big Horn County,56,Wyoming,similar
+NC_009,NC_005,0.7531569657822487,NC_009,9,Ashe County,37,North Carolina,NC_005,5,Alleghany County,37,North Carolina,similar
+NC_005,NC_009,0.7531569657822487,NC_005,5,Alleghany County,37,North Carolina,NC_009,9,Ashe County,37,North Carolina,similar
+CO_003,NV_001,0.7531246718608061,CO_003,3,Alamosa County,8,Colorado,NV_001,1,Churchill County,32,Nevada,similar
+NV_001,CO_003,0.7531246718608061,NV_001,1,Churchill County,32,Nevada,CO_003,3,Alamosa County,8,Colorado,similar
+AR_007,NC_001,0.7530532712739217,AR_007,7,Benton County,5,Arkansas,NC_001,1,Alamance County,37,North Carolina,similar
+NC_001,AR_007,0.7530532712739217,NC_001,1,Alamance County,37,North Carolina,AR_007,7,Benton County,5,Arkansas,similar
+MT_007,ID_003,0.7524464234979285,MT_007,7,Broadwater County,30,Montana,ID_003,3,Adams County,16,Idaho,similar
+ID_003,MT_007,0.7524464234979285,ID_003,3,Adams County,16,Idaho,MT_007,7,Broadwater County,30,Montana,similar
+CO_001,DE_005,0.7523644152389558,CO_001,1,Adams County,8,Colorado,DE_005,5,Sussex County,10,Delaware,similar
+DE_005,CO_001,0.7523644152389558,DE_005,5,Sussex County,10,Delaware,CO_001,1,Adams County,8,Colorado,similar
+OR_005,OR_003,0.7521541092351053,OR_005,5,Clackamas County,41,Oregon,OR_003,3,Benton County,41,Oregon,similar
+OR_003,OR_005,0.7521541092351053,OR_003,3,Benton County,41,Oregon,OR_005,5,Clackamas County,41,Oregon,similar
+OK_001,MS_007,0.7516052014342391,OK_001,1,Adair County,40,Oklahoma,MS_007,7,Attala County,28,Mississippi,similar
+MS_007,OK_001,0.7516052014342391,MS_007,7,Attala County,28,Mississippi,OK_001,1,Adair County,40,Oklahoma,similar
+MS_001,TN_005,0.7514910880286972,MS_001,1,Adams County,28,Mississippi,TN_005,5,Benton County,47,Tennessee,similar
+TN_005,MS_001,0.7514910880286972,TN_005,5,Benton County,47,Tennessee,MS_001,1,Adams County,28,Mississippi,similar
+GA_009,AZ_009,0.7514187516315747,GA_009,9,Baldwin County,13,Georgia,AZ_009,9,Graham County,4,Arizona,similar
+AZ_009,GA_009,0.7514187516315747,AZ_009,9,Graham County,4,Arizona,GA_009,9,Baldwin County,13,Georgia,similar
+OK_005,FL_003,0.7508774368606287,OK_005,5,Atoka County,40,Oklahoma,FL_003,3,Baker County,12,Florida,similar
+FL_003,OK_005,0.7508774368606287,FL_003,3,Baker County,12,Florida,OK_005,5,Atoka County,40,Oklahoma,similar
+AR_003,MO_009,0.7505919860080339,AR_003,3,Ashley County,5,Arkansas,MO_009,9,Barry County,29,Missouri,similar
+MO_009,AR_003,0.7505919860080339,MO_009,9,Barry County,29,Missouri,AR_003,3,Ashley County,5,Arkansas,similar
+VA_003,OR_003,0.7503720739290198,VA_003,3,Albemarle County,51,Virginia,OR_003,3,Benton County,41,Oregon,similar
+OR_003,VA_003,0.7503720739290198,OR_003,3,Benton County,41,Oregon,VA_003,3,Albemarle County,51,Virginia,similar
+WV_009,KY_003,0.750246770259868,WV_009,9,Brooke County,54,West Virginia,KY_003,3,Allen County,21,Kentucky,similar
+KY_003,WV_009,0.750246770259868,KY_003,3,Allen County,21,Kentucky,WV_009,9,Brooke County,54,West Virginia,similar
+MO_009,AL_007,0.7501429146442797,MO_009,9,Barry County,29,Missouri,AL_007,7,Bibb County,1,Alabama,similar
+AL_007,MO_009,0.7501429146442797,AL_007,7,Bibb County,1,Alabama,MO_009,9,Barry County,29,Missouri,similar
+MO_007,AL_009,0.7500685843050108,MO_007,7,Audrain County,29,Missouri,AL_009,9,Blount County,1,Alabama,similar
+AL_009,MO_007,0.7500685843050108,AL_009,9,Blount County,1,Alabama,MO_007,7,Audrain County,29,Missouri,similar
+MT_005,ND_005,0.7494875244878344,MT_005,5,Blaine County,30,Montana,ND_005,5,Benson County,38,North Dakota,similar
+ND_005,MT_005,0.7494875244878344,ND_005,5,Benson County,38,North Dakota,MT_005,5,Blaine County,30,Montana,similar
+WV_005,MO_007,0.7486083588976572,WV_005,5,Boone County,54,West Virginia,MO_007,7,Audrain County,29,Missouri,similar
+MO_007,WV_005,0.7486083588976572,MO_007,7,Audrain County,29,Missouri,WV_005,5,Boone County,54,West Virginia,similar
+SC_009,AL_001,0.7484372498533679,SC_009,9,Bamberg County,45,South Carolina,AL_001,1,Autauga County,1,Alabama,similar
+AL_001,SC_009,0.7484372498533679,AL_001,1,Autauga County,1,Alabama,SC_009,9,Bamberg County,45,South Carolina,similar
+OK_001,NM_006,0.7479704836041878,OK_001,1,Adair County,40,Oklahoma,NM_006,6,Cibola County,35,New Mexico,similar
+NM_006,OK_001,0.7479704836041878,NM_006,6,Cibola County,35,New Mexico,OK_001,1,Adair County,40,Oklahoma,similar
+OR_003,CA_009,0.747691697944354,OR_003,3,Benton County,41,Oregon,CA_009,9,Calaveras County,6,California,similar
+CA_009,OR_003,0.747691697944354,CA_009,9,Calaveras County,6,California,OR_003,3,Benton County,41,Oregon,similar
+AL_003,TN_009,0.747534586972442,AL_003,3,Baldwin County,1,Alabama,TN_009,9,Blount County,47,Tennessee,similar
+TN_009,AL_003,0.747534586972442,TN_009,9,Blount County,47,Tennessee,AL_003,3,Baldwin County,1,Alabama,similar
+LA_009,KY_001,0.7474157103573725,LA_009,9,Avoyelles Parish,22,Louisiana,KY_001,1,Adair County,21,Kentucky,similar
+KY_001,LA_009,0.7474157103573725,KY_001,1,Adair County,21,Kentucky,LA_009,9,Avoyelles Parish,22,Louisiana,similar
+NV_001,ID_009,0.7473019706628375,NV_001,1,Churchill County,32,Nevada,ID_009,9,Benewah County,16,Idaho,similar
+ID_009,NV_001,0.7473019706628375,ID_009,9,Benewah County,16,Idaho,NV_001,1,Churchill County,32,Nevada,similar
+AL_007,WV_005,0.7471230755815582,AL_007,7,Bibb County,1,Alabama,WV_005,5,Boone County,54,West Virginia,similar
+WV_005,AL_007,0.7471230755815582,WV_005,5,Boone County,54,West Virginia,AL_007,7,Bibb County,1,Alabama,similar
+OK_005,WV_001,0.747002897920183,OK_005,5,Atoka County,40,Oklahoma,WV_001,1,Barbour County,54,West Virginia,similar
+WV_001,OK_005,0.747002897920183,WV_001,1,Barbour County,54,West Virginia,OK_005,5,Atoka County,40,Oklahoma,similar
+VA_005,SD_005,0.7465708149349267,VA_005,5,Alleghany County,51,Virginia,SD_005,5,Beadle County,46,South Dakota,similar
+SD_005,VA_005,0.7465708149349267,SD_005,5,Beadle County,46,South Dakota,VA_005,5,Alleghany County,51,Virginia,similar
+WV_005,MS_007,0.7465182740798848,WV_005,5,Boone County,54,West Virginia,MS_007,7,Attala County,28,Mississippi,similar
+MS_007,WV_005,0.7465182740798848,MS_007,7,Attala County,28,Mississippi,WV_005,5,Boone County,54,West Virginia,similar
+ID_003,ID_005,0.7462912525537929,ID_003,3,Adams County,16,Idaho,ID_005,5,Bannock County,16,Idaho,similar
+ID_005,ID_003,0.7462912525537929,ID_005,5,Bannock County,16,Idaho,ID_003,3,Adams County,16,Idaho,similar
+GA_001,TN_005,0.7461583852649962,GA_001,1,Appling County,13,Georgia,TN_005,5,Benton County,47,Tennessee,similar
+TN_005,GA_001,0.7461583852649962,TN_005,5,Benton County,47,Tennessee,GA_001,1,Appling County,13,Georgia,similar
+MS_007,OK_005,0.7461020401441653,MS_007,7,Attala County,28,Mississippi,OK_005,5,Atoka County,40,Oklahoma,similar
+OK_005,MS_007,0.7461020401441653,OK_005,5,Atoka County,40,Oklahoma,MS_007,7,Attala County,28,Mississippi,similar
+NM_007,NC_005,0.7459426376586676,NM_007,7,Colfax County,35,New Mexico,NC_005,5,Alleghany County,37,North Carolina,similar
+NC_005,NM_007,0.7459426376586676,NC_005,5,Alleghany County,37,North Carolina,NM_007,7,Colfax County,35,New Mexico,similar
+OH_001,TN_003,0.7450536674655581,OH_001,1,Adams County,39,Ohio,TN_003,3,Bedford County,47,Tennessee,similar
+TN_003,OH_001,0.7450536674655581,TN_003,3,Bedford County,47,Tennessee,OH_001,1,Adams County,39,Ohio,similar
+AL_009,SC_001,0.744981712685474,AL_009,9,Blount County,1,Alabama,SC_001,1,Abbeville County,45,South Carolina,similar
+SC_001,AL_009,0.744981712685474,SC_001,1,Abbeville County,45,South Carolina,AL_009,9,Blount County,1,Alabama,similar
+AL_007,WV_009,0.7449338750054438,AL_007,7,Bibb County,1,Alabama,WV_009,9,Brooke County,54,West Virginia,similar
+WV_009,AL_007,0.7449338750054438,WV_009,9,Brooke County,54,West Virginia,AL_007,7,Bibb County,1,Alabama,similar
+WV_005,GA_001,0.7448958454983448,WV_005,5,Boone County,54,West Virginia,GA_001,1,Appling County,13,Georgia,similar
+GA_001,WV_005,0.7448958454983448,GA_001,1,Appling County,13,Georgia,WV_005,5,Boone County,54,West Virginia,similar
+OR_001,MT_001,0.7444045244870472,OR_001,1,Baker County,41,Oregon,MT_001,1,Beaverhead County,30,Montana,similar
+MT_001,OR_001,0.7444045244870472,MT_001,1,Beaverhead County,30,Montana,OR_001,1,Baker County,41,Oregon,similar
+AZ_005,WA_009,0.7443227483068718,AZ_005,5,Coconino County,4,Arizona,WA_009,9,Clallam County,53,Washington,similar
+WA_009,AZ_005,0.7443227483068718,WA_009,9,Clallam County,53,Washington,AZ_005,5,Coconino County,4,Arizona,similar
+TN_007,MT_005,0.7442474813972412,TN_007,7,Bledsoe County,47,Tennessee,MT_005,5,Blaine County,30,Montana,similar
+MT_005,TN_007,0.7442474813972412,MT_005,5,Blaine County,30,Montana,TN_007,7,Bledsoe County,47,Tennessee,similar
+LA_001,AL_007,0.743196530206063,LA_001,1,Acadia Parish,22,Louisiana,AL_007,7,Bibb County,1,Alabama,similar
+AL_007,LA_001,0.743196530206063,AL_007,7,Bibb County,1,Alabama,LA_001,1,Acadia Parish,22,Louisiana,similar
+AL_001,AL_009,0.7428402551590503,AL_001,1,Autauga County,1,Alabama,AL_009,9,Blount County,1,Alabama,similar
+AL_009,AL_001,0.7428402551590503,AL_009,9,Blount County,1,Alabama,AL_001,1,Autauga County,1,Alabama,similar
+ID_005,OR_007,0.7423509515514716,ID_005,5,Bannock County,16,Idaho,OR_007,7,Clatsop County,41,Oregon,similar
+OR_007,ID_005,0.7423509515514716,OR_007,7,Clatsop County,41,Oregon,ID_005,5,Bannock County,16,Idaho,similar
+NC_007,MS_003,0.7422721339757677,NC_007,7,Anson County,37,North Carolina,MS_003,3,Alcorn County,28,Mississippi,similar
+MS_003,NC_007,0.7422721339757677,MS_003,3,Alcorn County,28,Mississippi,NC_007,7,Anson County,37,North Carolina,similar
+AL_005,KY_003,0.7422719008579292,AL_005,5,Barbour County,1,Alabama,KY_003,3,Allen County,21,Kentucky,similar
+KY_003,AL_005,0.7422719008579292,KY_003,3,Allen County,21,Kentucky,AL_005,5,Barbour County,1,Alabama,similar
+CO_007,CA_003,0.7422447309277652,CO_007,7,Archuleta County,8,Colorado,CA_003,3,Alpine County,6,California,similar
+CA_003,CO_007,0.7422447309277652,CA_003,3,Alpine County,6,California,CO_007,7,Archuleta County,8,Colorado,similar
+TN_007,WV_001,0.7421984736794679,TN_007,7,Bledsoe County,47,Tennessee,WV_001,1,Barbour County,54,West Virginia,similar
+WV_001,TN_007,0.7421984736794679,WV_001,1,Barbour County,54,West Virginia,TN_007,7,Bledsoe County,47,Tennessee,similar
+NE_003,MT_009,0.741889158110654,NE_003,3,Antelope County,31,Nebraska,MT_009,9,Carbon County,30,Montana,similar
+MT_009,NE_003,0.741889158110654,MT_009,9,Carbon County,30,Montana,NE_003,3,Antelope County,31,Nebraska,similar
+SC_001,TX_005,0.7417528186841704,SC_001,1,Abbeville County,45,South Carolina,TX_005,5,Angelina County,48,Texas,similar
+TX_005,SC_001,0.7417528186841704,TX_005,5,Angelina County,48,Texas,SC_001,1,Abbeville County,45,South Carolina,similar
+OK_001,MS_003,0.7414991099859647,OK_001,1,Adair County,40,Oklahoma,MS_003,3,Alcorn County,28,Mississippi,similar
+MS_003,OK_001,0.7414991099859647,MS_003,3,Alcorn County,28,Mississippi,OK_001,1,Adair County,40,Oklahoma,similar
+WV_001,KY_003,0.7412455432251027,WV_001,1,Barbour County,54,West Virginia,KY_003,3,Allen County,21,Kentucky,similar
+KY_003,WV_001,0.7412455432251027,KY_003,3,Allen County,21,Kentucky,WV_001,1,Barbour County,54,West Virginia,similar
+NC_003,KY_005,0.7410952331334654,NC_003,3,Alexander County,37,North Carolina,KY_005,5,Anderson County,21,Kentucky,similar
+KY_005,NC_003,0.7410952331334654,KY_005,5,Anderson County,21,Kentucky,NC_003,3,Alexander County,37,North Carolina,similar
+MD_003,NM_001,0.7410346296286179,MD_003,3,Anne Arundel County,24,Maryland,NM_001,1,Bernalillo County,35,New Mexico,similar
+NM_001,MD_003,0.7410346296286179,NM_001,1,Bernalillo County,35,New Mexico,MD_003,3,Anne Arundel County,24,Maryland,similar
+ID_005,OR_001,0.7409937669847139,ID_005,5,Bannock County,16,Idaho,OR_001,1,Baker County,41,Oregon,similar
+OR_001,ID_005,0.7409937669847139,OR_001,1,Baker County,41,Oregon,ID_005,5,Bannock County,16,Idaho,similar
+SC_009,NC_007,0.7405989459163336,SC_009,9,Bamberg County,45,South Carolina,NC_007,7,Anson County,37,North Carolina,similar
+NC_007,SC_009,0.7405989459163336,NC_007,7,Anson County,37,North Carolina,SC_009,9,Bamberg County,45,South Carolina,similar
+DE_003,DE_005,0.7405474831438736,DE_003,3,New Castle County,10,Delaware,DE_005,5,Sussex County,10,Delaware,similar
+DE_005,DE_003,0.7405474831438736,DE_005,5,Sussex County,10,Delaware,DE_003,3,New Castle County,10,Delaware,similar
+FL_001,FL_009,0.740527075580007,FL_001,1,Alachua County,12,Florida,FL_009,9,Brevard County,12,Florida,similar
+FL_009,FL_001,0.740527075580007,FL_009,9,Brevard County,12,Florida,FL_001,1,Alachua County,12,Florida,similar
+WV_009,AL_005,0.7402710078892285,WV_009,9,Brooke County,54,West Virginia,AL_005,5,Barbour County,1,Alabama,similar
+AL_005,WV_009,0.7402710078892285,AL_005,5,Barbour County,1,Alabama,WV_009,9,Brooke County,54,West Virginia,similar
+OR_009,WA_005,0.7400561257088568,OR_009,9,Columbia County,41,Oregon,WA_005,5,Benton County,53,Washington,similar
+WA_005,OR_009,0.7400561257088568,WA_005,5,Benton County,53,Washington,OR_009,9,Columbia County,41,Oregon,similar
+CA_001,FL_009,0.7400490044501272,CA_001,1,Alameda County,6,California,FL_009,9,Brevard County,12,Florida,similar
+FL_009,CA_001,0.7400490044501272,FL_009,9,Brevard County,12,Florida,CA_001,1,Alameda County,6,California,similar
+TN_003,NC_007,0.7398458594999839,TN_003,3,Bedford County,47,Tennessee,NC_007,7,Anson County,37,North Carolina,similar
+NC_007,TN_003,0.7398458594999839,NC_007,7,Anson County,37,North Carolina,TN_003,3,Bedford County,47,Tennessee,similar
+UT_009,UT_003,0.7397514346446404,UT_009,9,Daggett County,49,Utah,UT_003,3,Box Elder County,49,Utah,similar
+UT_003,UT_009,0.7397514346446404,UT_003,3,Box Elder County,49,Utah,UT_009,9,Daggett County,49,Utah,similar
+MO_009,WV_001,0.7392336239621063,MO_009,9,Barry County,29,Missouri,WV_001,1,Barbour County,54,West Virginia,similar
+WV_001,MO_009,0.7392336239621063,WV_001,1,Barbour County,54,West Virginia,MO_009,9,Barry County,29,Missouri,similar
+MS_009,AR_005,0.7387346430136184,MS_009,9,Benton County,28,Mississippi,AR_005,5,Baxter County,5,Arkansas,similar
+AR_005,MS_009,0.7387346430136184,AR_005,5,Baxter County,5,Arkansas,MS_009,9,Benton County,28,Mississippi,similar
+OK_001,MS_009,0.7387242634332495,OK_001,1,Adair County,40,Oklahoma,MS_009,9,Benton County,28,Mississippi,similar
+MS_009,OK_001,0.7387242634332495,MS_009,9,Benton County,28,Mississippi,OK_001,1,Adair County,40,Oklahoma,similar
+MS_001,OH_001,0.7386255832674723,MS_001,1,Adams County,28,Mississippi,OH_001,1,Adams County,39,Ohio,similar
+OH_001,MS_001,0.7386255832674723,OH_001,1,Adams County,39,Ohio,MS_001,1,Adams County,28,Mississippi,similar
+MT_009,VA_003,0.7385368293521514,MT_009,9,Carbon County,30,Montana,VA_003,3,Albemarle County,51,Virginia,similar
+VA_003,MT_009,0.7385368293521514,VA_003,3,Albemarle County,51,Virginia,MT_009,9,Carbon County,30,Montana,similar
+NV_003,NV_005,0.7382660462557753,NV_003,3,Clark County,32,Nevada,NV_005,5,Douglas County,32,Nevada,similar
+NV_005,NV_003,0.7382660462557753,NV_005,5,Douglas County,32,Nevada,NV_003,3,Clark County,32,Nevada,similar
+WV_009,SC_001,0.7380950024290173,WV_009,9,Brooke County,54,West Virginia,SC_001,1,Abbeville County,45,South Carolina,similar
+SC_001,WV_009,0.7380950024290173,SC_001,1,Abbeville County,45,South Carolina,WV_009,9,Brooke County,54,West Virginia,similar
+NM_006,TN_007,0.7379053804627089,NM_006,6,Cibola County,35,New Mexico,TN_007,7,Bledsoe County,47,Tennessee,similar
+TN_007,NM_006,0.7379053804627089,TN_007,7,Bledsoe County,47,Tennessee,NM_006,6,Cibola County,35,New Mexico,similar
+VA_003,MD_003,0.7378930092773407,VA_003,3,Albemarle County,51,Virginia,MD_003,3,Anne Arundel County,24,Maryland,similar
+MD_003,VA_003,0.7378930092773407,MD_003,3,Anne Arundel County,24,Maryland,VA_003,3,Albemarle County,51,Virginia,similar
+UT_005,CO_007,0.737609090613519,UT_005,5,Cache County,49,Utah,CO_007,7,Archuleta County,8,Colorado,similar
+CO_007,UT_005,0.737609090613519,CO_007,7,Archuleta County,8,Colorado,UT_005,5,Cache County,49,Utah,similar
+MO_007,MO_005,0.7369739123489575,MO_007,7,Audrain County,29,Missouri,MO_005,5,Atchison County,29,Missouri,similar
+MO_005,MO_007,0.7369739123489575,MO_005,5,Atchison County,29,Missouri,MO_007,7,Audrain County,29,Missouri,similar
+WV_001,NM_006,0.7367897034789671,WV_001,1,Barbour County,54,West Virginia,NM_006,6,Cibola County,35,New Mexico,similar
+NM_006,WV_001,0.7367897034789671,NM_006,6,Cibola County,35,New Mexico,WV_001,1,Barbour County,54,West Virginia,similar
+VA_003,ID_001,0.7361056549123883,VA_003,3,Albemarle County,51,Virginia,ID_001,1,Ada County,16,Idaho,similar
+ID_001,VA_003,0.7361056549123883,ID_001,1,Ada County,16,Idaho,VA_003,3,Albemarle County,51,Virginia,similar
+VA_001,TX_005,0.7358406602636863,VA_001,1,Accomack County,51,Virginia,TX_005,5,Angelina County,48,Texas,similar
+TX_005,VA_001,0.7358406602636863,TX_005,5,Angelina County,48,Texas,VA_001,1,Accomack County,51,Virginia,similar
+MS_001,OK_005,0.7357498188752757,MS_001,1,Adams County,28,Mississippi,OK_005,5,Atoka County,40,Oklahoma,similar
+OK_005,MS_001,0.7357498188752757,OK_005,5,Atoka County,40,Oklahoma,MS_001,1,Adams County,28,Mississippi,similar
+OK_001,AL_007,0.7355337801319918,OK_001,1,Adair County,40,Oklahoma,AL_007,7,Bibb County,1,Alabama,similar
+AL_007,OK_001,0.7355337801319918,AL_007,7,Bibb County,1,Alabama,OK_001,1,Adair County,40,Oklahoma,similar
+MS_009,NC_007,0.7353980474813128,MS_009,9,Benton County,28,Mississippi,NC_007,7,Anson County,37,North Carolina,similar
+NC_007,MS_009,0.7353980474813128,NC_007,7,Anson County,37,North Carolina,MS_009,9,Benton County,28,Mississippi,similar
+WY_005,NE_001,0.7353629596464897,WY_005,5,Campbell County,56,Wyoming,NE_001,1,Adams County,31,Nebraska,similar
+NE_001,WY_005,0.7353629596464897,NE_001,1,Adams County,31,Nebraska,WY_005,5,Campbell County,56,Wyoming,similar
+CA_003,OR_003,0.7350196208698383,CA_003,3,Alpine County,6,California,OR_003,3,Benton County,41,Oregon,similar
+OR_003,CA_003,0.7350196208698383,OR_003,3,Benton County,41,Oregon,CA_003,3,Alpine County,6,California,similar
+KY_003,MS_007,0.7347979827880285,KY_003,3,Allen County,21,Kentucky,MS_007,7,Attala County,28,Mississippi,similar
+MS_007,KY_003,0.7347979827880285,MS_007,7,Attala County,28,Mississippi,KY_003,3,Allen County,21,Kentucky,similar
+MO_009,NC_003,0.7342259685604805,MO_009,9,Barry County,29,Missouri,NC_003,3,Alexander County,37,North Carolina,similar
+NC_003,MO_009,0.7342259685604805,NC_003,3,Alexander County,37,North Carolina,MO_009,9,Barry County,29,Missouri,similar
+MO_005,IN_007,0.7341044241714516,MO_005,5,Atchison County,29,Missouri,IN_007,7,Benton County,18,Indiana,similar
+IN_007,MO_005,0.7341044241714516,IN_007,7,Benton County,18,Indiana,MO_005,5,Atchison County,29,Missouri,similar
+CA_003,NM_007,0.7336969838109562,CA_003,3,Alpine County,6,California,NM_007,7,Colfax County,35,New Mexico,similar
+NM_007,CA_003,0.7336969838109562,NM_007,7,Colfax County,35,New Mexico,CA_003,3,Alpine County,6,California,similar
+LA_007,MS_007,0.7331840263206411,LA_007,7,Assumption Parish,22,Louisiana,MS_007,7,Attala County,28,Mississippi,similar
+MS_007,LA_007,0.7331840263206411,MS_007,7,Attala County,28,Mississippi,LA_007,7,Assumption Parish,22,Louisiana,similar
+WV_005,NC_007,0.7330691446157159,WV_005,5,Boone County,54,West Virginia,NC_007,7,Anson County,37,North Carolina,similar
+NC_007,WV_005,0.7330691446157159,NC_007,7,Anson County,37,North Carolina,WV_005,5,Boone County,54,West Virginia,similar
+LA_009,OK_001,0.7330556405609581,LA_009,9,Avoyelles Parish,22,Louisiana,OK_001,1,Adair County,40,Oklahoma,similar
+OK_001,LA_009,0.7330556405609581,OK_001,1,Adair County,40,Oklahoma,LA_009,9,Avoyelles Parish,22,Louisiana,similar
+AL_001,AL_007,0.7325533032809786,AL_001,1,Autauga County,1,Alabama,AL_007,7,Bibb County,1,Alabama,similar
+AL_007,AL_001,0.7325533032809786,AL_007,7,Bibb County,1,Alabama,AL_001,1,Autauga County,1,Alabama,similar
+FL_007,KY_001,0.7319880838306629,FL_007,7,Bradford County,12,Florida,KY_001,1,Adair County,21,Kentucky,similar
+KY_001,FL_007,0.7319880838306629,KY_001,1,Adair County,21,Kentucky,FL_007,7,Bradford County,12,Florida,similar
+OR_007,WY_001,0.7317660340628291,OR_007,7,Clatsop County,41,Oregon,WY_001,1,Albany County,56,Wyoming,similar
+WY_001,OR_007,0.7317660340628291,WY_001,1,Albany County,56,Wyoming,OR_007,7,Clatsop County,41,Oregon,similar
+MT_001,WY_003,0.7317227196917165,MT_001,1,Beaverhead County,30,Montana,WY_003,3,Big Horn County,56,Wyoming,similar
+WY_003,MT_001,0.7317227196917165,WY_003,3,Big Horn County,56,Wyoming,MT_001,1,Beaverhead County,30,Montana,similar
+OK_003,KS_005,0.7317046850209529,OK_003,3,Alfalfa County,40,Oklahoma,KS_005,5,Atchison County,20,Kansas,similar
+KS_005,OK_003,0.7317046850209529,KS_005,5,Atchison County,20,Kansas,OK_003,3,Alfalfa County,40,Oklahoma,similar
+CA_003,OR_007,0.7313741261150367,CA_003,3,Alpine County,6,California,OR_007,7,Clatsop County,41,Oregon,similar
+OR_007,CA_003,0.7313741261150367,OR_007,7,Clatsop County,41,Oregon,CA_003,3,Alpine County,6,California,similar
+WA_003,OR_007,0.7313251905672731,WA_003,3,Asotin County,53,Washington,OR_007,7,Clatsop County,41,Oregon,similar
+OR_007,WA_003,0.7313251905672731,OR_007,7,Clatsop County,41,Oregon,WA_003,3,Asotin County,53,Washington,similar
+OR_007,NV_001,0.7312963306422341,OR_007,7,Clatsop County,41,Oregon,NV_001,1,Churchill County,32,Nevada,similar
+NV_001,OR_007,0.7312963306422341,NV_001,1,Churchill County,32,Nevada,OR_007,7,Clatsop County,41,Oregon,similar
+TN_003,AZ_007,0.731093030605709,TN_003,3,Bedford County,47,Tennessee,AZ_007,7,Gila County,4,Arizona,similar
+AZ_007,TN_003,0.731093030605709,AZ_007,7,Gila County,4,Arizona,TN_003,3,Bedford County,47,Tennessee,similar
+NE_003,MT_007,0.7309167966575629,NE_003,3,Antelope County,31,Nebraska,MT_007,7,Broadwater County,30,Montana,similar
+MT_007,NE_003,0.7309167966575629,MT_007,7,Broadwater County,30,Montana,NE_003,3,Antelope County,31,Nebraska,similar
+WY_003,SD_009,0.7308581736812331,WY_003,3,Big Horn County,56,Wyoming,SD_009,9,Bon Homme County,46,South Dakota,similar
+SD_009,WY_003,0.7308581736812331,SD_009,9,Bon Homme County,46,South Dakota,WY_003,3,Big Horn County,56,Wyoming,similar
+IN_003,IN_005,0.7307464586728314,IN_003,3,Allen County,18,Indiana,IN_005,5,Bartholomew County,18,Indiana,similar
+IN_005,IN_003,0.7307464586728314,IN_005,5,Bartholomew County,18,Indiana,IN_003,3,Allen County,18,Indiana,similar
+IN_001,OH_007,0.7306653157945443,IN_001,1,Adams County,18,Indiana,OH_007,7,Ashtabula County,39,Ohio,similar
+OH_007,IN_001,0.7306653157945443,OH_007,7,Ashtabula County,39,Ohio,IN_001,1,Adams County,18,Indiana,similar
+UT_007,UT_003,0.7303394149036501,UT_007,7,Carbon County,49,Utah,UT_003,3,Box Elder County,49,Utah,similar
+UT_003,UT_007,0.7303394149036501,UT_003,3,Box Elder County,49,Utah,UT_007,7,Carbon County,49,Utah,similar
+MS_001,AL_001,0.7300900275532343,MS_001,1,Adams County,28,Mississippi,AL_001,1,Autauga County,1,Alabama,similar
+AL_001,MS_001,0.7300900275532343,AL_001,1,Autauga County,1,Alabama,MS_001,1,Adams County,28,Mississippi,similar
+MT_005,OH_001,0.7299327765979315,MT_005,5,Blaine County,30,Montana,OH_001,1,Adams County,39,Ohio,similar
+OH_001,MT_005,0.7299327765979315,OH_001,1,Adams County,39,Ohio,MT_005,5,Blaine County,30,Montana,similar
+KY_009,GA_001,0.7296379013536708,KY_009,9,Barren County,21,Kentucky,GA_001,1,Appling County,13,Georgia,similar
+GA_001,KY_009,0.7296379013536708,GA_001,1,Appling County,13,Georgia,KY_009,9,Barren County,21,Kentucky,similar
+TX_001,AZ_009,0.7294369955820265,TX_001,1,Anderson County,48,Texas,AZ_009,9,Graham County,4,Arizona,similar
+AZ_009,TX_001,0.7294369955820265,AZ_009,9,Graham County,4,Arizona,TX_001,1,Anderson County,48,Texas,similar
+AR_003,WV_009,0.7293784941924446,AR_003,3,Ashley County,5,Arkansas,WV_009,9,Brooke County,54,West Virginia,similar
+WV_009,AR_003,0.7293784941924446,WV_009,9,Brooke County,54,West Virginia,AR_003,3,Ashley County,5,Arkansas,similar
+IN_009,WV_001,0.7293432047203507,IN_009,9,Blackford County,18,Indiana,WV_001,1,Barbour County,54,West Virginia,similar
+WV_001,IN_009,0.7293432047203507,WV_001,1,Barbour County,54,West Virginia,IN_009,9,Blackford County,18,Indiana,similar
+OR_005,VA_003,0.72889114071267,OR_005,5,Clackamas County,41,Oregon,VA_003,3,Albemarle County,51,Virginia,similar
+VA_003,OR_005,0.72889114071267,VA_003,3,Albemarle County,51,Virginia,OR_005,5,Clackamas County,41,Oregon,similar
+AZ_001,MO_001,0.7288659352446082,AZ_001,1,Apache County,4,Arizona,MO_001,1,Adair County,29,Missouri,similar
+MO_001,AZ_001,0.7288659352446082,MO_001,1,Adair County,29,Missouri,AZ_001,1,Apache County,4,Arizona,similar
+TN_005,FL_007,0.7286934185092165,TN_005,5,Benton County,47,Tennessee,FL_007,7,Bradford County,12,Florida,similar
+FL_007,TN_005,0.7286934185092165,FL_007,7,Bradford County,12,Florida,TN_005,5,Benton County,47,Tennessee,similar
+MT_001,WA_003,0.7285737665708026,MT_001,1,Beaverhead County,30,Montana,WA_003,3,Asotin County,53,Washington,similar
+WA_003,MT_001,0.7285737665708026,WA_003,3,Asotin County,53,Washington,MT_001,1,Beaverhead County,30,Montana,similar
+CO_001,AL_003,0.7276580452375273,CO_001,1,Adams County,8,Colorado,AL_003,3,Baldwin County,1,Alabama,similar
+AL_003,CO_001,0.7276580452375273,AL_003,3,Baldwin County,1,Alabama,CO_001,1,Adams County,8,Colorado,similar
+SC_001,WV_001,0.7275321890631462,SC_001,1,Abbeville County,45,South Carolina,WV_001,1,Barbour County,54,West Virginia,similar
+WV_001,SC_001,0.7275321890631462,WV_001,1,Barbour County,54,West Virginia,SC_001,1,Abbeville County,45,South Carolina,similar
+SC_001,KY_005,0.7272872257698607,SC_001,1,Abbeville County,45,South Carolina,KY_005,5,Anderson County,21,Kentucky,similar
+KY_005,SC_001,0.7272872257698607,KY_005,5,Anderson County,21,Kentucky,SC_001,1,Abbeville County,45,South Carolina,similar
+ND_005,NM_006,0.7272299211514371,ND_005,5,Benson County,38,North Dakota,NM_006,6,Cibola County,35,New Mexico,similar
+NM_006,ND_005,0.7272299211514371,NM_006,6,Cibola County,35,New Mexico,ND_005,5,Benson County,38,North Dakota,similar
+UT_005,UT_007,0.7268583394287387,UT_005,5,Cache County,49,Utah,UT_007,7,Carbon County,49,Utah,similar
+UT_007,UT_005,0.7268583394287387,UT_007,7,Carbon County,49,Utah,UT_005,5,Cache County,49,Utah,similar
+KY_009,WV_009,0.7263519508389017,KY_009,9,Barren County,21,Kentucky,WV_009,9,Brooke County,54,West Virginia,similar
+WV_009,KY_009,0.7263519508389017,WV_009,9,Brooke County,54,West Virginia,KY_009,9,Barren County,21,Kentucky,similar
+FL_003,AL_007,0.7263022850901354,FL_003,3,Baker County,12,Florida,AL_007,7,Bibb County,1,Alabama,similar
+AL_007,FL_003,0.7263022850901354,AL_007,7,Bibb County,1,Alabama,FL_003,3,Baker County,12,Florida,similar
+MO_005,MO_003,0.7261852754154073,MO_005,5,Atchison County,29,Missouri,MO_003,3,Andrew County,29,Missouri,similar
+MO_003,MO_005,0.7261852754154073,MO_003,3,Andrew County,29,Missouri,MO_005,5,Atchison County,29,Missouri,similar
+LA_009,TX_005,0.7260474795290865,LA_009,9,Avoyelles Parish,22,Louisiana,TX_005,5,Angelina County,48,Texas,similar
+TX_005,LA_009,0.7260474795290865,TX_005,5,Angelina County,48,Texas,LA_009,9,Avoyelles Parish,22,Louisiana,similar
+WY_009,SD_005,0.7257985384576616,WY_009,9,Converse County,56,Wyoming,SD_005,5,Beadle County,46,South Dakota,similar
+SD_005,WY_009,0.7257985384576616,SD_005,5,Beadle County,46,South Dakota,WY_009,9,Converse County,56,Wyoming,similar
+NC_001,OH_003,0.7255027112895462,NC_001,1,Alamance County,37,North Carolina,OH_003,3,Allen County,39,Ohio,similar
+OH_003,NC_001,0.7255027112895462,OH_003,3,Allen County,39,Ohio,NC_001,1,Alamance County,37,North Carolina,similar
+KY_003,AL_009,0.7251304555556012,KY_003,3,Allen County,21,Kentucky,AL_009,9,Blount County,1,Alabama,similar
+AL_009,KY_003,0.7251304555556012,AL_009,9,Blount County,1,Alabama,KY_003,3,Allen County,21,Kentucky,similar
+GA_009,NM_006,0.7248614910445496,GA_009,9,Baldwin County,13,Georgia,NM_006,6,Cibola County,35,New Mexico,similar
+NM_006,GA_009,0.7248614910445496,NM_006,6,Cibola County,35,New Mexico,GA_009,9,Baldwin County,13,Georgia,similar
+AR_005,MS_001,0.7245044578312863,AR_005,5,Baxter County,5,Arkansas,MS_001,1,Adams County,28,Mississippi,similar
+MS_001,AR_005,0.7245044578312863,MS_001,1,Adams County,28,Mississippi,AR_005,5,Baxter County,5,Arkansas,similar
+NE_003,MT_001,0.7239319159302269,NE_003,3,Antelope County,31,Nebraska,MT_001,1,Beaverhead County,30,Montana,similar
+MT_001,NE_003,0.7239319159302269,MT_001,1,Beaverhead County,30,Montana,NE_003,3,Antelope County,31,Nebraska,similar
+OK_005,KY_005,0.7238233055271909,OK_005,5,Atoka County,40,Oklahoma,KY_005,5,Anderson County,21,Kentucky,similar
+KY_005,OK_005,0.7238233055271909,KY_005,5,Anderson County,21,Kentucky,OK_005,5,Atoka County,40,Oklahoma,similar
+AL_003,IN_003,0.7234559623415787,AL_003,3,Baldwin County,1,Alabama,IN_003,3,Allen County,18,Indiana,similar
+IN_003,AL_003,0.7234559623415787,IN_003,3,Allen County,18,Indiana,AL_003,3,Baldwin County,1,Alabama,similar
+FL_001,AZ_003,0.7231157875162347,FL_001,1,Alachua County,12,Florida,AZ_003,3,Cochise County,4,Arizona,similar
+AZ_003,FL_001,0.7231157875162347,AZ_003,3,Cochise County,4,Arizona,FL_001,1,Alachua County,12,Florida,similar
+OH_003,DE_001,0.7225694077112159,OH_003,3,Allen County,39,Ohio,DE_001,1,Kent County,10,Delaware,similar
+DE_001,OH_003,0.7225694077112159,DE_001,1,Kent County,10,Delaware,OH_003,3,Allen County,39,Ohio,similar
+OR_003,OR_009,0.7225645360460003,OR_003,3,Benton County,41,Oregon,OR_009,9,Columbia County,41,Oregon,similar
+OR_009,OR_003,0.7225645360460003,OR_009,9,Columbia County,41,Oregon,OR_003,3,Benton County,41,Oregon,similar
+IN_003,OR_005,0.7223055926994854,IN_003,3,Allen County,18,Indiana,OR_005,5,Clackamas County,41,Oregon,similar
+OR_005,IN_003,0.7223055926994854,OR_005,5,Clackamas County,41,Oregon,IN_003,3,Allen County,18,Indiana,similar
+SC_009,LA_001,0.7216986878432807,SC_009,9,Bamberg County,45,South Carolina,LA_001,1,Acadia Parish,22,Louisiana,similar
+LA_001,SC_009,0.7216986878432807,LA_001,1,Acadia Parish,22,Louisiana,SC_009,9,Bamberg County,45,South Carolina,similar
+TN_003,NC_003,0.7216693734824486,TN_003,3,Bedford County,47,Tennessee,NC_003,3,Alexander County,37,North Carolina,similar
+NC_003,TN_003,0.7216693734824486,NC_003,3,Alexander County,37,North Carolina,TN_003,3,Bedford County,47,Tennessee,similar
+UT_009,MT_009,0.7213403530604986,UT_009,9,Daggett County,49,Utah,MT_009,9,Carbon County,30,Montana,similar
+MT_009,UT_009,0.7213403530604986,MT_009,9,Carbon County,30,Montana,UT_009,9,Daggett County,49,Utah,similar
+TN_005,MS_003,0.7212480757131008,TN_005,5,Benton County,47,Tennessee,MS_003,3,Alcorn County,28,Mississippi,similar
+MS_003,TN_005,0.7212480757131008,MS_003,3,Alcorn County,28,Mississippi,TN_005,5,Benton County,47,Tennessee,similar
+AL_007,NC_007,0.7212337489479893,AL_007,7,Bibb County,1,Alabama,NC_007,7,Anson County,37,North Carolina,similar
+NC_007,AL_007,0.7212337489479893,NC_007,7,Anson County,37,North Carolina,AL_007,7,Bibb County,1,Alabama,similar
+NV_005,OR_005,0.7209237013537902,NV_005,5,Douglas County,32,Nevada,OR_005,5,Clackamas County,41,Oregon,similar
+OR_005,NV_005,0.7209237013537902,OR_005,5,Clackamas County,41,Oregon,NV_005,5,Douglas County,32,Nevada,similar
+AL_005,OH_001,0.7207673419166369,AL_005,5,Barbour County,1,Alabama,OH_001,1,Adams County,39,Ohio,similar
+OH_001,AL_005,0.7207673419166369,OH_001,1,Adams County,39,Ohio,AL_005,5,Barbour County,1,Alabama,similar
+GA_001,WV_009,0.7206824110475986,GA_001,1,Appling County,13,Georgia,WV_009,9,Brooke County,54,West Virginia,similar
+WV_009,GA_001,0.7206824110475986,WV_009,9,Brooke County,54,West Virginia,GA_001,1,Appling County,13,Georgia,similar
+DE_005,CA_001,0.7203431037346528,DE_005,5,Sussex County,10,Delaware,CA_001,1,Alameda County,6,California,similar
+CA_001,DE_005,0.7203431037346528,CA_001,1,Alameda County,6,California,DE_005,5,Sussex County,10,Delaware,similar
+MS_003,TX_005,0.720252147832689,MS_003,3,Alcorn County,28,Mississippi,TX_005,5,Angelina County,48,Texas,similar
+TX_005,MS_003,0.720252147832689,TX_005,5,Angelina County,48,Texas,MS_003,3,Alcorn County,28,Mississippi,similar
+WY_007,SD_009,0.7200268275335431,WY_007,7,Carbon County,56,Wyoming,SD_009,9,Bon Homme County,46,South Dakota,similar
+SD_009,WY_007,0.7200268275335431,SD_009,9,Bon Homme County,46,South Dakota,WY_007,7,Carbon County,56,Wyoming,similar
+TN_003,KY_001,0.7199262394936804,TN_003,3,Bedford County,47,Tennessee,KY_001,1,Adair County,21,Kentucky,similar
+KY_001,TN_003,0.7199262394936804,KY_001,1,Adair County,21,Kentucky,TN_003,3,Bedford County,47,Tennessee,similar
+WV_001,MS_007,0.7197580352980094,WV_001,1,Barbour County,54,West Virginia,MS_007,7,Attala County,28,Mississippi,similar
+MS_007,WV_001,0.7197580352980094,MS_007,7,Attala County,28,Mississippi,WV_001,1,Barbour County,54,West Virginia,similar
+AR_005,SC_009,0.7195111551574265,AR_005,5,Baxter County,5,Arkansas,SC_009,9,Bamberg County,45,South Carolina,similar
+SC_009,AR_005,0.7195111551574265,SC_009,9,Bamberg County,45,South Carolina,AR_005,5,Baxter County,5,Arkansas,similar
+ND_003,WY_003,0.7193116225931577,ND_003,3,Barnes County,38,North Dakota,WY_003,3,Big Horn County,56,Wyoming,similar
+WY_003,ND_003,0.7193116225931577,WY_003,3,Big Horn County,56,Wyoming,ND_003,3,Barnes County,38,North Dakota,similar
+OK_001,MO_007,0.7188027204612559,OK_001,1,Adair County,40,Oklahoma,MO_007,7,Audrain County,29,Missouri,similar
+MO_007,OK_001,0.7188027204612559,MO_007,7,Audrain County,29,Missouri,OK_001,1,Adair County,40,Oklahoma,similar
+WA_005,IL_007,0.7187210891069999,WA_005,5,Benton County,53,Washington,IL_007,7,Boone County,17,Illinois,similar
+IL_007,WA_005,0.7187210891069999,IL_007,7,Boone County,17,Illinois,WA_005,5,Benton County,53,Washington,similar
+SC_001,MS_001,0.718406961733777,SC_001,1,Abbeville County,45,South Carolina,MS_001,1,Adams County,28,Mississippi,similar
+MS_001,SC_001,0.718406961733777,MS_001,1,Adams County,28,Mississippi,SC_001,1,Abbeville County,45,South Carolina,similar
+AZ_001,IN_001,0.7179625026677995,AZ_001,1,Apache County,4,Arizona,IN_001,1,Adams County,18,Indiana,similar
+IN_001,AZ_001,0.7179625026677995,IN_001,1,Adams County,18,Indiana,AZ_001,1,Apache County,4,Arizona,similar
+UT_009,VA_005,0.7178493002791502,UT_009,9,Daggett County,49,Utah,VA_005,5,Alleghany County,51,Virginia,similar
+VA_005,UT_009,0.7178493002791502,VA_005,5,Alleghany County,51,Virginia,UT_009,9,Daggett County,49,Utah,similar
+MT_001,NV_007,0.7171364143473822,MT_001,1,Beaverhead County,30,Montana,NV_007,7,Elko County,32,Nevada,similar
+NV_007,MT_001,0.7171364143473822,NV_007,7,Elko County,32,Nevada,MT_001,1,Beaverhead County,30,Montana,similar
+LA_009,VA_001,0.7170587584446881,LA_009,9,Avoyelles Parish,22,Louisiana,VA_001,1,Accomack County,51,Virginia,similar
+VA_001,LA_009,0.7170587584446881,VA_001,1,Accomack County,51,Virginia,LA_009,9,Avoyelles Parish,22,Louisiana,similar
+TN_005,AR_003,0.7170381435631811,TN_005,5,Benton County,47,Tennessee,AR_003,3,Ashley County,5,Arkansas,similar
+AR_003,TN_005,0.7170381435631811,AR_003,3,Ashley County,5,Arkansas,TN_005,5,Benton County,47,Tennessee,similar
+SC_001,LA_009,0.7166170648769888,SC_001,1,Abbeville County,45,South Carolina,LA_009,9,Avoyelles Parish,22,Louisiana,similar
+LA_009,SC_001,0.7166170648769888,LA_009,9,Avoyelles Parish,22,Louisiana,SC_001,1,Abbeville County,45,South Carolina,similar
+GA_007,SC_009,0.716314567952407,GA_007,7,Baker County,13,Georgia,SC_009,9,Bamberg County,45,South Carolina,similar
+SC_009,GA_007,0.716314567952407,SC_009,9,Bamberg County,45,South Carolina,GA_007,7,Baker County,13,Georgia,similar
+OH_007,TN_001,0.7162271653341564,OH_007,7,Ashtabula County,39,Ohio,TN_001,1,Anderson County,47,Tennessee,similar
+TN_001,OH_007,0.7162271653341564,TN_001,1,Anderson County,47,Tennessee,OH_007,7,Ashtabula County,39,Ohio,similar
+AL_003,NV_003,0.7161652388939084,AL_003,3,Baldwin County,1,Alabama,NV_003,3,Clark County,32,Nevada,similar
+NV_003,AL_003,0.7161652388939084,NV_003,3,Clark County,32,Nevada,AL_003,3,Baldwin County,1,Alabama,similar
+DE_005,OR_005,0.7159502283115555,DE_005,5,Sussex County,10,Delaware,OR_005,5,Clackamas County,41,Oregon,similar
+OR_005,DE_005,0.7159502283115555,OR_005,5,Clackamas County,41,Oregon,DE_005,5,Sussex County,10,Delaware,similar
+LA_009,AL_009,0.7154592871550436,LA_009,9,Avoyelles Parish,22,Louisiana,AL_009,9,Blount County,1,Alabama,similar
+AL_009,LA_009,0.7154592871550436,AL_009,9,Blount County,1,Alabama,LA_009,9,Avoyelles Parish,22,Louisiana,similar
+OK_005,OH_001,0.7153841999030842,OK_005,5,Atoka County,40,Oklahoma,OH_001,1,Adams County,39,Ohio,similar
+OH_001,OK_005,0.7153841999030842,OH_001,1,Adams County,39,Ohio,OK_005,5,Atoka County,40,Oklahoma,similar
+NM_009,NM_005,0.7150242559022733,NM_009,9,Curry County,35,New Mexico,NM_005,5,Chaves County,35,New Mexico,similar
+NM_005,NM_009,0.7150242559022733,NM_005,5,Chaves County,35,New Mexico,NM_009,9,Curry County,35,New Mexico,similar
+NV_001,WA_009,0.7149620819494811,NV_001,1,Churchill County,32,Nevada,WA_009,9,Clallam County,53,Washington,similar
+WA_009,NV_001,0.7149620819494811,WA_009,9,Clallam County,53,Washington,NV_001,1,Churchill County,32,Nevada,similar
+KY_009,AL_007,0.7149151329605691,KY_009,9,Barren County,21,Kentucky,AL_007,7,Bibb County,1,Alabama,similar
+AL_007,KY_009,0.7149151329605691,AL_007,7,Bibb County,1,Alabama,KY_009,9,Barren County,21,Kentucky,similar
+NV_005,MD_003,0.7144676795097427,NV_005,5,Douglas County,32,Nevada,MD_003,3,Anne Arundel County,24,Maryland,similar
+MD_003,NV_005,0.7144676795097427,MD_003,3,Anne Arundel County,24,Maryland,NV_005,5,Douglas County,32,Nevada,similar
+KY_009,WV_003,0.7144169207014383,KY_009,9,Barren County,21,Kentucky,WV_003,3,Berkeley County,54,West Virginia,similar
+WV_003,KY_009,0.7144169207014383,WV_003,3,Berkeley County,54,West Virginia,KY_009,9,Barren County,21,Kentucky,similar
+TX_005,FL_007,0.7143167575582036,TX_005,5,Angelina County,48,Texas,FL_007,7,Bradford County,12,Florida,similar
+FL_007,TX_005,0.7143167575582036,FL_007,7,Bradford County,12,Florida,TX_005,5,Angelina County,48,Texas,similar
+NC_001,CO_001,0.7139787152241968,NC_001,1,Alamance County,37,North Carolina,CO_001,1,Adams County,8,Colorado,similar
+CO_001,NC_001,0.7139787152241968,CO_001,1,Adams County,8,Colorado,NC_001,1,Alamance County,37,North Carolina,similar
+AZ_003,NM_001,0.7134076722619977,AZ_003,3,Cochise County,4,Arizona,NM_001,1,Bernalillo County,35,New Mexico,similar
+NM_001,AZ_003,0.7134076722619977,NM_001,1,Bernalillo County,35,New Mexico,AZ_003,3,Cochise County,4,Arizona,similar
+KY_005,MS_003,0.7130997485601531,KY_005,5,Anderson County,21,Kentucky,MS_003,3,Alcorn County,28,Mississippi,similar
+MS_003,KY_005,0.7130997485601531,MS_003,3,Alcorn County,28,Mississippi,KY_005,5,Anderson County,21,Kentucky,similar
+LA_001,TX_005,0.7127507709941242,LA_001,1,Acadia Parish,22,Louisiana,TX_005,5,Angelina County,48,Texas,similar
+TX_005,LA_001,0.7127507709941242,TX_005,5,Angelina County,48,Texas,LA_001,1,Acadia Parish,22,Louisiana,similar
+NM_009,MO_001,0.7125940959468848,NM_009,9,Curry County,35,New Mexico,MO_001,1,Adair County,29,Missouri,similar
+MO_001,NM_009,0.7125940959468848,MO_001,1,Adair County,29,Missouri,NM_009,9,Curry County,35,New Mexico,similar
+GA_001,IN_009,0.7119831632959771,GA_001,1,Appling County,13,Georgia,IN_009,9,Blackford County,18,Indiana,similar
+IN_009,GA_001,0.7119831632959771,IN_009,9,Blackford County,18,Indiana,GA_001,1,Appling County,13,Georgia,similar
+WA_007,AZ_005,0.7112280702830949,WA_007,7,Chelan County,53,Washington,AZ_005,5,Coconino County,4,Arizona,similar
+AZ_005,WA_007,0.7112280702830949,AZ_005,5,Coconino County,4,Arizona,WA_007,7,Chelan County,53,Washington,similar
+MS_001,NM_009,0.7111840868293571,MS_001,1,Adams County,28,Mississippi,NM_009,9,Curry County,35,New Mexico,similar
+NM_009,MS_001,0.7111840868293571,NM_009,9,Curry County,35,New Mexico,MS_001,1,Adams County,28,Mississippi,similar
+OR_009,OR_001,0.711002725388748,OR_009,9,Columbia County,41,Oregon,OR_001,1,Baker County,41,Oregon,similar
+OR_001,OR_009,0.711002725388748,OR_001,1,Baker County,41,Oregon,OR_009,9,Columbia County,41,Oregon,similar
+GA_007,NM_009,0.7109403996290371,GA_007,7,Baker County,13,Georgia,NM_009,9,Curry County,35,New Mexico,similar
+NM_009,GA_007,0.7109403996290371,NM_009,9,Curry County,35,New Mexico,GA_007,7,Baker County,13,Georgia,similar
+CA_001,AL_003,0.7108892205168648,CA_001,1,Alameda County,6,California,AL_003,3,Baldwin County,1,Alabama,similar
+AL_003,CA_001,0.7108892205168648,AL_003,3,Baldwin County,1,Alabama,CA_001,1,Alameda County,6,California,similar
+FL_001,FL_005,0.7103600094923304,FL_001,1,Alachua County,12,Florida,FL_005,5,Bay County,12,Florida,similar
+FL_005,FL_001,0.7103600094923304,FL_005,5,Bay County,12,Florida,FL_001,1,Alachua County,12,Florida,similar
+AL_009,WV_003,0.7103200539935296,AL_009,9,Blount County,1,Alabama,WV_003,3,Berkeley County,54,West Virginia,similar
+WV_003,AL_009,0.7103200539935296,WV_003,3,Berkeley County,54,West Virginia,AL_009,9,Blount County,1,Alabama,similar
+MO_007,IN_007,0.7097589180754967,MO_007,7,Audrain County,29,Missouri,IN_007,7,Benton County,18,Indiana,similar
+IN_007,MO_007,0.7097589180754967,IN_007,7,Benton County,18,Indiana,MO_007,7,Audrain County,29,Missouri,similar
+AL_001,LA_007,0.7097547420481225,AL_001,1,Autauga County,1,Alabama,LA_007,7,Assumption Parish,22,Louisiana,similar
+LA_007,AL_001,0.7097547420481225,LA_007,7,Assumption Parish,22,Louisiana,AL_001,1,Autauga County,1,Alabama,similar
+WA_009,OR_005,0.7094489694476077,WA_009,9,Clallam County,53,Washington,OR_005,5,Clackamas County,41,Oregon,similar
+OR_005,WA_009,0.7094489694476077,OR_005,5,Clackamas County,41,Oregon,WA_009,9,Clallam County,53,Washington,similar
+TN_003,OK_001,0.7093699637306742,TN_003,3,Bedford County,47,Tennessee,OK_001,1,Adair County,40,Oklahoma,similar
+OK_001,TN_003,0.7093699637306742,OK_001,1,Adair County,40,Oklahoma,TN_003,3,Bedford County,47,Tennessee,similar
+WV_009,MS_003,0.7092690731256467,WV_009,9,Brooke County,54,West Virginia,MS_003,3,Alcorn County,28,Mississippi,similar
+MS_003,WV_009,0.7092690731256467,MS_003,3,Alcorn County,28,Mississippi,WV_009,9,Brooke County,54,West Virginia,similar
+MO_005,KS_001,0.7092275826174408,MO_005,5,Atchison County,29,Missouri,KS_001,1,Allen County,20,Kansas,similar
+KS_001,MO_005,0.7092275826174408,KS_001,1,Allen County,20,Kansas,MO_005,5,Atchison County,29,Missouri,similar
+TN_005,GA_009,0.7091807445025884,TN_005,5,Benton County,47,Tennessee,GA_009,9,Baldwin County,13,Georgia,similar
+GA_009,TN_005,0.7091807445025884,GA_009,9,Baldwin County,13,Georgia,TN_005,5,Benton County,47,Tennessee,similar
+VA_005,NE_003,0.7089812467366277,VA_005,5,Alleghany County,51,Virginia,NE_003,3,Antelope County,31,Nebraska,similar
+NE_003,VA_005,0.7089812467366277,NE_003,3,Antelope County,31,Nebraska,VA_005,5,Alleghany County,51,Virginia,similar
+AL_001,AR_009,0.7087967569661185,AL_001,1,Autauga County,1,Alabama,AR_009,9,Boone County,5,Arkansas,similar
+AR_009,AL_001,0.7087967569661185,AR_009,9,Boone County,5,Arkansas,AL_001,1,Autauga County,1,Alabama,similar
+LA_003,NM_009,0.7086692821071346,LA_003,3,Allen Parish,22,Louisiana,NM_009,9,Curry County,35,New Mexico,similar
+NM_009,LA_003,0.7086692821071346,NM_009,9,Curry County,35,New Mexico,LA_003,3,Allen Parish,22,Louisiana,similar
+TN_007,GA_009,0.7086413937530361,TN_007,7,Bledsoe County,47,Tennessee,GA_009,9,Baldwin County,13,Georgia,similar
+GA_009,TN_007,0.7086413937530361,GA_009,9,Baldwin County,13,Georgia,TN_007,7,Bledsoe County,47,Tennessee,similar
+WA_007,VA_003,0.7084845031751078,WA_007,7,Chelan County,53,Washington,VA_003,3,Albemarle County,51,Virginia,similar
+VA_003,WA_007,0.7084845031751078,VA_003,3,Albemarle County,51,Virginia,WA_007,7,Chelan County,53,Washington,similar
+CO_007,CA_005,0.7084478160058726,CO_007,7,Archuleta County,8,Colorado,CA_005,5,Amador County,6,California,similar
+CA_005,CO_007,0.7084478160058726,CA_005,5,Amador County,6,California,CO_007,7,Archuleta County,8,Colorado,similar
+ND_005,MO_001,0.7082309843123792,ND_005,5,Benson County,38,North Dakota,MO_001,1,Adair County,29,Missouri,similar
+MO_001,ND_005,0.7082309843123792,MO_001,1,Adair County,29,Missouri,ND_005,5,Benson County,38,North Dakota,similar
+FL_009,AZ_003,0.7080484867796448,FL_009,9,Brevard County,12,Florida,AZ_003,3,Cochise County,4,Arizona,similar
+AZ_003,FL_009,0.7080484867796448,AZ_003,3,Cochise County,4,Arizona,FL_009,9,Brevard County,12,Florida,similar
+GA_001,FL_007,0.7079401183491664,GA_001,1,Appling County,13,Georgia,FL_007,7,Bradford County,12,Florida,similar
+FL_007,GA_001,0.7079401183491664,FL_007,7,Bradford County,12,Florida,GA_001,1,Appling County,13,Georgia,similar
+WA_005,MD_003,0.7073112823604341,WA_005,5,Benton County,53,Washington,MD_003,3,Anne Arundel County,24,Maryland,similar
+MD_003,WA_005,0.7073112823604341,MD_003,3,Anne Arundel County,24,Maryland,WA_005,5,Benton County,53,Washington,similar
+SC_001,VA_001,0.7071569267161264,SC_001,1,Abbeville County,45,South Carolina,VA_001,1,Accomack County,51,Virginia,similar
+VA_001,SC_001,0.7071569267161264,VA_001,1,Accomack County,51,Virginia,SC_001,1,Abbeville County,45,South Carolina,similar
+WY_001,MT_001,0.7071559787881467,WY_001,1,Albany County,56,Wyoming,MT_001,1,Beaverhead County,30,Montana,similar
+MT_001,WY_001,0.7071559787881467,MT_001,1,Beaverhead County,30,Montana,WY_001,1,Albany County,56,Wyoming,similar
+TN_001,AL_009,0.7070072764675951,TN_001,1,Anderson County,47,Tennessee,AL_009,9,Blount County,1,Alabama,similar
+AL_009,TN_001,0.7070072764675951,AL_009,9,Blount County,1,Alabama,TN_001,1,Anderson County,47,Tennessee,similar
+VA_001,GA_001,0.7069242074653738,VA_001,1,Accomack County,51,Virginia,GA_001,1,Appling County,13,Georgia,similar
+GA_001,VA_001,0.7069242074653738,GA_001,1,Appling County,13,Georgia,VA_001,1,Accomack County,51,Virginia,similar
+WY_001,AZ_005,0.7064309092556612,WY_001,1,Albany County,56,Wyoming,AZ_005,5,Coconino County,4,Arizona,similar
+AZ_005,WY_001,0.7064309092556612,AZ_005,5,Coconino County,4,Arizona,WY_001,1,Albany County,56,Wyoming,similar
+WY_003,SD_005,0.7064180807353972,WY_003,3,Big Horn County,56,Wyoming,SD_005,5,Beadle County,46,South Dakota,similar
+SD_005,WY_003,0.7064180807353972,SD_005,5,Beadle County,46,South Dakota,WY_003,3,Big Horn County,56,Wyoming,similar
+FL_003,TN_003,0.7062890153270085,FL_003,3,Baker County,12,Florida,TN_003,3,Bedford County,47,Tennessee,similar
+TN_003,FL_003,0.7062890153270085,TN_003,3,Bedford County,47,Tennessee,FL_003,3,Baker County,12,Florida,similar
+ID_005,CO_007,0.7057614110422163,ID_005,5,Bannock County,16,Idaho,CO_007,7,Archuleta County,8,Colorado,similar
+CO_007,ID_005,0.7057614110422163,CO_007,7,Archuleta County,8,Colorado,ID_005,5,Bannock County,16,Idaho,similar
+FL_007,KY_009,0.7056803336373432,FL_007,7,Bradford County,12,Florida,KY_009,9,Barren County,21,Kentucky,similar
+KY_009,FL_007,0.7056803336373432,KY_009,9,Barren County,21,Kentucky,FL_007,7,Bradford County,12,Florida,similar
+WY_001,NV_007,0.7052738449297249,WY_001,1,Albany County,56,Wyoming,NV_007,7,Elko County,32,Nevada,similar
+NV_007,WY_001,0.7052738449297249,NV_007,7,Elko County,32,Nevada,WY_001,1,Albany County,56,Wyoming,similar
+OK_005,MS_009,0.7051393768706847,OK_005,5,Atoka County,40,Oklahoma,MS_009,9,Benton County,28,Mississippi,similar
+MS_009,OK_005,0.7051393768706847,MS_009,9,Benton County,28,Mississippi,OK_005,5,Atoka County,40,Oklahoma,similar
+WA_009,OR_001,0.7049574067265826,WA_009,9,Clallam County,53,Washington,OR_001,1,Baker County,41,Oregon,similar
+OR_001,WA_009,0.7049574067265826,OR_001,1,Baker County,41,Oregon,WA_009,9,Clallam County,53,Washington,similar
+OK_001,FL_007,0.7048566987351483,OK_001,1,Adair County,40,Oklahoma,FL_007,7,Bradford County,12,Florida,similar
+FL_007,OK_001,0.7048566987351483,FL_007,7,Bradford County,12,Florida,OK_001,1,Adair County,40,Oklahoma,similar
+AZ_005,CA_009,0.7044751194916111,AZ_005,5,Coconino County,4,Arizona,CA_009,9,Calaveras County,6,California,similar
+CA_009,AZ_005,0.7044751194916111,CA_009,9,Calaveras County,6,California,AZ_005,5,Coconino County,4,Arizona,similar
+TN_009,IN_003,0.7043539360366569,TN_009,9,Blount County,47,Tennessee,IN_003,3,Allen County,18,Indiana,similar
+IN_003,TN_009,0.7043539360366569,IN_003,3,Allen County,18,Indiana,TN_009,9,Blount County,47,Tennessee,similar
+TN_003,AR_009,0.7041701107369088,TN_003,3,Bedford County,47,Tennessee,AR_009,9,Boone County,5,Arkansas,similar
+AR_009,TN_003,0.7041701107369088,AR_009,9,Boone County,5,Arkansas,TN_003,3,Bedford County,47,Tennessee,similar
+GA_001,LA_003,0.7041599727431509,GA_001,1,Appling County,13,Georgia,LA_003,3,Allen Parish,22,Louisiana,similar
+LA_003,GA_001,0.7041599727431509,LA_003,3,Allen Parish,22,Louisiana,GA_001,1,Appling County,13,Georgia,similar
+VA_001,AL_005,0.7041155908986616,VA_001,1,Accomack County,51,Virginia,AL_005,5,Barbour County,1,Alabama,similar
+AL_005,VA_001,0.7041155908986616,AL_005,5,Barbour County,1,Alabama,VA_001,1,Accomack County,51,Virginia,similar
+SC_001,LA_007,0.7036593544835068,SC_001,1,Abbeville County,45,South Carolina,LA_007,7,Assumption Parish,22,Louisiana,similar
+LA_007,SC_001,0.7036593544835068,LA_007,7,Assumption Parish,22,Louisiana,SC_001,1,Abbeville County,45,South Carolina,similar
+TN_005,MS_007,0.703545815773297,TN_005,5,Benton County,47,Tennessee,MS_007,7,Attala County,28,Mississippi,similar
+MS_007,TN_005,0.703545815773297,MS_007,7,Attala County,28,Mississippi,TN_005,5,Benton County,47,Tennessee,similar
+DE_005,AR_007,0.7035372950849967,DE_005,5,Sussex County,10,Delaware,AR_007,7,Benton County,5,Arkansas,similar
+AR_007,DE_005,0.7035372950849967,AR_007,7,Benton County,5,Arkansas,DE_005,5,Sussex County,10,Delaware,similar
+WY_001,WA_007,0.7034946353168801,WY_001,1,Albany County,56,Wyoming,WA_007,7,Chelan County,53,Washington,similar
+WA_007,WY_001,0.7034946353168801,WA_007,7,Chelan County,53,Washington,WY_001,1,Albany County,56,Wyoming,similar
+TX_005,AL_005,0.7032773469740056,TX_005,5,Angelina County,48,Texas,AL_005,5,Barbour County,1,Alabama,similar
+AL_005,TX_005,0.7032773469740056,AL_005,5,Barbour County,1,Alabama,TX_005,5,Angelina County,48,Texas,similar
+OH_007,TN_009,0.7031204732724955,OH_007,7,Ashtabula County,39,Ohio,TN_009,9,Blount County,47,Tennessee,similar
+TN_009,OH_007,0.7031204732724955,TN_009,9,Blount County,47,Tennessee,OH_007,7,Ashtabula County,39,Ohio,similar
+KS_001,KY_005,0.7027980421677626,KS_001,1,Allen County,20,Kansas,KY_005,5,Anderson County,21,Kentucky,similar
+KY_005,KS_001,0.7027980421677626,KY_005,5,Anderson County,21,Kentucky,KS_001,1,Allen County,20,Kansas,similar
+IA_001,IA_007,0.7026361362621024,IA_001,1,Adair County,19,Iowa,IA_007,7,Appanoose County,19,Iowa,similar
+IA_007,IA_001,0.7026361362621024,IA_007,7,Appanoose County,19,Iowa,IA_001,1,Adair County,19,Iowa,similar
+MS_001,MO_009,0.7023614012274394,MS_001,1,Adams County,28,Mississippi,MO_009,9,Barry County,29,Missouri,similar
+MO_009,MS_001,0.7023614012274394,MO_009,9,Barry County,29,Missouri,MS_001,1,Adams County,28,Mississippi,similar
+FL_003,TX_005,0.7020504817750531,FL_003,3,Baker County,12,Florida,TX_005,5,Angelina County,48,Texas,similar
+TX_005,FL_003,0.7020504817750531,TX_005,5,Angelina County,48,Texas,FL_003,3,Baker County,12,Florida,similar
+OK_005,NC_003,0.7019875702773022,OK_005,5,Atoka County,40,Oklahoma,NC_003,3,Alexander County,37,North Carolina,similar
+NC_003,OK_005,0.7019875702773022,NC_003,3,Alexander County,37,North Carolina,OK_005,5,Atoka County,40,Oklahoma,similar
+MT_007,WY_003,0.7018812004110707,MT_007,7,Broadwater County,30,Montana,WY_003,3,Big Horn County,56,Wyoming,similar
+WY_003,MT_007,0.7018812004110707,WY_003,3,Big Horn County,56,Wyoming,MT_007,7,Broadwater County,30,Montana,similar
+ID_003,WA_009,0.7017248219958803,ID_003,3,Adams County,16,Idaho,WA_009,9,Clallam County,53,Washington,similar
+WA_009,ID_003,0.7017248219958803,WA_009,9,Clallam County,53,Washington,ID_003,3,Adams County,16,Idaho,similar
+OR_003,ID_001,0.7016361251551121,OR_003,3,Benton County,41,Oregon,ID_001,1,Ada County,16,Idaho,similar
+ID_001,OR_003,0.7016361251551121,ID_001,1,Ada County,16,Idaho,OR_003,3,Benton County,41,Oregon,similar
+AR_007,IN_005,0.7014371240913078,AR_007,7,Benton County,5,Arkansas,IN_005,5,Bartholomew County,18,Indiana,similar
+IN_005,AR_007,0.7014371240913078,IN_005,5,Bartholomew County,18,Indiana,AR_007,7,Benton County,5,Arkansas,similar
+OK_003,IN_009,0.7013082613244156,OK_003,3,Alfalfa County,40,Oklahoma,IN_009,9,Blackford County,18,Indiana,similar
+IN_009,OK_003,0.7013082613244156,IN_009,9,Blackford County,18,Indiana,OK_003,3,Alfalfa County,40,Oklahoma,similar
+VA_003,CA_009,0.7012965464977199,VA_003,3,Albemarle County,51,Virginia,CA_009,9,Calaveras County,6,California,similar
+CA_009,VA_003,0.7012965464977199,CA_009,9,Calaveras County,6,California,VA_003,3,Albemarle County,51,Virginia,similar
+AR_009,FL_007,0.7011320708425289,AR_009,9,Boone County,5,Arkansas,FL_007,7,Bradford County,12,Florida,similar
+FL_007,AR_009,0.7011320708425289,FL_007,7,Bradford County,12,Florida,AR_009,9,Boone County,5,Arkansas,similar
+LA_009,NM_009,0.7007871427236289,LA_009,9,Avoyelles Parish,22,Louisiana,NM_009,9,Curry County,35,New Mexico,similar
+NM_009,LA_009,0.7007871427236289,NM_009,9,Curry County,35,New Mexico,LA_009,9,Avoyelles Parish,22,Louisiana,similar
+FL_007,AL_007,0.7006595718344062,FL_007,7,Bradford County,12,Florida,AL_007,7,Bibb County,1,Alabama,similar
+AL_007,FL_007,0.7006595718344062,AL_007,7,Bibb County,1,Alabama,FL_007,7,Bradford County,12,Florida,similar
+NM_001,FL_009,0.7001544265772858,NM_001,1,Bernalillo County,35,New Mexico,FL_009,9,Brevard County,12,Florida,similar
+FL_009,NM_001,0.7001544265772858,FL_009,9,Brevard County,12,Florida,NM_001,1,Bernalillo County,35,New Mexico,similar
+ND_003,IL_001,0.7000696907694349,ND_003,3,Barnes County,38,North Dakota,IL_001,1,Adams County,17,Illinois,similar
+IL_001,ND_003,0.7000696907694349,IL_001,1,Adams County,17,Illinois,ND_003,3,Barnes County,38,North Dakota,similar
