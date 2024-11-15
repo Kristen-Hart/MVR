@@ -11,10 +11,7 @@ from sklearn.linear_model import RidgeCV, LassoCV
 from sklearn.preprocessing import StandardScaler
 
 # loading
-data = pd.read_csv('final_dataset.csv')
-
-# grabbing columns except outflow (kelsey)
-data = data[['FIPS', 'State', 'Year', 'zillow_value', 'County', 'X..Fair.Poor', 'Physically.Unhealthy.Days', 'Mentally.Unhealthy.Days', 'X..Smokers', 'X..Obese', 'X..Physically.Inactive', 'X..Excessive.Drinking', 'X..Some.College', 'Population.1', 'X..Some.College.1', 'X..Social.Associations', 'Association.Rate', 'X..Severe.Housing.Problems', 'X..Insufficient.Sleep']]
+data = pd.read_csv('Agony - Health And Zillow Population Fixed.csv')
 
 # filtering to 2017-2021
 data = data[(data['Year'] >= 2017) & (data['Year'] <= 2021)]
@@ -22,9 +19,13 @@ data = data[(data['Year'] >= 2017) & (data['Year'] <= 2021)]
 # duplicate removal
 data = data.drop_duplicates()
 
+# Drop rows with NaN values
+data = data.dropna()
+
+
 # predictors
-X = data.drop(columns=['zillow_value', 'FIPS', 'State', 'Year', 'County'])
-y = data['zillow_value']
+X = data.drop(columns=['Zillow_Value', 'FIPS', 'State', 'Year', 'County'])
+y = data['Zillow_Value']
 
 # training and testing
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
@@ -81,7 +82,7 @@ print("\nLasso Coefficients:")
 print(lasso_coefficients.sort_values(by='Lasso Coefficient', ascending=False))
 
 # remove high VIF features to address multicollinearity
-X_train_reduced = X_train.drop(columns=['X..Some.College', 'Population.1'])  # Drop based on high VIF values
+X_train_reduced = X_train.drop(columns=['Some_College_Perc_25_44', 'Population'])  # Drop based on high VIF values
 
 # fit and check for improvement
 X_train_reduced_sm = sm.add_constant(X_train_reduced)
@@ -109,14 +110,14 @@ print(lasso_coefficients_cv.sort_values(by='Lasso Coefficient', ascending=False)
 
 # siginificant features from p values
 significant_features = [
-    'Mentally.Unhealthy.Days', 
-    'X..Smokers', 
-    'X..Obese', 
-    'X..Severe.Housing.Problems', 
-    'X..Excessive.Drinking', 
-    'X..Some.College.1', 
-    'Association.Rate', 
-    'X..Insufficient.Sleep'
+    'Ment_Unhealth_Days', 
+    'Smoke_Perc', 
+    'Obese_Perc', 
+    'Severe_Housing_Perc', 
+    'Excess_Drink_Perc', 
+    'Some_College_Perc_25_44', 
+    'Some_Association_Rate', 
+    'Insufficent_Sleep_Perc'
 ]
 
 # training set only include significant features
