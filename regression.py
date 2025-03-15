@@ -19,9 +19,8 @@ data = data[(data['Year'] >= 2017) & (data['Year'] <= 2021)]
 # duplicate removal
 data = data.drop_duplicates()
 
-# Drop rows with NaN values
+# drop rows with NaN values
 data = data.dropna()
-
 
 # predictors
 X = data.drop(columns=['Zillow_Value', 'FIPS', 'State', 'Year', 'County'])
